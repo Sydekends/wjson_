@@ -41,7 +41,7 @@ type DataType = (typeof TYPES)[number];
 
 // Define level ranges with their starting values
 const LEVEL_RANGES = [
-  0, 20, 35, 50, 65, 80, 95, 110, 125, 140, 155, 170, 185, 200, 215, 230,
+  6, 20, 35, 50, 65, 80, 95, 110, 125, 140, 155, 170, 185, 200, 215, 230,
 ];
 
 function getLevelRangeStart(level: number): number {
