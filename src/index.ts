@@ -108,6 +108,9 @@ function groupAndFilterItems(
     const rarity = item.definition.item.baseParameters.rarity;
     if (rarity > rangeEnd) console.error({ level, rangeEnd });
     groupedItems[rangeEnd][rarity].push(item);
+    // groupedItems[rangeEnd][rarity].sort(
+    //   (a, b) => a.definition.item.level - b.definition.item.level
+    // );
   });
 
   return groupedItems;
@@ -143,7 +146,11 @@ async function processAndSaveData(version: string): Promise<void> {
         const itemsLvlMaxDir = path.join(itemsDir, lvlrangeMax);
         await ensureDirectoryExists(itemsLvlMaxDir);
         const fusedItems = Object.entries(itemsByRarity).reduce(
-          (acc, [rarity, items]) => acc.concat(items),
+          (acc, [rarity, items]) =>
+            acc.concat(items).sort(
+              // Sort by level descending
+              (a, b) => b.definition.item.level - a.definition.item.level
+            ),
           [] as GameItem[]
         );
         await fs.writeFile(
@@ -151,8 +158,6 @@ async function processAndSaveData(version: string): Promise<void> {
           JSON.stringify(fusedItems, null, 2)
         );
         for (const [rarity, items] of Object.entries(itemsByRarity)) {
-          const itemsRarityDir = path.join(itemsLvlMaxDir, rarity);
-          // await ensureDirectoryExists(itemsRarityDir);
           await fs.writeFile(
             path.join(itemsLvlMaxDir, `${rarity}.json`),
             JSON.stringify(items, null, 2)
@@ -169,6 +174,7 @@ async function processAndSaveData(version: string): Promise<void> {
   }
 }
 
+export type jsoned = { [key: string]: GameItem[] };
 async function main() {
   try {
     const version = await getVersion();
