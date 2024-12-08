@@ -147,10 +147,17 @@ async function processAndSaveData(version: string): Promise<void> {
         await ensureDirectoryExists(itemsLvlMaxDir);
         const fusedItems = Object.entries(itemsByRarity).reduce(
           (acc, [rarity, items]) =>
-            acc.concat(items).sort(
-              // Sort by level descending
-              (a, b) => b.definition.item.level - a.definition.item.level
-            ),
+            acc
+              .concat(items)
+              .sort(
+                // Sort by level descending
+                (a, b) => b.definition.item.level - a.definition.item.level
+              )
+              .sort(
+                (a, b) =>
+                  b.definition.item.baseParameters.rarity -
+                  a.definition.item.baseParameters.rarity
+              ),
           [] as GameItem[]
         );
         await fs.writeFile(
