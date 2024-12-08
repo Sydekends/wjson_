@@ -28,8 +28,9 @@ const LEVEL_RANGES_MAX = [
 ];
 const RARYTY_RANGE = [0, 1, 2, 3, 4, 5, 6, 7, 8];
 function getLevelRangeEnd(level: number): number {
-  // Find the appropriate range start for the given level
-  return LEVEL_RANGES_MAX.reduce((prev, curr) => (level >= curr ? curr : prev));
+  return LEVEL_RANGES_MAX.reduce((prev, curr) => {
+    return level <= curr && level > prev ? curr : prev;
+  });
 }
 
 async function getVersion(): Promise<string> {
@@ -138,12 +139,16 @@ async function processAndSaveData(version: string): Promise<void> {
       await ensureDirectoryExists(itemsDir);
 
       // Save each level range to a separate file
-      for (const [startLevel, itemsByRarity] of Object.entries(groupedItems)) {
-        const itemsLvlMaxDir = path.join(itemsDir, startLevel);
+      for (const [lvlrangeMax, itemsByRarity] of Object.entries(groupedItems)) {
+        const itemsLvlMaxDir = path.join(itemsDir, lvlrangeMax);
         await ensureDirectoryExists(itemsLvlMaxDir);
+        const fusedItems = Object.entries(itemsByRarity).reduce(
+          (acc, [rarity, items]) => acc.concat(items),
+          [] as GameItem[]
+        );
         await fs.writeFile(
           path.join(itemsLvlMaxDir, `index.json`),
-          JSON.stringify(itemsByRarity, null, 2)
+          JSON.stringify(fusedItems, null, 2)
         );
         for (const [rarity, items] of Object.entries(itemsByRarity)) {
           const itemsRarityDir = path.join(itemsLvlMaxDir, rarity);

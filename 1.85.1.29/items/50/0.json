@@ -1,1 +1,118 @@
-[]
+[
+  {
+    "title": {
+      "fr": "Amulette de la Sourcière",
+      "en": "Richie Amulet",
+      "es": "Amuleto del seductor",
+      "pt": "Amuleto Riko"
+    },
+    "description": {
+      "fr": "« Pti Riktus n’est pas grand, mais il aime l’argent, Pti Riktus est petit, mais il est avide » \r\nExtrait d’une chanson traditionnelle Riktus.",
+      "en": "Who you callin' \nan amulet?",
+      "es": "Mini Riktus tenía un plan: \"Destruiré el mundo si no me dan... ¡un millón de kamas!\", \ndecía.",
+      "pt": "Quem você está chamando de amuleto?"
+    },
+    "definition": {
+      "item": {
+        "level": 45,
+        "id": 10604,
+        "graphicParameters": {
+          "gfxId": 12010604,
+          "femaleGfxId": 12010604
+        },
+        "baseParameters": {
+          "itemTypeId": 120,
+          "rarity": 0
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 337967,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                25,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 337966,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                75,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 337969,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                34,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 337971,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                34,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 337970,
+              "actionId": 180,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                4,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+]

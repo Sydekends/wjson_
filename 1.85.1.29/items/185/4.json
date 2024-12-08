@@ -9309,6 +9309,138 @@
   },
   {
     "title": {
+      "fr": "Anneau Péti Mécousto",
+      "en": "Lilye Tstrong Ring",
+      "es": "Anillo Mecostó",
+      "pt": "Anel Naniko Masfortch"
+    },
+    "description": {
+      "fr": "Cet anneau cache une grande force.",
+      "en": "This ring hides a great force.",
+      "es": "Ya costó, pero ya lo tienes: es un poderoso anillo de \"ya costó\".",
+      "pt": "Este anel oculta uma grande força."
+    },
+    "definition": {
+      "item": {
+        "level": 178,
+        "id": 19998,
+        "graphicParameters": {
+          "gfxId": 10319998,
+          "femaleGfxId": 10319998
+        },
+        "baseParameters": {
+          "itemTypeId": 103,
+          "rarity": 4
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 183399,
+              "actionId": 161,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 183403,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                71,
+                0,
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 183400,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                163,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 183401,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                40,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 183404,
+              "actionId": 1052,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                24,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 183405,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                18,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
       "fr": "Pèlerine Vorace",
       "en": "Voracious Cape",
       "es": "Capa voraz",

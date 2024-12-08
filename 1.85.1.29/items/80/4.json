@@ -147,6 +147,122 @@
   },
   {
     "title": {
+      "fr": "Le Dora Bora",
+      "en": "Dora Bora",
+      "es": "Dora Bora",
+      "pt": "Dora Bora"
+    },
+    "description": {
+      "fr": "Une coiffe qui était très a la mode il y a fort longtemps, aujourd’hui vous passeriez juste pour un nostalgique en la portant.",
+      "en": "This headgear was very fashionable in days gone by, but these days you'll just look like a dinosaur wearing it.",
+      "es": "Este sombrero estaba muy de moda hace mucho tiempo. Hoy en día, si te lo pones, solo pasarás por un nostálgico.",
+      "pt": "Há muito tempo, esse chapéu estava na moda. Mas, hoje em dia, a pessoa que o usa parece um dinossauro."
+    },
+    "definition": {
+      "item": {
+        "level": 70,
+        "id": 9337,
+        "graphicParameters": {
+          "gfxId": 1349337,
+          "femaleGfxId": 1349337
+        },
+        "baseParameters": {
+          "itemTypeId": 134,
+          "rarity": 4
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 80514,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                109,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 80517,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 80516,
+              "actionId": 875,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 105557,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                24,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 105556,
+              "actionId": 160,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
       "fr": "Cristal d'Excarnus",
       "en": "Excarnus's Crystal",
       "es": "Cristal de Excarnus",
@@ -793,6 +909,138 @@
               "areaSize": [],
               "params": [
                 7,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Korbotaulettes Prototype II",
+      "en": "Korbotaulettes Prototype I",
+      "es": "Corbotombreras prototipo I",
+      "pt": "Drakorvonas protótipo II"
+    },
+    "description": {
+      "fr": "Le premier prototype des Korbotaulettes fabriqué par Kabrok lui-même.",
+      "en": "The first prototype of the Korbotaulettes, made by Kabrok himself.",
+      "es": "El primer prototipo de corbotombreras fabricadas por el mismísimo Kabrok.",
+      "pt": "O primeiro protótipo das Drakorvonas fabricado pelo próprio Kabrok."
+    },
+    "definition": {
+      "item": {
+        "level": 78,
+        "id": 19442,
+        "graphicParameters": {
+          "gfxId": 13819442,
+          "femaleGfxId": 13819442
+        },
+        "baseParameters": {
+          "itemTypeId": 138,
+          "rarity": 4
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 155023,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                90,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 155026,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 155027,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                35,
+                0,
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 155024,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                15,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 155028,
+              "actionId": 149,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                8,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 155029,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
                 0
               ]
             }

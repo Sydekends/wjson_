@@ -1,27 +1,27 @@
 [
   {
     "title": {
-      "fr": "Tongs Buque",
-      "en": "Kapow Thongs",
-      "es": "Chanclas leñosas",
-      "pt": "Tamanco Kapow"
+      "fr": "La Bêêêêêlte",
+      "en": "The Beeeelt",
+      "es": "Tiuuusha",
+      "pt": "Béééélt"
     },
     "description": {
-      "fr": "Buquer à mains nues, c'est surfait, mettez donc ces tongs.",
-      "en": "Hitting with your bare hands is overrated. Awkkkkkk ooooff cr-r-a-a-ck clunk-eth.",
-      "es": "Dar leña sin protección no es recomendable, así que no dudes en ponerte estas chanclas.",
-      "pt": "Bater com as mãos nuas é tão superestimado. Iááá-háaaa!"
+      "fr": "De toute évidence, le créateur de cette ceinture avait une drôle de manière de communiquer avec son troupeau.",
+      "en": "Clearly, the creator of this belt had a funny way of communicating with his flock. ",
+      "es": "Sin duda alguna, el creador de este cinturón tenía una manera muy particular de comunicarse con su rebaño.",
+      "pt": "Quem criou este cinto tinha uma maneira bastante peculiar de se comunicar com o rebanho dele."
     },
     "definition": {
       "item": {
-        "level": 36,
-        "id": 9500,
+        "level": 21,
+        "id": 6582,
         "graphicParameters": {
-          "gfxId": 1199500,
-          "femaleGfxId": 1199500
+          "gfxId": 1336582,
+          "femaleGfxId": 1336582
         },
         "baseParameters": {
-          "itemTypeId": 119,
+          "itemTypeId": 133,
           "rarity": 1
         },
         "useParameters": {
@@ -41,219 +41,7 @@
         {
           "effect": {
             "definition": {
-              "id": 218215,
-              "actionId": 41,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                1,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 218219,
-              "actionId": 1068,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                10,
-                0,
-                1,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 218217,
-              "actionId": 173,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                10,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 218216,
-              "actionId": 20,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                24,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "fr": "Plastron Buque",
-      "en": "Kapow Breastplate",
-      "es": "Coraza leñosa",
-      "pt": "Peitoral Kapow"
-    },
-    "description": {
-      "fr": "Un plastron délicatement parfumé qui attire également les bouftous affamés des environs.",
-      "en": "A lightly perfumed breastplate which is wonderfully attractive to hungry Gobballs in the area.",
-      "es": "Una coraza delicadamente perfumada que atrae hasta los jalatós hambrientos de los alrededores.",
-      "pt": "Um peitoral levemente perfumado e que é maravilhosamente atraente para os Papatudos famintos na área."
-    },
-    "definition": {
-      "item": {
-        "level": 39,
-        "id": 9506,
-        "graphicParameters": {
-          "gfxId": 1369506,
-          "femaleGfxId": 3479506
-        },
-        "baseParameters": {
-          "itemTypeId": 136,
-          "rarity": 1
-        },
-        "useParameters": {
-          "useCostAp": 0,
-          "useCostMp": 0,
-          "useCostWp": 0,
-          "useRangeMin": 0,
-          "useRangeMax": 0,
-          "useTestFreeCell": false,
-          "useTestLos": false,
-          "useTestOnlyLine": false,
-          "useTestNoBorderCell": false,
-          "useWorldTarget": 0
-        }
-      },
-      "equipEffects": [
-        {
-          "effect": {
-            "definition": {
-              "id": 218211,
-              "actionId": 173,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                10,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 218210,
-              "actionId": 20,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                25,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 218214,
-              "actionId": 80,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                6,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 218213,
-              "actionId": 1068,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                10,
-                0,
-                1,
-                0
-              ]
-            }
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "fr": "Anneau Buque",
-      "en": "Kapow Ring",
-      "es": "Anillo leñoso",
-      "pt": "Anel Kapow"
-    },
-    "description": {
-      "fr": "\"Un anneau, ça buque. Deux, ça buque deux fois plus.\"\r\nNostralanus - Pensées.",
-      "en": "\"One ring, biff kapow. Two rings, biff bang kablooey!\"\nNostralanus - Thoughts",
-      "es": "\"Más vale un anillo con el que dar leñazos que no dos para tocar madera\"\nReflexiones de Nostralanus.",
-      "pt": "\"Um anel plunkt plakt, dois anéis plunkt plakt zum!\"\n Nostralanus - Pensamentos"
-    },
-    "definition": {
-      "item": {
-        "level": 36,
-        "id": 9554,
-        "graphicParameters": {
-          "gfxId": 1039554,
-          "femaleGfxId": 1039554
-        },
-        "baseParameters": {
-          "itemTypeId": 103,
-          "rarity": 1
-        },
-        "useParameters": {
-          "useCostAp": 0,
-          "useCostMp": 0,
-          "useCostWp": 0,
-          "useRangeMin": 0,
-          "useRangeMax": 0,
-          "useTestFreeCell": false,
-          "useTestLos": false,
-          "useTestOnlyLine": false,
-          "useTestNoBorderCell": false,
-          "useWorldTarget": 0
-        }
-      },
-      "equipEffects": [
-        {
-          "effect": {
-            "definition": {
-              "id": 218179,
+              "id": 55187,
               "actionId": 175,
               "areaShape": 32767,
               "areaSize": [],
@@ -267,7 +55,81 @@
         {
           "effect": {
             "definition": {
-              "id": 218178,
+              "id": 56646,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Hache Piou",
+      "en": "Piwi Axe",
+      "es": "Hacha pía",
+      "pt": "Machado de Piu"
+    },
+    "description": {
+      "fr": "Une Hache pour couper du bois ou la tête de votre ennemi. C’est à vous de voir ! ",
+      "en": "An axe for chopping off the head of your enemy, provided your enemy is a tiny, wimpy little monster. ",
+      "es": "Una hacha con la que cortar madera o la cabeza de tus enemigos. ¡Tú mismo! ",
+      "pt": "Um machado para decepar a cabeça de seus inimigos, desde que eles sejam monstrinhos minúsculos e fraquinhos."
+    },
+    "definition": {
+      "item": {
+        "level": 23,
+        "id": 7034,
+        "graphicParameters": {
+          "gfxId": 1017034,
+          "femaleGfxId": 1017034
+        },
+        "baseParameters": {
+          "itemTypeId": 101,
+          "rarity": 1
+        },
+        "useParameters": {
+          "useCostAp": 5,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 1,
+          "useRangeMax": 1,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 184575,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 184573,
               "actionId": 20,
               "areaShape": 32767,
               "areaSize": [],
@@ -285,65 +147,21 @@
         {
           "effect": {
             "definition": {
-              "id": 218181,
-              "actionId": 1068,
+              "id": 184576,
+              "actionId": 120,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                4,
-                0,
-                2,
+                12,
                 0
               ]
             }
           }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "fr": "Ceinture Buque",
-      "en": "Kapow Belt",
-      "es": "Cinturón leñoso",
-      "pt": "Cinto Kapow"
-    },
-    "description": {
-      "fr": "Cette ceinture fait tout. Ou presque. Et ça, ça buque.",
-      "en": "This belt does everything. Well, almost. Kapow sock whack!",
-      "es": "Este cinturón sabe hacerlo todo o casi, aunque a ti te bastará con que dé leña.",
-      "pt": "Este cinto faz de tudo. Bem, quase tudo. Kapow, sock, crash!"
-    },
-    "definition": {
-      "item": {
-        "level": 38,
-        "id": 9556,
-        "graphicParameters": {
-          "gfxId": 1339556,
-          "femaleGfxId": 1339556
         },
-        "baseParameters": {
-          "itemTypeId": 133,
-          "rarity": 1
-        },
-        "useParameters": {
-          "useCostAp": 0,
-          "useCostMp": 0,
-          "useCostWp": 0,
-          "useRangeMin": 0,
-          "useRangeMax": 0,
-          "useTestFreeCell": false,
-          "useTestLos": false,
-          "useTestOnlyLine": false,
-          "useTestNoBorderCell": false,
-          "useWorldTarget": 0
-        }
-      },
-      "equipEffects": [
         {
           "effect": {
             "definition": {
-              "id": 218183,
+              "id": 364455,
               "actionId": 173,
               "areaShape": 32767,
               "areaSize": [],
@@ -357,294 +175,12 @@
         {
           "effect": {
             "definition": {
-              "id": 218182,
-              "actionId": 20,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                18,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 218187,
-              "actionId": 84,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                14,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 218186,
-              "actionId": 83,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                14,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 218185,
-              "actionId": 1068,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                13,
-                0,
-                1,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 218184,
-              "actionId": 150,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                2,
-                0
-              ]
-            }
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "fr": "Lame du Craqueleur",
-      "en": "Crackler Blade",
-      "es": "Hoja del crujidor",
-      "pt": "Lâmina Estrondosa"
-    },
-    "description": {
-      "fr": "On ne peut pas dire que cette lame est aiguisée, par contre si l'on reçoit un coup sur la tête on la sent passer !",
-      "en": "This blade may not be sharp, but it certainly smarts!",
-      "es": "Puede que esta hoja no esté muy afilada, pero ¡si te dan un golpe en la cabeza con ella lo notas pero bien!",
-      "pt": "Esta lâmina pode não ser tão afiada, mas ela certamente machuca!"
-    },
-    "definition": {
-      "item": {
-        "level": 38,
-        "id": 9942,
-        "graphicParameters": {
-          "gfxId": 2239442,
-          "femaleGfxId": 2239442
-        },
-        "baseParameters": {
-          "itemTypeId": 223,
-          "rarity": 1
-        },
-        "useParameters": {
-          "useCostAp": 6,
-          "useCostMp": 0,
-          "useCostWp": 0,
-          "useRangeMin": 1,
-          "useRangeMax": 1,
-          "useTestFreeCell": false,
-          "useTestLos": true,
-          "useTestOnlyLine": false,
-          "useTestNoBorderCell": false,
-          "useWorldTarget": 0
-        }
-      },
-      "equipEffects": [
-        {
-          "effect": {
-            "definition": {
-              "id": 217491,
-              "actionId": 20,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                28,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 217494,
-              "actionId": 1052,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                11,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 217493,
-              "actionId": 1068,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                11,
-                0,
-                2,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 217492,
-              "actionId": 173,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                10,
-                0
-              ]
-            }
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "fr": "Ceinture du Petit Challenger",
-      "en": "Lil Challenger Belt",
-      "es": "Cinturón del Retadorcillo",
-      "pt": "Cinto do Competidor Júnior"
-    },
-    "description": {
-      "fr": "Portez fièrement votre ceinture de challenger.",
-      "en": "Wear your Lil Challenger Belt proudly!",
-      "es": "Lleva con orgullo tu cinturón de retador.",
-      "pt": "Use seu Cinto do Competidor Júnior com orgulho!"
-    },
-    "definition": {
-      "item": {
-        "level": 40,
-        "id": 10580,
-        "graphicParameters": {
-          "gfxId": 13310580,
-          "femaleGfxId": 13310580
-        },
-        "baseParameters": {
-          "itemTypeId": 133,
-          "rarity": 1
-        },
-        "useParameters": {
-          "useCostAp": 0,
-          "useCostMp": 0,
-          "useCostWp": 0,
-          "useRangeMin": 0,
-          "useRangeMax": 0,
-          "useTestFreeCell": false,
-          "useTestLos": false,
-          "useTestOnlyLine": false,
-          "useTestNoBorderCell": false,
-          "useWorldTarget": 0
-        }
-      },
-      "equipEffects": [
-        {
-          "effect": {
-            "definition": {
-              "id": 134343,
-              "actionId": 150,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                2,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 134341,
-              "actionId": 20,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                23,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 134344,
-              "actionId": 120,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                9,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 361556,
+              "id": 364456,
               "actionId": 175,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                3,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 361555,
-              "actionId": 173,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                3,
+                7,
                 0
               ]
             }
@@ -655,158 +191,24 @@
   },
   {
     "title": {
-      "fr": "Cape du Petit Challenger",
-      "en": "Lil Challenger Cloak",
-      "es": "Capa del Retadorcillo",
-      "pt": "Manto do Competidor Júnior"
+      "fr": "Chapeau de l'Aventurier",
+      "en": "Adventurer Hat",
+      "es": "Casco del aventurero",
+      "pt": "Elmo Aventureiro"
     },
     "description": {
-      "fr": "Vous avez passé le cap de simple combattant à challenger.",
-      "en": "You used to be a mere fighter. Now you are... a Challenger!",
-      "es": "Has cruzado la línea que separa a los simples luchadores de los retadores.",
-      "pt": "Antes um mero guerreiro, o portador se transforma em... um Competidor!"
+      "fr": "À part faire fuir les nanas, ce chapeau est juste bon à porter par temps de pluie.",
+      "en": "Aside from making the ladies run away, this hat is mostly only good against rain.",
+      "es": "Además de para hacer huir a las chicas, este sombrero es muy útil para los días de lluvia.",
+      "pt": "Além de afastar as garotas, este chapéu não tem nenhuma utilidade real."
     },
     "definition": {
       "item": {
-        "level": 40,
-        "id": 10584,
+        "level": 23,
+        "id": 9477,
         "graphicParameters": {
-          "gfxId": 13210584,
-          "femaleGfxId": 13210584
-        },
-        "baseParameters": {
-          "itemTypeId": 132,
-          "rarity": 1
-        },
-        "useParameters": {
-          "useCostAp": 0,
-          "useCostMp": 0,
-          "useCostWp": 0,
-          "useRangeMin": 0,
-          "useRangeMax": 0,
-          "useTestFreeCell": false,
-          "useTestLos": false,
-          "useTestOnlyLine": false,
-          "useTestNoBorderCell": false,
-          "useWorldTarget": 0
-        }
-      },
-      "equipEffects": [
-        {
-          "effect": {
-            "definition": {
-              "id": 134339,
-              "actionId": 120,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                11,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 134337,
-              "actionId": 20,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                20,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 134340,
-              "actionId": 80,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                5,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 360532,
-              "actionId": 31,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                1,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 366140,
-              "actionId": 175,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                3,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 366139,
-              "actionId": 173,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                3,
-                0
-              ]
-            }
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "fr": "Le Parlaicorne",
-      "en": "The Oxster",
-      "es": "Porloscuernos",
-      "pt": "O Boizinho"
-    },
-    "description": {
-      "fr": "Le seul chapeau qui vous donnera l’impression d’être coiffé par une aisselle de taure.",
-      "en": "The only helmet which will make you feel like you're wearing a Taur's armpit.",
-      "es": "El único sombrero que te dará la impresión de que te ha peinado una muuugresa a lametazos.",
-      "pt": "O único elmo que já vem com aroma de axila de Tauro."
-    },
-    "definition": {
-      "item": {
-        "level": 45,
-        "id": 10665,
-        "graphicParameters": {
-          "gfxId": 13410570,
-          "femaleGfxId": 13410570
+          "gfxId": 1349477,
+          "femaleGfxId": 1349477
         },
         "baseParameters": {
           "itemTypeId": 134,
@@ -829,12 +231,86 @@
         {
           "effect": {
             "definition": {
-              "id": 137191,
+              "id": 184710,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                12,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 184709,
               "actionId": 20,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                35,
+                20,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Bottes de l'Aventurier",
+      "en": "Adventurer Boots",
+      "es": "Botas del aventurero",
+      "pt": "Botas do Aventureiro"
+    },
+    "description": {
+      "fr": "Bottes de simple facture mais idéales pour les jeunes se lançant sur le dur chemin de l'aventure.",
+      "en": "Very basic boots which are ideal for young adventurers just setting off on their journey.",
+      "es": "Unas botas bastante simples pero ideales para los jóvenes que se lanzan a la aventura.",
+      "pt": "Botas bem básicas que são ideais para jovens aventureiros começando a jornada."
+    },
+    "definition": {
+      "item": {
+        "level": 21,
+        "id": 9487,
+        "graphicParameters": {
+          "gfxId": 1199487,
+          "femaleGfxId": 1199487
+        },
+        "baseParameters": {
+          "itemTypeId": 119,
+          "rarity": 1
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 184704,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                20,
                 0,
                 1,
                 0,
@@ -847,54 +323,12 @@
         {
           "effect": {
             "definition": {
-              "id": 137195,
+              "id": 184705,
               "actionId": 120,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                16,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 137192,
-              "actionId": 173,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                13,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 137193,
-              "actionId": 175,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                13,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 137196,
-              "actionId": 80,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                16,
+                9,
                 0
               ]
             }
@@ -905,24 +339,292 @@
   },
   {
     "title": {
-      "fr": "Amulette du Moskito",
-      "en": "Moskito Amulet",
-      "es": "Amuleto del moskito",
-      "pt": "Amuleto de Moskito"
+      "fr": "Cape de l'Aventurier",
+      "en": "Adventurer Cloak",
+      "es": "Capa del aventurero",
+      "pt": "Manto do Aventureiro"
     },
     "description": {
-      "fr": "Grâce à l'oeil de Moskito qui orne cette amulette, il est possible de percevoir la venue d'un danger dans les 4 directions.",
-      "en": "Thanks to the Moskito eye adorning this amulet, you can anticipate oncoming danger from all four directions.",
-      "es": "Gracias al ojo de moskito que decora este amuleto, es posible vislumbrar la llegada de un peligro desde cualquier dirección.",
-      "pt": "Graças ao olho do Moskito, enfeitando esse amuleto, você pode antecipar os perigos vindos de todas as direções."
+      "fr": "Classe mais peu performante, cette cape comblera tout de même les jeunes aventuriers.",
+      "en": "Classy, but not very useful. This cape will still have a knockout effect on young warriors.",
+      "es": "Esta capa, estilosa aunque no de muy buena calidad, hará felices a los jóvenes aventureros.",
+      "pt": "Elegante, mas não muito útil. Ainda assim, causa um grande impacto em jovens guerreiros."
     },
     "definition": {
       "item": {
-        "level": 39,
-        "id": 11576,
+        "level": 21,
+        "id": 9492,
         "graphicParameters": {
-          "gfxId": 12011576,
-          "femaleGfxId": 12011576
+          "gfxId": 1329492,
+          "femaleGfxId": 1329492
+        },
+        "baseParameters": {
+          "itemTypeId": 132,
+          "rarity": 1
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 184706,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 184707,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 184708,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                12,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 360360,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Ceinture de l'Aventurier",
+      "en": "Adventurer Belt",
+      "es": "Cinturón del aventurero",
+      "pt": "Cinto do Aventureiro"
+    },
+    "description": {
+      "fr": "Une petite ceinture pour les aventuriers en herbe.",
+      "en": "A little belt for budding adventurers.",
+      "es": "Un buen cinturoncito para los aventureros en ciernes.",
+      "pt": "Um cinto básico para aventureiros iniciantes."
+    },
+    "definition": {
+      "item": {
+        "level": 22,
+        "id": 9498,
+        "graphicParameters": {
+          "gfxId": 1339498,
+          "femaleGfxId": 1339498
+        },
+        "baseParameters": {
+          "itemTypeId": 133,
+          "rarity": 1
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 184711,
+              "actionId": 184,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 184712,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                15,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 184713,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                12,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Anneau de l'Aventurier",
+      "en": "Adventure Ring",
+      "es": "Anillo del aventurero",
+      "pt": "Anel Aventureiro"
+    },
+    "description": {
+      "fr": "Un petit anneau sympathique pour les débutants, et qui amusera les jeunes enfants, ou les Ecaflips.",
+      "en": "This is a lovely little ring for beginners and which will be cherished by kids and Ecaflips alike.",
+      "es": "Un divertido pequeño anillo para los principiantes, divertirá a los niños o a los zurcarák.",
+      "pt": "Esse é um anel pequeno e adorável para iniciantes, que será estimado da mesma forma por crianças e Ecaflips."
+    },
+    "definition": {
+      "item": {
+        "level": 24,
+        "id": 9509,
+        "graphicParameters": {
+          "gfxId": 1039509,
+          "femaleGfxId": 1039509
+        },
+        "baseParameters": {
+          "itemTypeId": 103,
+          "rarity": 1
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 184702,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 184703,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                6,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Amulette de l'Aventurier",
+      "en": "Adventure Amulet",
+      "es": "Amuleto del aventurero",
+      "pt": "Amuleto do Aventureiro"
+    },
+    "description": {
+      "fr": "Pas très classe, pas très efficace, mais sympathique lorsque l'on possède la panoplie.",
+      "en": "Not very classy, not very useful, but nice when you have the set.",
+      "es": "No muy chulo, no muy eficaz, pero divertido cuando tienes el set completo.",
+      "pt": "Não é muito elegante, não é muito útil, mas é legal quando você tem o conjunto."
+    },
+    "definition": {
+      "item": {
+        "level": 23,
+        "id": 9512,
+        "graphicParameters": {
+          "gfxId": 1209512,
+          "femaleGfxId": 1209512
         },
         "baseParameters": {
           "itemTypeId": 120,
@@ -945,26 +647,12 @@
         {
           "effect": {
             "definition": {
-              "id": 217243,
-              "actionId": 120,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                15,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 217242,
+              "id": 184699,
               "actionId": 20,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                19,
+                14,
                 0,
                 1,
                 0,
@@ -977,14 +665,12 @@
         {
           "effect": {
             "definition": {
-              "id": 217244,
-              "actionId": 1069,
+              "id": 184700,
+              "actionId": 120,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                11,
-                0,
-                2,
+                12,
                 0
               ]
             }
@@ -993,7 +679,21 @@
         {
           "effect": {
             "definition": {
-              "id": 360492,
+              "id": 184701,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                5,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 360510,
               "actionId": 31,
               "areaShape": 32767,
               "areaSize": [],
@@ -1003,6 +703,1282 @@
                 1,
                 0,
                 0,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Amulette Buque",
+      "en": "Kapowmulet",
+      "es": "Amuleto leñoso",
+      "pt": "Tápowmuleto"
+    },
+    "description": {
+      "fr": "L'amulette Buque ? On a pas inventé mieux pour bien buquer sans sa fatiguer !",
+      "en": "The Kapowmulet? There's nothing better for pow whap thwack biff bap bap zwapp sploosh klonk blurp ker-plopping all day long!",
+      "es": "¿Un amuleto con leña? Definitivamente, debe de ser la súper caña.",
+      "pt": "O Tápowmuleto? Não tem nada melhor para um pow flap bum iá puff blim blom zuuum toc glop tum paff o dia todo!"
+    },
+    "definition": {
+      "item": {
+        "level": 27,
+        "id": 9555,
+        "graphicParameters": {
+          "gfxId": 1209555,
+          "femaleGfxId": 1209555
+        },
+        "baseParameters": {
+          "itemTypeId": 120,
+          "rarity": 1
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 135402,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                15,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 135403,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                6,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 135404,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 135405,
+              "actionId": 123,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 360609,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Toady",
+      "en": "Toady",
+      "es": "Toady",
+      "pt": "Sapeado"
+    },
+    "description": {
+      "fr": "Rouge, blanc et surtout très classe, ce chapeau vous permettra d'assurer un max lors des soirées de l'ambassadeur qui sont toujours une réussite.",
+      "en": "Red, white and very classy, this hat will make sure that all your ambassador evenings are a success.",
+      "es": "Rojo, blanco y sobre todo chulo, este sombrero te permitirá causar impresión en las fiestas organizadas por tus amigos.",
+      "pt": "Vermelho, branco e muito elegante, este chapéu é a garantia de que todas as noites serão um sucesso."
+    },
+    "definition": {
+      "item": {
+        "level": 31,
+        "id": 10273,
+        "graphicParameters": {
+          "gfxId": 13410273,
+          "femaleGfxId": 13410273
+        },
+        "baseParameters": {
+          "itemTypeId": 134,
+          "rarity": 1
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 137366,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                15,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 137367,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                5,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 137370,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                6,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 137368,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                5,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 137369,
+              "actionId": 125,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                14,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Masque Kanniboul",
+      "en": "Kanniball Mask",
+      "es": "Máscara kaníbola",
+      "pt": "Máscara Kanibola"
+    },
+    "description": {
+      "fr": "Ce masque fera de vous un véritable kannibouliste végétarien.",
+      "en": "This mask will make a real vegetarian Kanniball out of you.",
+      "es": "Esta máscara hará de ti un verdadero kaníbola vegetariano.",
+      "pt": "Esta máscara vai transformar você em um Kanibola vegetariano de verdade."
+    },
+    "definition": {
+      "item": {
+        "level": 23,
+        "id": 10572,
+        "graphicParameters": {
+          "gfxId": 13410572,
+          "femaleGfxId": 13410572
+        },
+        "baseParameters": {
+          "itemTypeId": 134,
+          "rarity": 1
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 135543,
+              "actionId": 875,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 135541,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                12,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 135544,
+              "actionId": 125,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                14,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 135545,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                5,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 361743,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 361744,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                3,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Végéture",
+      "en": "Vegebelt",
+      "es": "Vegeturón",
+      "pt": "Vegetacinto"
+    },
+    "description": {
+      "fr": "Cette ceinture de végétation est à bien arroser tous les jours !",
+      "en": "Make sure you water this strip of greenery every day!",
+      "es": "Tendrás que regar este cinturón todos los días.",
+      "pt": "Certifique-se de regá-lo todo dia!"
+    },
+    "definition": {
+      "item": {
+        "level": 30,
+        "id": 10574,
+        "graphicParameters": {
+          "gfxId": 13310574,
+          "femaleGfxId": 13310574
+        },
+        "baseParameters": {
+          "itemTypeId": 133,
+          "rarity": 1
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 135090,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                8,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 135091,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                8,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 135089,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                15,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 135094,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                5,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 135093,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                13,
+                0,
+                1,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Truffeuse",
+      "en": "Truffelt",
+      "es": "Cintrufa",
+      "pt": "Tufinto"
+    },
+    "description": {
+      "fr": "Cette ceinture bien placée vous fera bénéficier d’un odorat surdéveloppé.\r\nUn conseil, bouchez-vous le groin.",
+      "en": "Wear this belt right and your sense of smell will become incredibly sensitive.\nYou should consider plugging up your nose before you put it on.",
+      "es": "Con este cinturón bien puesto, gozarás de un olfato superdesarrollado.\nUn consejo: tápate la nariz.",
+      "pt": "Use este cinto corretamente e seu olfato ficará incrivelmente sensível.\nÉ melhor tapar o nariz antes de vesti-lo."
+    },
+    "definition": {
+      "item": {
+        "level": 30,
+        "id": 10575,
+        "graphicParameters": {
+          "gfxId": 13310575,
+          "femaleGfxId": 13310575
+        },
+        "baseParameters": {
+          "itemTypeId": 133,
+          "rarity": 1
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 135102,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                8,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 135103,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                8,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 135101,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                15,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 135106,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                5,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 135105,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                13,
+                0,
+                1,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Pichétou",
+      "en": "Snapstrap",
+      "es": "Sacabó",
+      "pt": "Percinto"
+    },
+    "description": {
+      "fr": "Mettez là, et puis c’est tout !",
+      "en": "O snap!",
+      "es": "Póntelo ¡y eso se acabó!",
+      "pt": "Putzgrila!"
+    },
+    "definition": {
+      "item": {
+        "level": 30,
+        "id": 10576,
+        "graphicParameters": {
+          "gfxId": 13310576,
+          "femaleGfxId": 13310576
+        },
+        "baseParameters": {
+          "itemTypeId": 133,
+          "rarity": 1
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 135114,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                8,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 135115,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                8,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 135113,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                15,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 135118,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                5,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 135117,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                13,
+                0,
+                1,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Bottes du Destin",
+      "en": "Boots of Destiny",
+      "es": "Botas del Destino",
+      "pt": "Botas do Destino"
+    },
+    "description": {
+      "fr": "Explorer un caveau ça vous botte !",
+      "en": "Exploring crypts is a real kick!",
+      "es": "¡Nada como estas botas para patearse un panteón!",
+      "pt": "Porque reconstruir edifícios é sua única ambição!"
+    },
+    "definition": {
+      "item": {
+        "level": 23,
+        "id": 10762,
+        "graphicParameters": {
+          "gfxId": 11910762,
+          "femaleGfxId": 11910762
+        },
+        "baseParameters": {
+          "itemTypeId": 119,
+          "rarity": 1
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 184479,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                15,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 184482,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                5,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 184480,
+              "actionId": 875,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 184481,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                9,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Coiffe du Destin",
+      "en": "Headgear of Destiny",
+      "es": "Sombrero del Destino",
+      "pt": "Chapéu do Destino"
+    },
+    "description": {
+      "fr": "Cette coiffe appartenait certainement à un reconstructeur défunt.",
+      "en": "This hat certainly belonged to a now dead rebuilder.",
+      "es": "Seguramente, este sombrero pertenecía a un reconstructor difunto.",
+      "pt": "Os restauradores precisam de você!"
+    },
+    "definition": {
+      "item": {
+        "level": 21,
+        "id": 10766,
+        "graphicParameters": {
+          "gfxId": 13410766,
+          "femaleGfxId": 13410766
+        },
+        "baseParameters": {
+          "itemTypeId": 134,
+          "rarity": 1
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 184470,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                5,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 184468,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                15,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 184469,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                12,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Epaulettes du Destin",
+      "en": "Epaulettes of Destiny",
+      "es": "Hombreras del Destino",
+      "pt": "Dragonas do Destino"
+    },
+    "description": {
+      "fr": "Prends-toi en main, c'est ton destin !",
+      "en": "Put them on! It is your destiny!",
+      "es": "Toma el mando, ¡es tu destino!",
+      "pt": "Vista-as! É o seu destino!"
+    },
+    "definition": {
+      "item": {
+        "level": 23,
+        "id": 10768,
+        "graphicParameters": {
+          "gfxId": 13810768,
+          "femaleGfxId": 13810768
+        },
+        "baseParameters": {
+          "itemTypeId": 138,
+          "rarity": 1
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 184475,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                15,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 184478,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                5,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 184477,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                12,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 362223,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 362224,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                3,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Plastron du Destin",
+      "en": "Breastplate of Destiny",
+      "es": "Coraza del Destino",
+      "pt": "Peitoral do Destino"
+    },
+    "description": {
+      "fr": "Fruit d'un dur labeur, ce plastron est imprégné de transpiration ectoplasmique.",
+      "en": "Blood, ectoplasmic sweat and tears went into making this breastplate… and it's still kind of soggy.",
+      "es": "Fruto de una dura labor, esta coraza está impregnada de sudor ectoplásmico.",
+      "pt": "Sangue, suor e lágrimas entraram na confecção deste peitoral... e ainda está empapado."
+    },
+    "definition": {
+      "item": {
+        "level": 22,
+        "id": 10770,
+        "graphicParameters": {
+          "gfxId": 13610770,
+          "femaleGfxId": 13610770
+        },
+        "baseParameters": {
+          "itemTypeId": 136,
+          "rarity": 1
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 184483,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                18,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 184484,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                9,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 184485,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                5,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Bougligli",
+      "en": "Bliblield",
+      "es": "Baliscudo",
+      "pt": "Valiliudo"
+    },
+    "description": {
+      "fr": "Le poil de Gligli est extrêmement résistant. Une fois les poils tressés, ce bouclier peut parer une flèche Crâ tirée à 3 mètres.",
+      "en": "Blibli fur is extremely resistant. Once the hairs have been woven together even a Cra arrow shot at short range will just bounce off.",
+      "es": "El pelo de balí es extremadamente resistente, una vez que los mechones se trenzan, el escudo puede parar una flecha ocra lanzada a tres kámetros.",
+      "pt": "Pelo de Valili é extremamente resistente. Assim que os pelos são tecidos, até mesmo uma flecha Cra será repelida."
+    },
+    "definition": {
+      "item": {
+        "level": 28,
+        "id": 11030,
+        "graphicParameters": {
+          "gfxId": 18911030,
+          "femaleGfxId": 18911030
+        },
+        "baseParameters": {
+          "itemTypeId": 189,
+          "rarity": 1
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 135643,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                20,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 135644,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Epaulettes du Boufbowler",
+      "en": "Gobbowler Epaulettes",
+      "es": "Hombreras de jalabolista",
+      "pt": "Dragonas do Papabolista"
+    },
+    "description": {
+      "fr": "Ces épaulettes absorbent tellement bien les chocs, que vous ne ferez plus la différence entre le contact d’un Chef de Guerre et d'une Boufballe.",
+      "en": "These epaulettes are such good shock-absorbers that you won't be able to tell the difference between a hit from a War Chief and a Gobbowl Ball.",
+      "es": "Estas hombreras absorve tan bien los golpes que no podrás distinguir entre entrar en contacto con un jefe de guerra y una jalabola.",
+      "pt": "Estas dragonas absorvem tanto o impacto que você não conseguirá diferenciar o golpe de um chefe guerreiro de uma Papabola."
+    },
+    "definition": {
+      "item": {
+        "level": 21,
+        "id": 11398,
+        "graphicParameters": {
+          "gfxId": 13811398,
+          "femaleGfxId": 13811398
+        },
+        "baseParameters": {
+          "itemTypeId": 138,
+          "rarity": 1
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 52620,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                15,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 52624,
+              "actionId": 875,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 52625,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                9,
                 0
               ]
             }
@@ -1297,890 +2273,6 @@
               "en": "+50% movement speed",
               "es": "+50% de velocidad de desplazamiento",
               "pt": "+50% de velocidade de deslocamento"
-            }
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "fr": "Anneau Craquelé",
-      "en": "Crackly Ring",
-      "es": "Anillo crujiente",
-      "pt": "Anel Smagante"
-    },
-    "description": {
-      "fr": "Vous saurez faire craquer toutes les demoiselles avec cet anneau.",
-      "en": "This ring is absolutely cracking, dahling.",
-      "es": "Todas las señoritas del lugar querrán darle un bocadito.",
-      "pt": "Você vai esmagar todos os seus inimigos com este anel."
-    },
-    "definition": {
-      "item": {
-        "level": 37,
-        "id": 23774,
-        "graphicParameters": {
-          "gfxId": 10312438,
-          "femaleGfxId": 10312438
-        },
-        "baseParameters": {
-          "itemTypeId": 103,
-          "rarity": 1
-        },
-        "useParameters": {
-          "useCostAp": 0,
-          "useCostMp": 0,
-          "useCostWp": 0,
-          "useRangeMin": 0,
-          "useRangeMax": 0,
-          "useTestFreeCell": false,
-          "useTestLos": false,
-          "useTestOnlyLine": false,
-          "useTestNoBorderCell": false,
-          "useWorldTarget": 0
-        }
-      },
-      "equipEffects": [
-        {
-          "effect": {
-            "definition": {
-              "id": 217451,
-              "actionId": 175,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                3,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 217450,
-              "actionId": 173,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                3,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 217449,
-              "actionId": 20,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                10,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 217454,
-              "actionId": 80,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                3,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 217453,
-              "actionId": 1052,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                2,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 217452,
-              "actionId": 1068,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                2,
-                0,
-                2,
-                0
-              ]
-            }
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "fr": "Bottes Craquelées",
-      "en": "Crackly Boots",
-      "es": "Botas crujientes",
-      "pt": "Botas Smagantes"
-    },
-    "description": {
-      "fr": "Craque, craque, craque font ces bottes sous vos pas !",
-      "en": "Go on, have a crack at walking in these!",
-      "es": "¡Y crujen, y crujen, y crujen…! ¡Y crujen más y más!",
-      "pt": "Vamos, experimente a crocância destas botas!"
-    },
-    "definition": {
-      "item": {
-        "level": 36,
-        "id": 23776,
-        "graphicParameters": {
-          "gfxId": 11912437,
-          "femaleGfxId": 11912437
-        },
-        "baseParameters": {
-          "itemTypeId": 119,
-          "rarity": 1
-        },
-        "useParameters": {
-          "useCostAp": 0,
-          "useCostMp": 0,
-          "useCostWp": 0,
-          "useRangeMin": 0,
-          "useRangeMax": 0,
-          "useTestFreeCell": false,
-          "useTestLos": false,
-          "useTestOnlyLine": false,
-          "useTestNoBorderCell": false,
-          "useWorldTarget": 0
-        }
-      },
-      "equipEffects": [
-        {
-          "effect": {
-            "definition": {
-              "id": 338061,
-              "actionId": 80,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                5,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 338060,
-              "actionId": 1052,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                8,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 338057,
-              "actionId": 41,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                1,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 338059,
-              "actionId": 1068,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                5,
-                0,
-                2,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 338058,
-              "actionId": 20,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                24,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "fr": "Casque Craquelé",
-      "en": "Crackly Helmet",
-      "es": "Casco crujiente",
-      "pt": "Capacete Smagante"
-    },
-    "description": {
-      "fr": "Bien que ce casque s’effrite, sa solidité n'est plus à prouver.",
-      "en": "This helmet might look pretty beat-up but there's some life in it yet.",
-      "es": "Aunque este casco se esté cayendo a pedazos, su solidez queda más que probada.",
-      "pt": "Este elmo pode parecer bem acabado, mas ele ainda aguenta muitas pauladas."
-    },
-    "definition": {
-      "item": {
-        "level": 39,
-        "id": 23778,
-        "graphicParameters": {
-          "gfxId": 13412436,
-          "femaleGfxId": 13412436
-        },
-        "baseParameters": {
-          "itemTypeId": 134,
-          "rarity": 1
-        },
-        "useParameters": {
-          "useCostAp": 0,
-          "useCostMp": 0,
-          "useCostWp": 0,
-          "useRangeMin": 0,
-          "useRangeMax": 0,
-          "useTestFreeCell": false,
-          "useTestLos": false,
-          "useTestOnlyLine": false,
-          "useTestNoBorderCell": false,
-          "useWorldTarget": 0
-        }
-      },
-      "equipEffects": [
-        {
-          "effect": {
-            "definition": {
-              "id": 217487,
-              "actionId": 875,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                2,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 217486,
-              "actionId": 173,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                7,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 217485,
-              "actionId": 20,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                10,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 217490,
-              "actionId": 80,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                8,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 217489,
-              "actionId": 1052,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                7,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 217488,
-              "actionId": 1068,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                7,
-                0,
-                2,
-                0
-              ]
-            }
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "fr": "Amulamoogrr",
-      "en": "Moogrramulet",
-      "es": "Amulamuuugr",
-      "pt": "Mugrramuleto"
-    },
-    "description": {
-      "fr": "Parfaite pour ceux qui aiment ponctuer chacune de leurs actions par le tintement aigu d'une clochette sonore. Tiling !",
-      "en": "Perfect for those who like to punctuate their movements with the ringing of a little bell. Ding ding!",
-      "es": "Perfecto para los que adoran puntuar cada una de sus acciones con el tintineo agudo de la campanilla. ¡Tilín, tilín!",
-      "pt": "Perfeito para aqueles que gostam de pontuar seus movimentos com um sininho. Ding ding!"
-    },
-    "definition": {
-      "item": {
-        "level": 36,
-        "id": 25136,
-        "graphicParameters": {
-          "gfxId": 12010324,
-          "femaleGfxId": 12010324
-        },
-        "baseParameters": {
-          "itemTypeId": 120,
-          "rarity": 1
-        },
-        "useParameters": {
-          "useCostAp": 0,
-          "useCostMp": 0,
-          "useCostWp": 0,
-          "useRangeMin": 0,
-          "useRangeMax": 0,
-          "useTestFreeCell": false,
-          "useTestLos": false,
-          "useTestOnlyLine": false,
-          "useTestNoBorderCell": false,
-          "useWorldTarget": 0
-        }
-      },
-      "equipEffects": [
-        {
-          "effect": {
-            "definition": {
-              "id": 272940,
-              "actionId": 1053,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                11,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 272941,
-              "actionId": 82,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                6,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 272942,
-              "actionId": 83,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                6,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 272943,
-              "actionId": 85,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                6,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 272938,
-              "actionId": 20,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                17,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 272939,
-              "actionId": 150,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                3,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 360599,
-              "actionId": 31,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                1,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "fr": "Annomoogrr",
-      "en": "Moogrring",
-      "es": "Alimuuugr",
-      "pt": "Anel de Mugrr"
-    },
-    "description": {
-      "fr": "Une célèbre blague bontarienne consiste à porter un anneau Moogr et à demander à un ami de tirer sur le doigt équipé comme pour en faire sortir du lait.",
-      "en": "A famous Bontarian joke involves wearing the Moogrr ring and asking people to pull on your finger, as if to extract milk, and see what comes out.",
-      "es": "Una broma bontariana muy común es ponerse un anillo de muuugresa y decirle a un amigo que te tire del dedo para ver si sale leleche.",
-      "pt": "Uma famosa brincadeira bontariana envolve usar o anel de Mugrr e pedir para as pessoas puxarem seu dedo, como se fosse para extrair leite, para ver o que sai dele."
-    },
-    "definition": {
-      "item": {
-        "level": 37,
-        "id": 25139,
-        "graphicParameters": {
-          "gfxId": 10310325,
-          "femaleGfxId": 10310325
-        },
-        "baseParameters": {
-          "itemTypeId": 103,
-          "rarity": 1
-        },
-        "useParameters": {
-          "useCostAp": 0,
-          "useCostMp": 0,
-          "useCostWp": 0,
-          "useRangeMin": 0,
-          "useRangeMax": 0,
-          "useTestFreeCell": false,
-          "useTestLos": false,
-          "useTestOnlyLine": false,
-          "useTestNoBorderCell": false,
-          "useWorldTarget": 0
-        }
-      },
-      "equipEffects": [
-        {
-          "effect": {
-            "definition": {
-              "id": 272964,
-              "actionId": 20,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                12,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 272965,
-              "actionId": 175,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                5,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 272966,
-              "actionId": 1053,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                5,
-                0
-              ]
-            }
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "fr": "Plastromoogrr",
-      "en": "Moogrrplate",
-      "es": "Muuugrmadura",
-      "pt": "Peitoral Mugrr"
-    },
-    "description": {
-      "fr": "Ceux qui portent cette camisole se font constamment harceler par des Moogrons en quête de lait maternel. Vous êtes prévenus.",
-      "en": "Anyone who wears this breastplate will be constantly harassed by young Moogrrs in search of milk. Don't say we didn't warn you.",
-      "es": "Los que llevan esta coraza se ven constantemente acosados por muuugritones en busca de leche materna. Quedas avisado.",
-      "pt": "Quem usar este peitoral será constantemente assediado pelos Mugrrs novos à procura de leite. Não diga que não avisei."
-    },
-    "definition": {
-      "item": {
-        "level": 38,
-        "id": 25142,
-        "graphicParameters": {
-          "gfxId": 13610326,
-          "femaleGfxId": 13610326
-        },
-        "baseParameters": {
-          "itemTypeId": 136,
-          "rarity": 1
-        },
-        "useParameters": {
-          "useCostAp": 0,
-          "useCostMp": 0,
-          "useCostWp": 0,
-          "useRangeMin": 0,
-          "useRangeMax": 0,
-          "useTestFreeCell": false,
-          "useTestLos": false,
-          "useTestOnlyLine": false,
-          "useTestNoBorderCell": false,
-          "useWorldTarget": 0
-        }
-      },
-      "equipEffects": [
-        {
-          "effect": {
-            "definition": {
-              "id": 272967,
-              "actionId": 20,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                18,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 272972,
-              "actionId": 85,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                11,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 272973,
-              "actionId": 84,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                11,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 272968,
-              "actionId": 175,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                5,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 272969,
-              "actionId": 120,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                7,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 272970,
-              "actionId": 1053,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                6,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 272971,
-              "actionId": 83,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                11,
-                0
-              ]
-            }
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "fr": "Anneau Sépalour",
-      "en": "Itslite Ring",
-      "es": "Anillo Nopesa",
-      "pt": "Anel Daluz"
-    },
-    "description": {
-      "fr": "Mais vraiment pas lourd du tout.",
-      "en": "It really is light!",
-      "es": "No pesa nada de nada.",
-      "pt": "É realmente iluminado!"
-    },
-    "definition": {
-      "item": {
-        "level": 39,
-        "id": 25147,
-        "graphicParameters": {
-          "gfxId": 10310331,
-          "femaleGfxId": 10310331
-        },
-        "baseParameters": {
-          "itemTypeId": 103,
-          "rarity": 1
-        },
-        "useParameters": {
-          "useCostAp": 0,
-          "useCostMp": 0,
-          "useCostWp": 0,
-          "useRangeMin": 0,
-          "useRangeMax": 0,
-          "useTestFreeCell": false,
-          "useTestLos": false,
-          "useTestOnlyLine": false,
-          "useTestNoBorderCell": false,
-          "useWorldTarget": 0
-        }
-      },
-      "equipEffects": [
-        {
-          "effect": {
-            "definition": {
-              "id": 272998,
-              "actionId": 20,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                13,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 272999,
-              "actionId": 175,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                4,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 273000,
-              "actionId": 120,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                3,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 273001,
-              "actionId": 26,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                1,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 273002,
-              "actionId": 1069,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                10,
-                0,
-                1,
-                0
-              ]
             }
           }
         }

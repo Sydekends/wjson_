@@ -1,518 +1,24 @@
 [
   {
     "title": {
-      "fr": "Anneau Rageur",
-      "en": "Raging Ring",
-      "es": "Anillo rabioso",
-      "pt": "Anel Raivoso"
+      "fr": "Amulette de Srambad",
+      "en": "Srambad Amulet",
+      "es": "Amuleto de Sramvil",
+      "pt": "Amuleto de Sramvil"
     },
     "description": {
-      "fr": "Laissez bouillir la rage qui est en vous !",
-      "en": "Let the rage inside you boil!",
-      "es": "¡Deja sacar toda la rabia que hay en ti!",
-      "pt": "Deixe ferver a raiva que há em você!"
+      "fr": "Cette amulette émane toute la malveillance de son ancien porteur.",
+      "en": "This amulet emits all its previous wearer's evil.",
+      "es": "Toda la maldad de su antiguo dueño emana aún de este amuleto.",
+      "pt": "Este amuleto emite todo o mal de seus antigos portadores."
     },
     "definition": {
       "item": {
-        "level": 158,
-        "id": 21208,
+        "level": 141,
+        "id": 22595,
         "graphicParameters": {
-          "gfxId": 10321208,
-          "femaleGfxId": 10321208
-        },
-        "baseParameters": {
-          "itemTypeId": 103,
-          "rarity": 1
-        },
-        "useParameters": {
-          "useCostAp": 0,
-          "useCostMp": 0,
-          "useCostWp": 0,
-          "useRangeMin": 0,
-          "useRangeMax": 0,
-          "useTestFreeCell": false,
-          "useTestLos": true,
-          "useTestOnlyLine": false,
-          "useTestNoBorderCell": true,
-          "useWorldTarget": 0
-        }
-      },
-      "equipEffects": [
-        {
-          "effect": {
-            "definition": {
-              "id": 189578,
-              "actionId": 875,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                1,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 189579,
-              "actionId": 1068,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                12,
-                0,
-                3,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 189576,
-              "actionId": 20,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                110,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 189577,
-              "actionId": 173,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                15,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 189582,
-              "actionId": 85,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                11,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 189583,
-              "actionId": 84,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                11,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 189580,
-              "actionId": 1055,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                6,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 189581,
-              "actionId": 83,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                11,
-                0
-              ]
-            }
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "fr": "Bague Six-Dents",
-      "en": "Sixtooth Ring",
-      "es": "Sortija Cidente",
-      "pt": "Acidentanel"
-    },
-    "description": {
-      "fr": "Certains diraient que cet anneau est une allégorie du mariage : on s'en mord les doigts.",
-      "en": "A ring that's perfect for those who are missing a few toothy-pegs.",
-      "es": "Hay cosas en la vida que ocurren por puro accidente, como pillarse los dedos con un anillo como este.",
-      "pt": "O bom deste anel é que você pode culpá-lo sempre que algo der errado."
-    },
-    "definition": {
-      "item": {
-        "level": 157,
-        "id": 21209,
-        "graphicParameters": {
-          "gfxId": 10321209,
-          "femaleGfxId": 10321209
-        },
-        "baseParameters": {
-          "itemTypeId": 103,
-          "rarity": 1
-        },
-        "useParameters": {
-          "useCostAp": 0,
-          "useCostMp": 0,
-          "useCostWp": 0,
-          "useRangeMin": 0,
-          "useRangeMax": 0,
-          "useTestFreeCell": false,
-          "useTestLos": true,
-          "useTestOnlyLine": false,
-          "useTestNoBorderCell": true,
-          "useWorldTarget": 0
-        }
-      },
-      "equipEffects": [
-        {
-          "effect": {
-            "definition": {
-              "id": 189663,
-              "actionId": 20,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                84,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 189666,
-              "actionId": 875,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                1,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 189667,
-              "actionId": 1068,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                12,
-                0,
-                3,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 189664,
-              "actionId": 173,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                10,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 189665,
-              "actionId": 175,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                10,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 189670,
-              "actionId": 83,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                11,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 189671,
-              "actionId": 85,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                11,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 189668,
-              "actionId": 1052,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                12,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 189669,
-              "actionId": 82,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                11,
-                0
-              ]
-            }
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "fr": "Epaulettes Rageuses",
-      "en": "Raging Epaulettes",
-      "es": "Hombreras rabiosas",
-      "pt": "Dragonas Raivosas"
-    },
-    "description": {
-      "fr": "Avec ces épaulettes, personne n'osera vous chercher des noises de peur de vous voir devenir rouge de colère.",
-      "en": "With these epaulettes, no one will dare go looking for trouble with you, out of fear that you'll become red with rage.",
-      "es": "Con estas hombreras, nadie se atreverá ni a toserte por miedo a que te pongas rojo de ira.",
-      "pt": "Com estas dragonas, ninguém mexerá com você, pois todos ficarão com medo da sua reação."
-    },
-    "definition": {
-      "item": {
-        "level": 156,
-        "id": 21212,
-        "graphicParameters": {
-          "gfxId": 13821212,
-          "femaleGfxId": 13821212
-        },
-        "baseParameters": {
-          "itemTypeId": 138,
-          "rarity": 1
-        },
-        "useParameters": {
-          "useCostAp": 0,
-          "useCostMp": 0,
-          "useCostWp": 0,
-          "useRangeMin": 0,
-          "useRangeMax": 0,
-          "useTestFreeCell": false,
-          "useTestLos": false,
-          "useTestOnlyLine": false,
-          "useTestNoBorderCell": false,
-          "useWorldTarget": 0
-        }
-      },
-      "equipEffects": [
-        {
-          "effect": {
-            "definition": {
-              "id": 190166,
-              "actionId": 20,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                197,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 190167,
-              "actionId": 175,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                12,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 190170,
-              "actionId": 1055,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                6,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 190171,
-              "actionId": 82,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                17,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 190168,
-              "actionId": 150,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                4,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 190169,
-              "actionId": 1068,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                35,
-                0,
-                3,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 190172,
-              "actionId": 83,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                17,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 190173,
-              "actionId": 84,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                17,
-                0
-              ]
-            }
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "fr": "Amulette Rageuse",
-      "en": "Raging Amulet",
-      "es": "Amuleto rabioso",
-      "pt": "Amuleto Raivoso"
-    },
-    "description": {
-      "fr": "Sertie d'un rubis, cette amulette ressemble à un oeil rouge de rage qui vous fixe.",
-      "en": "Set with a ruby, this amulet looks like a red eye full of anger, staring at you.",
-      "es": "Sacado de un rubí, este amuleto parece un ojo rojo de ira que no deja de mirarte.",
-      "pt": "Adornado com um rubi, este amuleto se parece com um olho vermelho de raiva que não para de encarar você."
-    },
-    "definition": {
-      "item": {
-        "level": 159,
-        "id": 21213,
-        "graphicParameters": {
-          "gfxId": 12021213,
-          "femaleGfxId": 12021213
+          "gfxId": 12018524,
+          "femaleGfxId": 12018524
         },
         "baseParameters": {
           "itemTypeId": 120,
@@ -535,7 +41,25 @@
         {
           "effect": {
             "definition": {
-              "id": 189647,
+              "id": 220695,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                118,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 220694,
               "actionId": 31,
               "areaShape": 32767,
               "areaSize": [],
@@ -553,23 +77,7 @@
         {
           "effect": {
             "definition": {
-              "id": 189650,
-              "actionId": 1068,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                35,
-                0,
-                3,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 189651,
+              "id": 220699,
               "actionId": 1055,
               "areaShape": 32767,
               "areaSize": [],
@@ -583,629 +91,7 @@
         {
           "effect": {
             "definition": {
-              "id": 189648,
-              "actionId": 20,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                131,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 189649,
-              "actionId": 150,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                4,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 189654,
-              "actionId": 84,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                17,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 189652,
-              "actionId": 82,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                17,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 189653,
-              "actionId": 83,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                17,
-                0
-              ]
-            }
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "fr": "Armurétro",
-      "en": "Armoretro",
-      "es": "Retromadura",
-      "pt": "Retroarmadura"
-    },
-    "description": {
-      "fr": "Porter ce plastron siéra parfaitement à votre look rétro, efficace pour tomber toutes les Enutrofettes du bar d'Amakna.",
-      "en": "This breastplate is the perfect accessory for your retro look. It will have the Enutrofettes in the Amakna Bar falling at your feet.",
-      "es": "Esta coraza va de perlas con tu look retro: muy eficaz para ligarte a las anutrofitas del bar de Amakna.",
-      "pt": "Esta armadura combina perfeitamente com o seu estilo retrô. É muito eficaz para deixar todas as Enutrofs do bar de Amakna caidinhas por você."
-    },
-    "definition": {
-      "item": {
-        "level": 156,
-        "id": 22367,
-        "graphicParameters": {
-          "gfxId": 13619046,
-          "femaleGfxId": 13619046
-        },
-        "baseParameters": {
-          "itemTypeId": 136,
-          "rarity": 1
-        },
-        "useParameters": {
-          "useCostAp": 0,
-          "useCostMp": 0,
-          "useCostWp": 0,
-          "useRangeMin": 0,
-          "useRangeMax": 0,
-          "useTestFreeCell": false,
-          "useTestLos": true,
-          "useTestOnlyLine": false,
-          "useTestNoBorderCell": true,
-          "useWorldTarget": 0
-        }
-      },
-      "equipEffects": [
-        {
-          "effect": {
-            "definition": {
-              "id": 207247,
-              "actionId": 173,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                20,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 207246,
-              "actionId": 20,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                209,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 207245,
-              "actionId": 41,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                1,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 207251,
-              "actionId": 80,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                20,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 207250,
-              "actionId": 1052,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                18,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 207249,
-              "actionId": 1068,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                30,
-                0,
-                2,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 207248,
-              "actionId": 875,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                2,
-                0
-              ]
-            }
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "fr": "Bottantiques",
-      "en": "Bootanics",
-      "es": "Botañejas",
-      "pt": "Botantigas"
-    },
-    "description": {
-      "fr": "En portant ces bottes, vous prenez trente ans de vie aux yeux de la population locale. Pratique pour vous faire passer pour un Xélor adolescent.",
-      "en": "With these boots on, you'll add thirty years to your age in the eyes of the local population. Which is great if you want to pass for a teenage Xelor.",
-      "es": "Al ponerte estas botas, parecerá que tengas treinta años más a los ojos de la población local. Son prácticas para hacerte pasar por un xelor adolescente.",
-      "pt": "Ao usar estas botas, você parecerá trinta anos mais velho aos olhos da população local. São muito úteis se quiser se fazer passar por um Xelor adolescente."
-    },
-    "definition": {
-      "item": {
-        "level": 158,
-        "id": 22370,
-        "graphicParameters": {
-          "gfxId": 11919047,
-          "femaleGfxId": 11919047
-        },
-        "baseParameters": {
-          "itemTypeId": 119,
-          "rarity": 1
-        },
-        "useParameters": {
-          "useCostAp": 0,
-          "useCostMp": 0,
-          "useCostWp": 0,
-          "useRangeMin": 0,
-          "useRangeMax": 0,
-          "useTestFreeCell": false,
-          "useTestLos": true,
-          "useTestOnlyLine": false,
-          "useTestNoBorderCell": true,
-          "useWorldTarget": 0
-        }
-      },
-      "equipEffects": [
-        {
-          "effect": {
-            "definition": {
-              "id": 223367,
-              "actionId": 875,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                3,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 223366,
-              "actionId": 173,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                20,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 223365,
-              "actionId": 20,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                147,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 223364,
-              "actionId": 41,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                1,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 223371,
-              "actionId": 85,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                33,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 223370,
-              "actionId": 82,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                33,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 223369,
-              "actionId": 1052,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                12,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 223368,
-              "actionId": 1068,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                37,
-                0,
-                2,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 223372,
-              "actionId": 84,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                33,
-                0
-              ]
-            }
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "fr": "Capassée",
-      "en": "Past Cloak",
-      "es": "Capasada",
-      "pt": "Capassado"
-    },
-    "description": {
-      "fr": "Cette cape appartient désormais au passé.",
-      "en": "This cloak now belongs to the past.",
-      "es": "Ahora, esta capa pertenece al pasado.",
-      "pt": "Esta capa agora pertence ao passado."
-    },
-    "definition": {
-      "item": {
-        "level": 159,
-        "id": 22373,
-        "graphicParameters": {
-          "gfxId": 13219044,
-          "femaleGfxId": 13219044
-        },
-        "baseParameters": {
-          "itemTypeId": 132,
-          "rarity": 1
-        },
-        "useParameters": {
-          "useCostAp": 0,
-          "useCostMp": 0,
-          "useCostWp": 0,
-          "useRangeMin": 0,
-          "useRangeMax": 0,
-          "useTestFreeCell": false,
-          "useTestLos": true,
-          "useTestOnlyLine": false,
-          "useTestNoBorderCell": true,
-          "useWorldTarget": 0
-        }
-      },
-      "equipEffects": [
-        {
-          "effect": {
-            "definition": {
-              "id": 207311,
-              "actionId": 20,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                145,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 207310,
-              "actionId": 31,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                1,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 207315,
-              "actionId": 1068,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                30,
-                0,
-                2,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 207314,
-              "actionId": 150,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                2,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 207312,
-              "actionId": 175,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                30,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 207319,
-              "actionId": 84,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                28,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 207318,
-              "actionId": 85,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                28,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 207317,
-              "actionId": 83,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                28,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 207316,
-              "actionId": 1053,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                20,
-                0
-              ]
-            }
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "fr": "Annombre",
-      "en": "Grim Ring",
-      "es": "Anillombrío",
-      "pt": "Sombranel"
-    },
-    "description": {
-      "fr": "L'Annombre nous rappelle les heures sombres de notre histoire.",
-      "en": "This Grim Ring reminds us of some of our darker days.",
-      "es": "El anillombrío nos recuerda las horas más sombrías de nuestra historia.",
-      "pt": "O Sombranel nos faz lembrar das horas sombrias da nossa história."
-    },
-    "definition": {
-      "item": {
-        "level": 158,
-        "id": 22378,
-        "graphicParameters": {
-          "gfxId": 10319050,
-          "femaleGfxId": 10319050
-        },
-        "baseParameters": {
-          "itemTypeId": 103,
-          "rarity": 1
-        },
-        "useParameters": {
-          "useCostAp": 0,
-          "useCostMp": 0,
-          "useCostWp": 0,
-          "useRangeMin": 0,
-          "useRangeMax": 0,
-          "useTestFreeCell": false,
-          "useTestLos": true,
-          "useTestOnlyLine": false,
-          "useTestNoBorderCell": true,
-          "useWorldTarget": 0
-        }
-      },
-      "equipEffects": [
-        {
-          "effect": {
-            "definition": {
-              "id": 207370,
+              "id": 220698,
               "actionId": 1068,
               "areaShape": 32767,
               "areaSize": [],
@@ -1221,12 +107,12 @@
         {
           "effect": {
             "definition": {
-              "id": 207369,
-              "actionId": 175,
+              "id": 220697,
+              "actionId": 150,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                13,
+                2,
                 0
               ]
             }
@@ -1235,12 +121,110 @@
         {
           "effect": {
             "definition": {
-              "id": 207368,
+              "id": 220702,
+              "actionId": 85,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                28,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 220701,
+              "actionId": 82,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                28,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 363260,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                7,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 363259,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                7,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Epaulettes de Srambad",
+      "en": "Srambad Shoulder Pads",
+      "es": "Hombreras de Sramvil",
+      "pt": "Dragonas de Sramvil"
+    },
+    "description": {
+      "fr": "Ces épaulettes permettent d'atteindre la cible dans les côtes en toute discrétion.",
+      "en": "The shoulder pads allow you to discreetly hit your target in the sides.",
+      "es": "Estas hombreras te permiten golpear al objetivo en las costillas con total discreción.",
+      "pt": "Estas dragonas permitem que você acerte discretamente seu alvo na lateral."
+    },
+    "definition": {
+      "item": {
+        "level": 143,
+        "id": 22598,
+        "graphicParameters": {
+          "gfxId": 13818528,
+          "femaleGfxId": 13818528
+        },
+        "baseParameters": {
+          "itemTypeId": 138,
+          "rarity": 1
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 220703,
               "actionId": 20,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                101,
+                109,
                 0,
                 1,
                 0,
@@ -1253,8 +237,80 @@
         {
           "effect": {
             "definition": {
-              "id": 207373,
-              "actionId": 85,
+              "id": 220707,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                18,
+                0,
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 220706,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 220704,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                30,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 220711,
+              "actionId": 83,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                22,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 220710,
+              "actionId": 988,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                5,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 220708,
+              "actionId": 1055,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
@@ -1267,12 +323,26 @@
         {
           "effect": {
             "definition": {
-              "id": 207372,
-              "actionId": 83,
+              "id": 220713,
+              "actionId": 84,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                21,
+                22,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 220712,
+              "actionId": 85,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                22,
                 0
               ]
             }
@@ -1283,24 +353,362 @@
   },
   {
     "title": {
-      "fr": "Ceinturon Classique",
-      "en": "Classic Belt",
-      "es": "Cinturón clásico",
-      "pt": "Cinturão Clássico"
+      "fr": "Masque de Srambad",
+      "en": "Srambad Mask",
+      "es": "Máscara de Sramvil",
+      "pt": "Mascara de Sramvil"
     },
     "description": {
-      "fr": "Le porte-aiguille classique que porte tous les disciples de Xélor.",
-      "en": "This classic hand-holder is a favourite amongst Xelor disciples.",
-      "es": "El portagujas clásico que llevan todos los discípulos de Xelor.",
-      "pt": "O cinto clássico usado por todos os discípulos de Xelor."
+      "fr": "Le masque de Srambad permet de cacher son identité et il est fortement conseillé de le porter dans cette ville.",
+      "en": "The Srambad Mask lets you hide your identity, which is highly recommended in this town.",
+      "es": "La máscara de Sramvil permite ocultar la identidad del portador. Además, es muy aconsejable ponérsela en esta dimensión.",
+      "pt": "A Mascara de Sramvil permite que você oculte sua identidade, o que é altamente recomendável nesta cidade."
     },
     "definition": {
       "item": {
-        "level": 156,
-        "id": 22398,
+        "level": 141,
+        "id": 22601,
         "graphicParameters": {
-          "gfxId": 13319126,
-          "femaleGfxId": 13319126
+          "gfxId": 13418532,
+          "femaleGfxId": 13418532
+        },
+        "baseParameters": {
+          "itemTypeId": 134,
+          "rarity": 1
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 220783,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                122,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 220782,
+              "actionId": 160,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 220787,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                24,
+                0,
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 220786,
+              "actionId": 875,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 220784,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                30,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 220791,
+              "actionId": 85,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                22,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 220790,
+              "actionId": 82,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                22,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 220788,
+              "actionId": 1055,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                18,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 220792,
+              "actionId": 84,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                22,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Collier de Bulldague Nain",
+      "en": "Dwarf Bulldagger Collar",
+      "es": "Collar de bulldaga enano",
+      "pt": "Coleira de Buldaga Anão"
+    },
+    "description": {
+      "fr": "Ce collier est utilisé sur les jeunes Bulldague Nain afin de les dresser le plus rapidement possible. Il émet une décharge électrique à chaque démonstration de joie.",
+      "en": "This collar is used on young Dwarf Bulldaggers to train them as quickly as possibly. It shocks them with a jolt of electricity each time they express joy.",
+      "es": "Este collar se utiliza para adiestrar lo más rápidamente posible a los bulldagas enanos. Emite una descarga eléctrica cada vez que hacen una demostración de alegría.",
+      "pt": "Esta coleira é usada em jovens Buldagas Anões para adestrá-los o mais rápido possível. Ela emite uma descarga elétrica toda vez que as pobres criaturas expressam alegria."
+    },
+    "definition": {
+      "item": {
+        "level": 143,
+        "id": 22606,
+        "graphicParameters": {
+          "gfxId": 12018525,
+          "femaleGfxId": 12018525
+        },
+        "baseParameters": {
+          "itemTypeId": 120,
+          "rarity": 1
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 221063,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                84,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221062,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221067,
+              "actionId": 149,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                5,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221066,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                24,
+                0,
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221065,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221068,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                15,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 363631,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                20,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 363632,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                20,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Ceinture d'Enutrosor",
+      "en": "Enurado Belt",
+      "es": "Cinturón de Anutropía",
+      "pt": "Cinto de Enutropia"
+    },
+    "description": {
+      "fr": "\"Le crédit n’est que l’apparente richesse des personnes qui se serrent la ceinture pour subvenir à leur besoin.\"",
+      "en": "\"Credit is only the apparent wealth of those who tighten their belts to meet their needs.\"",
+      "es": "El crédito no es más que la aparente riqueza de las personas que se aprietan el cinturón para satisfacer sus necesidades.",
+      "pt": "\"O crédito é apenas a aparente riqueza daqueles que estão apertando os cintos para atender às suas necessidades.\""
+    },
+    "definition": {
+      "item": {
+        "level": 142,
+        "id": 22633,
+        "graphicParameters": {
+          "gfxId": 13318547,
+          "femaleGfxId": 13318547
         },
         "baseParameters": {
           "itemTypeId": 133,
@@ -1323,12 +731,26 @@
         {
           "effect": {
             "definition": {
-              "id": 206839,
+              "id": 221283,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                30,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221282,
               "actionId": 20,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                121,
+                117,
                 0,
                 1,
                 0,
@@ -1341,12 +763,26 @@
         {
           "effect": {
             "definition": {
-              "id": 206843,
+              "id": 221287,
+              "actionId": 180,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                9,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221286,
               "actionId": 1068,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                63,
+                24,
                 0,
                 2,
                 0
@@ -1357,7 +793,7 @@
         {
           "effect": {
             "definition": {
-              "id": 206842,
+              "id": 221285,
               "actionId": 150,
               "areaShape": 32767,
               "areaSize": [],
@@ -1371,167 +807,7 @@
         {
           "effect": {
             "definition": {
-              "id": 206840,
-              "actionId": 175,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                30,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 206847,
-              "actionId": 85,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                22,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 206846,
-              "actionId": 83,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                22,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 206845,
-              "actionId": 82,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                22,
-                0
-              ]
-            }
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "fr": "Couvre-chef Ordinaire",
-      "en": "Ordinary Hat",
-      "es": "Cubrecabeza ordinario",
-      "pt": "Chapéu Normal"
-    },
-    "description": {
-      "fr": "Un chapeau ordinaire porté par tous les disciples de Xélor. Probablement pour masquer leurs fausses oreilles.",
-      "en": "An ordinary hat worn by all Xelor disciples. Probably to hide their fake ears.",
-      "es": "Un sombrero corriente y moliente que llevan todos los discípulos de Xelor. Probablemente, para ocultar sus orejas falsas.",
-      "pt": "Um chapéu comum usado por todos os discípulos de Xelor. Provavelmente para esconder as orelhas falsas."
-    },
-    "definition": {
-      "item": {
-        "level": 158,
-        "id": 22401,
-        "graphicParameters": {
-          "gfxId": 13419123,
-          "femaleGfxId": 13419123
-        },
-        "baseParameters": {
-          "itemTypeId": 134,
-          "rarity": 1
-        },
-        "useParameters": {
-          "useCostAp": 0,
-          "useCostMp": 0,
-          "useCostWp": 0,
-          "useRangeMin": 0,
-          "useRangeMax": 0,
-          "useTestFreeCell": false,
-          "useTestLos": false,
-          "useTestOnlyLine": false,
-          "useTestNoBorderCell": false,
-          "useWorldTarget": 0
-        }
-      },
-      "equipEffects": [
-        {
-          "effect": {
-            "definition": {
-              "id": 206875,
-              "actionId": 1068,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                62,
-                0,
-                2,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 206874,
-              "actionId": 175,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                30,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 206873,
-              "actionId": 20,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                171,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 206872,
-              "actionId": 160,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                1,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 206879,
+              "id": 221290,
               "actionId": 84,
               "areaShape": 32767,
               "areaSize": [],
@@ -1545,8 +821,8 @@
         {
           "effect": {
             "definition": {
-              "id": 206878,
-              "actionId": 85,
+              "id": 221289,
+              "actionId": 83,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
@@ -1559,8 +835,8 @@
         {
           "effect": {
             "definition": {
-              "id": 206877,
-              "actionId": 83,
+              "id": 221288,
+              "actionId": 82,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
@@ -1575,591 +851,27 @@
   },
   {
     "title": {
-      "fr": "Epaulettes Communes",
-      "en": "Shared Epaulettes",
-      "es": "Hombreras comunes",
-      "pt": "Dragonas Comuns"
+      "fr": "Epaulettes d'Enutrosor",
+      "en": "Enurado Shoulder Pads",
+      "es": "Hombreras de Anutropía",
+      "pt": "Dragonas de Enutropia"
     },
     "description": {
-      "fr": "Une paire d'épaulettes partagées \"temporellement\" par tous les membres de la confrérie.",
-      "en": "A pair of epaulettes \"temporally\" shared between all the members of a brotherhood.",
-      "es": "Todos los miembros de la hermandad comparten este par de hombreras «temporalmente\".",
-      "pt": "Um par de dragonas compartilhadas \"temporariamente\" por todos os membros da confraria."
+      "fr": "\"Les épaules des avares portent des Kamas et un profond dédain.\"",
+      "en": "\"Miser's shoulders carry kamas and a deep comtempt.\"",
+      "es": "Los hombros de los avaros llevan kamas y un profundo desdén.",
+      "pt": "\" Os ombros do avarento carregam kamas e um profundo desdém.\""
     },
     "definition": {
       "item": {
-        "level": 157,
-        "id": 22404,
+        "level": 144,
+        "id": 22636,
         "graphicParameters": {
-          "gfxId": 13819124,
-          "femaleGfxId": 13819124
+          "gfxId": 13818531,
+          "femaleGfxId": 13818531
         },
         "baseParameters": {
           "itemTypeId": 138,
-          "rarity": 1
-        },
-        "useParameters": {
-          "useCostAp": 0,
-          "useCostMp": 0,
-          "useCostWp": 0,
-          "useRangeMin": 0,
-          "useRangeMax": 0,
-          "useTestFreeCell": false,
-          "useTestLos": false,
-          "useTestOnlyLine": false,
-          "useTestNoBorderCell": false,
-          "useWorldTarget": 0
-        }
-      },
-      "equipEffects": [
-        {
-          "effect": {
-            "definition": {
-              "id": 206907,
-              "actionId": 1068,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                63,
-                0,
-                2,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 206906,
-              "actionId": 150,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                2,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 206905,
-              "actionId": 175,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                30,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 206904,
-              "actionId": 20,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                153,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 206911,
-              "actionId": 85,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                17,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 206910,
-              "actionId": 83,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                17,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 206909,
-              "actionId": 82,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                17,
-                0
-              ]
-            }
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "fr": "L'Ephémère",
-      "en": "The Ephemeral",
-      "es": "Efímera",
-      "pt": "A Efêmera"
-    },
-    "description": {
-      "fr": "Plus efficace que jamais, cette aiguille ne sera malheureusement pas éternelle.",
-      "en": "More effective than ever, unfortunately this hand won't last forever.",
-      "es": "Esta aguja, más eficaz que nunca, no es eterna, por desgracia.",
-      "pt": "Mais eficaz do que nunca, esta agulha infelizmente nunca será eterna."
-    },
-    "definition": {
-      "item": {
-        "level": 159,
-        "id": 22409,
-        "graphicParameters": {
-          "gfxId": 11519130,
-          "femaleGfxId": 11519130
-        },
-        "baseParameters": {
-          "itemTypeId": 115,
-          "rarity": 1
-        },
-        "useParameters": {
-          "useCostAp": 5,
-          "useCostMp": 0,
-          "useCostWp": 0,
-          "useRangeMin": 2,
-          "useRangeMax": 3,
-          "useTestFreeCell": false,
-          "useTestLos": false,
-          "useTestOnlyLine": true,
-          "useTestNoBorderCell": false,
-          "useWorldTarget": 0
-        }
-      },
-      "equipEffects": [
-        {
-          "effect": {
-            "definition": {
-              "id": 206955,
-              "actionId": 20,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                119,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 206954,
-              "actionId": 31,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                1,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 206958,
-              "actionId": 1053,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                30,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 206957,
-              "actionId": 1068,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                37,
-                0,
-                2,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 206956,
-              "actionId": 175,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                20,
-                0
-              ]
-            }
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "fr": "La Baguapoutre",
-      "en": "Ringmote",
-      "es": "Pinxanillo",
-      "pt": "Anelmotivo"
-    },
-    "description": {
-      "fr": "On raconte que cette bague aurait eu une aventure avec Ombrage. Elle aurait rompu sous prétexte que la Baguapoutre était un peu trop chaude.",
-      "en": "Apparently, this ring once had a bit of a fling with Shadofang. Unfortunately, they broke up because Ringmote was a bit distant.",
-      "es": "Se dice que este anillo tuvo una aventura con Sombría, pero esta lo dejó dando la excusa de que el pinxanillo era demasiado caliente.",
-      "pt": "Dizem que este anel teve um caso com Presanegra. Infelizmente, eles se separaram porque o Anelmotivo era quente demais."
-    },
-    "definition": {
-      "item": {
-        "level": 156,
-        "id": 25811,
-        "graphicParameters": {
-          "gfxId": 10310978,
-          "femaleGfxId": 10310978
-        },
-        "baseParameters": {
-          "itemTypeId": 103,
-          "rarity": 1
-        },
-        "useParameters": {
-          "useCostAp": 0,
-          "useCostMp": 0,
-          "useCostWp": 0,
-          "useRangeMin": 0,
-          "useRangeMax": 0,
-          "useTestFreeCell": false,
-          "useTestLos": false,
-          "useTestOnlyLine": false,
-          "useTestNoBorderCell": false,
-          "useWorldTarget": 0
-        }
-      },
-      "equipEffects": [
-        {
-          "effect": {
-            "definition": {
-              "id": 277932,
-              "actionId": 20,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                149,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 277933,
-              "actionId": 176,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                40,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 277934,
-              "actionId": 1068,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                18,
-                0,
-                3,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 277935,
-              "actionId": 149,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                10,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 277936,
-              "actionId": 82,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                17,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 277937,
-              "actionId": 83,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                17,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 277938,
-              "actionId": 84,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                17,
-                0
-              ]
-            }
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "fr": "La Capapoutre",
-      "en": "Stalagcape",
-      "es": "Capapinxo",
-      "pt": "Estalag'capa"
-    },
-    "description": {
-      "fr": "Ne laissez pas trop traîner cette cape dans votre Havre-Sac, des stalagmites pourraient y pousser: il ne faudra pas vous plaindre de douleurs dans le dos…",
-      "en": "Don't leave this cape in the bottom of your Haven Bag or you could find stalagmites growing in it. You'll only have yourself to blame when your back starts hurting...",
-      "es": "No dejes mucho tiempo esta capa dentro del merkasako, o podrían salirle estalagmitas. Después, no te quejes de los dolores de espalda...",
-      "pt": "Não deixe esta capa no fundo do seu Saco de Viagem ou você poderá encontrar estalagmites crescendo nela. Se começar a machucar suas costas, a culpa será inteiramente sua..."
-    },
-    "definition": {
-      "item": {
-        "level": 158,
-        "id": 25815,
-        "graphicParameters": {
-          "gfxId": 13210977,
-          "femaleGfxId": 13210977
-        },
-        "baseParameters": {
-          "itemTypeId": 132,
-          "rarity": 1
-        },
-        "useParameters": {
-          "useCostAp": 0,
-          "useCostMp": 0,
-          "useCostWp": 0,
-          "useRangeMin": 0,
-          "useRangeMax": 0,
-          "useTestFreeCell": false,
-          "useTestLos": false,
-          "useTestOnlyLine": false,
-          "useTestNoBorderCell": false,
-          "useWorldTarget": 0
-        }
-      },
-      "equipEffects": [
-        {
-          "effect": {
-            "definition": {
-              "id": 277940,
-              "actionId": 20,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                186,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 277941,
-              "actionId": 176,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                60,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 277942,
-              "actionId": 150,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                4,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 277943,
-              "actionId": 1068,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                42,
-                0,
-                3,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 277939,
-              "actionId": 31,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                1,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 277944,
-              "actionId": 83,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                69,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 277945,
-              "actionId": 84,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                69,
-                0
-              ]
-            }
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "fr": "Le Pataplastron",
-      "en": "Stalagirdle",
-      "es": "La Patoraza",
-      "pt": "Estalaccinta"
-    },
-    "description": {
-      "fr": "Vous vouliez savoir ce que ressent un rocher ?  Ce plastron fort rigide va vous le montrer.",
-      "en": "Want to be a solid as a rock?  Now you can be.",
-      "es": "¿Querías saber lo que siente una piedra?  Esta coraza, durísima y rígida, va a enseñártelo.",
-      "pt": "Sempre sonhou em ser duro como pedra?  Graças a este peitoral, agora você pode."
-    },
-    "definition": {
-      "item": {
-        "level": 157,
-        "id": 25819,
-        "graphicParameters": {
-          "gfxId": 13610976,
-          "femaleGfxId": 13610976
-        },
-        "baseParameters": {
-          "itemTypeId": 136,
           "rarity": 1
         },
         "useParameters": {
@@ -2179,12 +891,12 @@
         {
           "effect": {
             "definition": {
-              "id": 277996,
-              "actionId": 176,
+              "id": 221291,
+              "actionId": 184,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                50,
+                1,
                 0
               ]
             }
@@ -2193,12 +905,12 @@
         {
           "effect": {
             "definition": {
-              "id": 277997,
-              "actionId": 875,
+              "id": 221295,
+              "actionId": 150,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                3,
+                2,
                 0
               ]
             }
@@ -2207,7 +919,185 @@
         {
           "effect": {
             "definition": {
-              "id": 277998,
+              "id": 221293,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                24,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221292,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                139,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221299,
+              "actionId": 85,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                17,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221298,
+              "actionId": 83,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                17,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221297,
+              "actionId": 180,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                6,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221296,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                30,
+                0,
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221300,
+              "actionId": 84,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                17,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "La Débiteuse",
+      "en": "The Overdrawn",
+      "es": "La Debitadora",
+      "pt": "A Debitadora"
+    },
+    "description": {
+      "fr": "La Débiteuse permet de régler ses comptes ou d'effectuer des dommages dont les montants sont généralement débités sur le long terme.",
+      "en": "The Overdrawn allows for debts to be settled or damage to be dealt over time.",
+      "es": "La Debitadora permite arreglar cuentas o efectuar daños cuya suma se debita a largo plazo.",
+      "pt": "A Debitadora permite quitar débitos ou causar danos cuja soma será debitada a longo prazo."
+    },
+    "definition": {
+      "item": {
+        "level": 144,
+        "id": 22641,
+        "graphicParameters": {
+          "gfxId": 11118562,
+          "femaleGfxId": 11118562
+        },
+        "baseParameters": {
+          "itemTypeId": 111,
+          "rarity": 1
+        },
+        "useParameters": {
+          "useCostAp": 4,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 1,
+          "useRangeMax": 1,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 221651,
+              "actionId": 184,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221650,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221655,
               "actionId": 1068,
               "areaShape": 32767,
               "areaSize": [],
@@ -2223,12 +1113,12 @@
         {
           "effect": {
             "definition": {
-              "id": 277999,
-              "actionId": 1052,
+              "id": 221654,
+              "actionId": 150,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                24,
+                2,
                 0
               ]
             }
@@ -2237,146 +1127,12 @@
         {
           "effect": {
             "definition": {
-              "id": 277994,
-              "actionId": 31,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                1,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 277995,
-              "actionId": 20,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                124,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 278000,
-              "actionId": 82,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                33,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 278001,
-              "actionId": 83,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                33,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 278002,
-              "actionId": 85,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                33,
-                0
-              ]
-            }
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "fr": "Le Casquepoutre",
-      "en": "Stalahelmet",
-      "es": "Cascopinxo",
-      "pt": "Estalelmoctite"
-    },
-    "description": {
-      "fr": "Si vous êtes sang chaud, ce casque est fait pour vous ! Attention toutefois aux bouffées de chaleurs.",
-      "en": "Hot-blooded warriors will love this helmet! If you decide to wear it, though, be prepared for hot flashes.",
-      "es": "Si eres de sangre caliente, ¡este casco está hecho para ti! Pero aún así, cuidado con los golpes de calor.",
-      "pt": "Os guerreiros de sangue quente vão adorar este elmo! Se decidir usá-lo, prepare-se para as ondas de calor."
-    },
-    "definition": {
-      "item": {
-        "level": 157,
-        "id": 25826,
-        "graphicParameters": {
-          "gfxId": 13410981,
-          "femaleGfxId": 13410981
-        },
-        "baseParameters": {
-          "itemTypeId": 134,
-          "rarity": 1
-        },
-        "useParameters": {
-          "useCostAp": 0,
-          "useCostMp": 0,
-          "useCostWp": 0,
-          "useRangeMin": 0,
-          "useRangeMax": 0,
-          "useTestFreeCell": false,
-          "useTestLos": false,
-          "useTestOnlyLine": false,
-          "useTestNoBorderCell": false,
-          "useWorldTarget": 0
-        }
-      },
-      "equipEffects": [
-        {
-          "effect": {
-            "definition": {
-              "id": 278004,
-              "actionId": 173,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                48,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 278005,
+              "id": 221653,
               "actionId": 175,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                48,
+                20,
                 0
               ]
             }
@@ -2385,26 +1141,12 @@
         {
           "effect": {
             "definition": {
-              "id": 278007,
-              "actionId": 875,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                5,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 278003,
+              "id": 221652,
               "actionId": 20,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                98,
+                161,
                 0,
                 1,
                 0,
@@ -2417,12 +1159,12 @@
         {
           "effect": {
             "definition": {
-              "id": 278012,
-              "actionId": 83,
+              "id": 221657,
+              "actionId": 80,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                44,
+                23,
                 0
               ]
             }
@@ -2431,56 +1173,12 @@
         {
           "effect": {
             "definition": {
-              "id": 278013,
-              "actionId": 85,
+              "id": 221656,
+              "actionId": 149,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                44,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 278008,
-              "actionId": 1068,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                24,
-                0,
-                3,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 278010,
-              "actionId": 1052,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                40,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 278011,
-              "actionId": 82,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                44,
+                10,
                 0
               ]
             }
@@ -2491,27 +1189,27 @@
   },
   {
     "title": {
-      "fr": "Bandana du Roublard Smisse",
-      "en": "Smisse the Rogue's Bandana",
-      "es": "Bandana del tymador Smis",
-      "pt": "Bandana do Ladino Smif"
+      "fr": "Plastron d'Enutrosor",
+      "en": "Enurado Chest Plate",
+      "es": "Coraza de Anutropía",
+      "pt": "Peitoral de Enutropia"
     },
     "description": {
-      "fr": "Il vous permettra de braquer des banques ni vu, ni connu.",
-      "en": "It'll allow you to rob banks unnoticed.",
-      "es": "Te permitirá atracar bancos con total disimulo.",
-      "pt": "Com ela, você poderá assaltar bancos discretamente."
+      "fr": "\"Qui emprunte pour se bâtir des muscles de Kamas, bâtit pour mieux se vendre.\"",
+      "en": "\"He who borrows to build Kama muscles, builds to sell better.\"",
+      "es": "Que pide un préstamo para construirse músculos de kamas, construye para venderse mejor.",
+      "pt": "\"Aquele que toma emprestado para construir músculos Kama, constrói para vender melhor.\""
     },
     "definition": {
       "item": {
-        "level": 156,
-        "id": 25943,
+        "level": 142,
+        "id": 22644,
         "graphicParameters": {
-          "gfxId": 13416095,
-          "femaleGfxId": 13416095
+          "gfxId": 13618538,
+          "femaleGfxId": 34718538
         },
         "baseParameters": {
-          "itemTypeId": 134,
+          "itemTypeId": 136,
           "rarity": 1
         },
         "useParameters": {
@@ -2531,98 +1229,8 @@
         {
           "effect": {
             "definition": {
-              "id": 278420,
-              "actionId": 20,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                217,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 278421,
-              "actionId": 173,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                35,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 278422,
+              "id": 221363,
               "actionId": 175,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                35,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 278423,
-              "actionId": 875,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                4,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 278424,
-              "actionId": 1068,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                37,
-                0,
-                2,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 278426,
-              "actionId": 1052,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                32,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 278427,
-              "actionId": 80,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
@@ -2631,76 +1239,16 @@
               ]
             }
           }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "fr": "Blouse du Roublard Smisse",
-      "en": "Smisse the Rogue's Coat",
-      "es": "Blusa del tymador Smis",
-      "pt": "Camisa do Ladino Smif"
-    },
-    "description": {
-      "fr": "Bien rembourrée de Kamas, cette blouse vous tiendra chaud tout l'hiver.",
-      "en": "Padded with kamas, this coat will keep you warm all winter!",
-      "es": "Esta blusa bien rellena de kamas te abrigará todo el invierno.",
-      "pt": "Forrada de kamas, esta camisa manterá você aquecido durante todo o inverno."
-    },
-    "definition": {
-      "item": {
-        "level": 158,
-        "id": 25947,
-        "graphicParameters": {
-          "gfxId": 13616098,
-          "femaleGfxId": 13616098
-        },
-        "baseParameters": {
-          "itemTypeId": 136,
-          "rarity": 1
-        },
-        "useParameters": {
-          "useCostAp": 0,
-          "useCostMp": 0,
-          "useCostWp": 0,
-          "useRangeMin": 0,
-          "useRangeMax": 0,
-          "useTestFreeCell": false,
-          "useTestLos": false,
-          "useTestOnlyLine": false,
-          "useTestNoBorderCell": false,
-          "useWorldTarget": 0
-        }
-      },
-      "equipEffects": [
-        {
-          "effect": {
-            "definition": {
-              "id": 278428,
-              "actionId": 31,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                1,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
         },
         {
           "effect": {
             "definition": {
-              "id": 278429,
+              "id": 221362,
               "actionId": 20,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                146,
+                165,
                 0,
                 1,
                 0,
@@ -2713,133 +1261,7 @@
         {
           "effect": {
             "definition": {
-              "id": 278430,
-              "actionId": 173,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                10,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 278431,
-              "actionId": 175,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                10,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 278436,
-              "actionId": 84,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                33,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 278433,
-              "actionId": 1052,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                37,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 278434,
-              "actionId": 83,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                33,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 278435,
-              "actionId": 85,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                33,
-                0
-              ]
-            }
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "fr": "Bottes du Roublard Smisse",
-      "en": "Smisse the Rogue's Boots",
-      "es": "Botas del tymador Smis",
-      "pt": "Botas do Ladino Smif"
-    },
-    "description": {
-      "fr": "Rien de mieux pour prendre la fuite avec style.",
-      "en": "There's nothing better than running away in style.",
-      "es": "No hay nada mejor para darse a la fuga con estilo.",
-      "pt": "Não há nada melhor para dar no pé com estilo."
-    },
-    "definition": {
-      "item": {
-        "level": 156,
-        "id": 25951,
-        "graphicParameters": {
-          "gfxId": 11916097,
-          "femaleGfxId": 11916097
-        },
-        "baseParameters": {
-          "itemTypeId": 119,
-          "rarity": 1
-        },
-        "useParameters": {
-          "useCostAp": 0,
-          "useCostMp": 0,
-          "useCostWp": 0,
-          "useRangeMin": 0,
-          "useRangeMax": 0,
-          "useTestFreeCell": false,
-          "useTestLos": false,
-          "useTestOnlyLine": false,
-          "useTestNoBorderCell": false,
-          "useWorldTarget": 0
-        }
-      },
-      "equipEffects": [
-        {
-          "effect": {
-            "definition": {
-              "id": 278494,
+              "id": 221361,
               "actionId": 41,
               "areaShape": 32767,
               "areaSize": [],
@@ -2857,12 +1279,154 @@
         {
           "effect": {
             "definition": {
-              "id": 278495,
+              "id": 221367,
+              "actionId": 180,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                6,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221366,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                24,
+                0,
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221365,
+              "actionId": 875,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221370,
+              "actionId": 84,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                28,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221369,
+              "actionId": 85,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                28,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221368,
+              "actionId": 83,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                28,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Epaulierres",
+      "en": "Ivypaulettes",
+      "es": "Hiedrombreras",
+      "pt": "Ombrheras"
+    },
+    "description": {
+      "fr": "Ces épaulettes végétales sont efficaces, mais pensez à les arroser tous les trois jours et à les exposer au soleil.",
+      "en": "These vegetal epaulettes are effective, but don't forget to water them every three days and give them plenty of sunshine.",
+      "es": "Estas hombreras vegetales son poderosas, pero no olvides regarlas cada tres días y ponerlas al sol.",
+      "pt": "Estas dragonas vegetais são eficazes, mas lembre-se de regá-las a cada três dias e expô-las ao sol."
+    },
+    "definition": {
+      "item": {
+        "level": 141,
+        "id": 22666,
+        "graphicParameters": {
+          "gfxId": 13820560,
+          "femaleGfxId": 13820560
+        },
+        "baseParameters": {
+          "itemTypeId": 138,
+          "rarity": 1
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 222226,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                20,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 222225,
               "actionId": 20,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                61,
+                125,
                 0,
                 1,
                 0,
@@ -2875,12 +1439,12 @@
         {
           "effect": {
             "definition": {
-              "id": 278501,
-              "actionId": 1052,
+              "id": 222224,
+              "actionId": 184,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                16,
+                1,
                 0
               ]
             }
@@ -2889,40 +1453,98 @@
         {
           "effect": {
             "definition": {
-              "id": 278502,
+              "id": 222231,
+              "actionId": 82,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                29,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 222229,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                40,
+                0,
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 222232,
               "actionId": 85,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                69,
+                29,
                 0
               ]
             }
           }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Grappulaire",
+      "en": "Grapulet",
+      "es": "Escapuvario",
+      "pt": "Escapuvário"
+    },
+    "description": {
+      "fr": "Ne mangez pas cette amulette ! Les grains de raisin sont factices !",
+      "en": "Don't eat this amulet! Its grape seeds are fake!",
+      "es": "¡No te comas este amuleto! ¡Es un racimo de mentira!",
+      "pt": "Não coma este amuleto! As uvas são de mentira!"
+    },
+    "definition": {
+      "item": {
+        "level": 141,
+        "id": 22669,
+        "graphicParameters": {
+          "gfxId": 12020555,
+          "femaleGfxId": 12020555
         },
+        "baseParameters": {
+          "itemTypeId": 120,
+          "rarity": 1
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
         {
           "effect": {
             "definition": {
-              "id": 278503,
-              "actionId": 84,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                69,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 278496,
+              "id": 222578,
               "actionId": 173,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                25,
+                20,
                 0
               ]
             }
@@ -2931,12 +1553,16 @@
         {
           "effect": {
             "definition": {
-              "id": 278497,
-              "actionId": 175,
+              "id": 222577,
+              "actionId": 20,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                25,
+                162,
+                0,
+                1,
+                0,
+                0,
                 0
               ]
             }
@@ -2945,7 +1571,163 @@
         {
           "effect": {
             "definition": {
-              "id": 278498,
+              "id": 222576,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 222582,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                9,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 222580,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                34,
+                0,
+                3,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Bottes enracinées",
+      "en": "Rooted Boots",
+      "es": "Botas enraizadas",
+      "pt": "Botas Enraizadas"
+    },
+    "description": {
+      "fr": "Avec de telles bottes vous ne ferez plus qu'un avec le sol.",
+      "en": "Wearing such boots, you'll truly be at one with the ground.",
+      "es": "Con unas botas así, tendrás los pies más en la tierra que nunca.",
+      "pt": "Com estas botas, você e o solo serão o mesmo e único ser."
+    },
+    "definition": {
+      "item": {
+        "level": 143,
+        "id": 22674,
+        "graphicParameters": {
+          "gfxId": 11920551,
+          "femaleGfxId": 11920551
+        },
+        "baseParameters": {
+          "itemTypeId": 119,
+          "rarity": 1
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 222235,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                15,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 222234,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                168,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 222233,
+              "actionId": 41,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 222238,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                33,
+                0,
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 222237,
               "actionId": 875,
               "areaShape": 32767,
               "areaSize": [],
@@ -2959,7 +1741,311 @@
         {
           "effect": {
             "definition": {
-              "id": 278499,
+              "id": 222242,
+              "actionId": 85,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                22,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 222241,
+              "actionId": 83,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                22,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 222240,
+              "actionId": 82,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                22,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Raisinture",
+      "en": "Grapedye",
+      "es": "Cintuvón",
+      "pt": "Cintuva"
+    },
+    "description": {
+      "fr": "Il est tentant de cueillir cette grappe qui vous pend entre les jambes.",
+      "en": "It's tempting to pick this stem hanging between your legs.",
+      "es": "Es tentador eso de agarrarte las uvas que tienes colgando entre las piernas.",
+      "pt": "É tentador colher este cacho pendurado entre as suas pernas."
+    },
+    "definition": {
+      "item": {
+        "level": 144,
+        "id": 22679,
+        "graphicParameters": {
+          "gfxId": 13320557,
+          "femaleGfxId": 13320557
+        },
+        "baseParameters": {
+          "itemTypeId": 133,
+          "rarity": 1
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 222275,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                17,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 222274,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                135,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 222273,
+              "actionId": 184,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 222278,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                31,
+                0,
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 222277,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 222282,
+              "actionId": 84,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                22,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 222281,
+              "actionId": 83,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                22,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 222280,
+              "actionId": 82,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                22,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Epaulettados de Zwombbit",
+      "en": "Boney Zwombbit Epaulettes",
+      "es": "Hombreras de zombbit",
+      "pt": "Dragonas de Zwombbit"
+    },
+    "description": {
+      "fr": "Aussi fragiles qu’elles puissent paraitre un coup dans le torse et vous ferez de mauvais os.",
+      "en": "Although fragile, they can easily make a new hole in someone's torso and cut them to the bone.",
+      "es": "Tan frágiles como parecen, un golpe más fuerte de lo normal y se harán pedazos.",
+      "pt": "Embora frágeis, podem muito bem fazer um buraco no torso de alguém e cortar até o osso."
+    },
+    "definition": {
+      "item": {
+        "level": 141,
+        "id": 22703,
+        "graphicParameters": {
+          "gfxId": 13817338,
+          "femaleGfxId": 13817338
+        },
+        "baseParameters": {
+          "itemTypeId": 138,
+          "rarity": 1
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 221743,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                18,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221742,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                18,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221741,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                109,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221746,
+              "actionId": 149,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                16,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221745,
               "actionId": 1068,
               "areaShape": 32767,
               "areaSize": [],
@@ -2971,24 +2057,86 @@
               ]
             }
           }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221744,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221750,
+              "actionId": 84,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                22,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221749,
+              "actionId": 83,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                22,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221748,
+              "actionId": 82,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                22,
+                0
+              ]
+            }
+          }
         }
       ]
     }
   },
   {
     "title": {
-      "fr": "Gant du Roublard Smisse",
-      "en": "Smisse the Rogue's Glove",
-      "es": "Guante del tymador Smis",
-      "pt": "Luva do Ladino Smif"
+      "fr": "Gwiffe de Zwombbit",
+      "en": "Boney Zwombbit Claw",
+      "es": "Zawpa de zombbit",
+      "pt": "Gawwa de Zwombbit"
+    },
+    "description": {
+      "fr": "Cette griffe tendue vers vous ne vous inspire pas confiance. Une blessure provoquée par elle et c’est une mise en quarantaine assurée !",
+      "en": "This claw coming near you is not a happy thought. Even one injury caused by it and you're sure to be quarantined.",
+      "es": "Esta zarpa no te inspira confianza. Normal, porque si te hiere, ¡seguro que entras en cuarentena!",
+      "pt": "A ideia desta garra vindo na sua direção não é nem um pouco agradável. Qualquer ferida causada por ela é o bastante para mandar você para a quarentena."
     },
     "definition": {
       "item": {
-        "level": 156,
-        "id": 25958,
+        "level": 144,
+        "id": 22706,
         "graphicParameters": {
-          "gfxId": 10316099,
-          "femaleGfxId": 10316099
+          "gfxId": 10317340,
+          "femaleGfxId": 10317340
         },
         "baseParameters": {
           "itemTypeId": 103,
@@ -3011,12 +2159,16 @@
         {
           "effect": {
             "definition": {
-              "id": 278508,
-              "actionId": 1052,
+              "id": 221751,
+              "actionId": 20,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                18,
+                74,
+                0,
+                1,
+                0,
+                0,
                 0
               ]
             }
@@ -3025,7 +2177,391 @@
         {
           "effect": {
             "definition": {
-              "id": 278509,
+              "id": 221755,
+              "actionId": 149,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                9,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221754,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                7,
+                0,
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221753,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221752,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221758,
+              "actionId": 85,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                21,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221757,
+              "actionId": 82,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                21,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Pattados de Zwombbit",
+      "en": "Boney Zwombbit Paws",
+      "es": "Patas de zombbit",
+      "pt": "Patas de Zwombbit"
+    },
+    "description": {
+      "fr": "Il n'y a plus de chair sur les pattes des Zwombbits. Ce n'est pas très séduisant, mais c'est toujours utile.",
+      "en": "There's no skin left on the Zwombbit paws. They're not very appealing, but they're certainly useful.",
+      "es": "No queda nada de carne en las patas de los zombbits. No es muy seductor que digamos, pero siempre resulta útil.",
+      "pt": "As patas dos Zwombbits não têm mais carne. Elas podem até ser feias, mas com certeza são úteis."
+    },
+    "definition": {
+      "item": {
+        "level": 142,
+        "id": 22709,
+        "graphicParameters": {
+          "gfxId": 11917339,
+          "femaleGfxId": 11917339
+        },
+        "baseParameters": {
+          "itemTypeId": 119,
+          "rarity": 1
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 221819,
+              "actionId": 41,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221822,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                22,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221821,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                22,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221820,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                150,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221827,
+              "actionId": 71,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221825,
+              "actionId": 149,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                9,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221824,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                24,
+                0,
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221830,
+              "actionId": 84,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                17,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221829,
+              "actionId": 83,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                17,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 221828,
+              "actionId": 82,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                17,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Cawot'Epée Infectée",
+      "en": "Infected Cawwot Sword",
+      "es": "Espadowia infectada",
+      "pt": "Espadenouwa Infectada"
+    },
+    "description": {
+      "fr": "Cette Cawotte a été si infectée par le Viwus, qu'elle est devenu rigide et incassable ! C'est une véritable arme de destruction !",
+      "en": "This Cawwot was infected by the Viwus, and now it's rigid and unbreakable! It's a veritable weapon of mass destruction!",
+      "es": "Esta zanahowia ha sido infectada por un viwus ¡y se ha vuelto rígida e irrompible! ¡Una verdadera arma de destrucción!",
+      "pt": "Esta Cenouwa foi tão infectada pelo Víwus que se tornou rígida e inquebrável! É uma verdadeira arma de destruição!"
+    },
+    "definition": {
+      "item": {
+        "level": 144,
+        "id": 22714,
+        "graphicParameters": {
+          "gfxId": 11017345,
+          "femaleGfxId": 11017345
+        },
+        "baseParameters": {
+          "itemTypeId": 110,
+          "rarity": 1
+        },
+        "useParameters": {
+          "useCostAp": 6,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 1,
+          "useRangeMax": 1,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 222139,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 222138,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                58,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 222137,
+              "actionId": 160,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 222136,
+              "actionId": 41,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 222141,
               "actionId": 80,
               "areaShape": 32767,
               "areaSize": [],
@@ -3039,44 +2575,14 @@
         {
           "effect": {
             "definition": {
-              "id": 278504,
-              "actionId": 20,
+              "id": 222140,
+              "actionId": 1068,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                101,
+                24,
                 0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 278505,
-              "actionId": 173,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                12,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 278506,
-              "actionId": 175,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                12,
+                2,
                 0
               ]
             }
@@ -3087,24 +2593,24 @@
   },
   {
     "title": {
-      "fr": "Cape Riktus Elite",
-      "en": "Elite Riktus Cloak",
-      "es": "Capa Riktus de élite",
-      "pt": "Manto Riktus de Elite"
+      "fr": "Cape de Gawde",
+      "en": "Gauwd Cloak",
+      "es": "Capa de guawdia",
+      "pt": "Capa de Guawda"
     },
     "description": {
-      "fr": "Cette cape a une fonction chauffante en cas d'emprisonnement sur des terres glacières.",
-      "en": "This cloak has thermal elements that will help you out if you ever get stuck on a glacier.",
-      "es": "Esta capa tiene una función de calor, por si acaso te quedaras aislado en terreno glacial.",
-      "pt": "Este manto tem propriedades térmicas que ajudarão o portador se algum dia ele ficar preso em uma geleira."
+      "fr": "Elle pewmet de faiwe un bivouaque impwovisé dans les soutewwains.",
+      "en": "It will allow you to make an impwovised sheltew undewgwound.",
+      "es": "Pewmite montaw un campamento impwovisado en los subtewáneos.",
+      "pt": "Você pode usá-la como abwigo impwovisado nos túneis subtewwâneos."
     },
     "definition": {
       "item": {
-        "level": 159,
-        "id": 26009,
+        "level": 141,
+        "id": 22739,
         "graphicParameters": {
-          "gfxId": 13212338,
-          "femaleGfxId": 13212338
+          "gfxId": 13217304,
+          "femaleGfxId": 13217304
         },
         "baseParameters": {
           "itemTypeId": 132,
@@ -3127,16 +2633,14 @@
         {
           "effect": {
             "definition": {
-              "id": 278878,
-              "actionId": 31,
+              "id": 223215,
+              "actionId": 1068,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                1,
+                49,
                 0,
-                1,
-                0,
-                0,
+                2,
                 0
               ]
             }
@@ -3145,39 +2649,7 @@
         {
           "effect": {
             "definition": {
-              "id": 278879,
-              "actionId": 20,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                221,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 278880,
-              "actionId": 175,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                40,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 278881,
+              "id": 223214,
               "actionId": 150,
               "areaShape": 32767,
               "areaSize": [],
@@ -3191,8 +2663,170 @@
         {
           "effect": {
             "definition": {
-              "id": 278882,
-              "actionId": 875,
+              "id": 223213,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                40,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 223212,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                239,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 223218,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                30,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 223217,
+              "actionId": 1053,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                23,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 223216,
+              "actionId": 26,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Gawdelettes de Gawde",
+      "en": "Gauwd Epaulettes",
+      "es": "Hombwewas de guawdia",
+      "pt": "Dwagonas de Guawda"
+    },
+    "description": {
+      "fr": "Qui gawde bien la tête du powteuw sur les épaules.",
+      "en": "To help keep your head on your shoulders, where it belongs.",
+      "es": "Estas hombreras mantienen la cabeza encima de los hombros del portador.",
+      "pt": "Para ajudar sua cabeça a ficar entre os ombros, em seu devido lugar."
+    },
+    "definition": {
+      "item": {
+        "level": 142,
+        "id": 22742,
+        "graphicParameters": {
+          "gfxId": 13817305,
+          "femaleGfxId": 13817305
+        },
+        "baseParameters": {
+          "itemTypeId": 138,
+          "rarity": 1
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 222721,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                86,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 222720,
+              "actionId": 184,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 222727,
+              "actionId": 1053,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                15,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 222726,
+              "actionId": 26,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
@@ -3205,12 +2839,84 @@
         {
           "effect": {
             "definition": {
-              "id": 278883,
-              "actionId": 149,
+              "id": 222725,
+              "actionId": 1068,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                21,
+                24,
+                0,
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 222724,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 222729,
+              "actionId": 84,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                42,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 222728,
+              "actionId": 83,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                42,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 362935,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 362936,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
                 0
               ]
             }
@@ -3221,27 +2927,27 @@
   },
   {
     "title": {
-      "fr": "Epaulettes Riktus Elite",
-      "en": "Elite Riktus Epaulettes",
-      "es": "Hombreras Riktus de élite",
-      "pt": "Dragonas dos Riktus de Elite"
+      "fr": "Heaume de Gawde",
+      "en": "Guawd Helmet",
+      "es": "Yelmo de guawdia",
+      "pt": "Elmo de Guawda"
     },
     "description": {
-      "fr": "Si vous êtes à court d'idées, vous pourrez toujours utilisez vos épaulettes pour fracasser les murs et vos ennemis.",
-      "en": "If you are short of ideas, you could always use these epaulettes to smash up walls as well as your enemies.",
-      "es": "Si te quedas sin ideas, siempre puedes utilizar tus hombreras para hacer pedazos las paredes y a tus enemigos.",
-      "pt": "Se estiver sem ideias, você pode usar essas dragonas para derrubar muros e também inimigos."
+      "fr": "Pwotège votwe cwâne des impacts fowts et des chutes de tewwe.",
+      "en": "Pwotect youw skull fwom stwong impacts and landslides.",
+      "es": "Te pwotege el cwáneo de los impactos fuewtes y las caídas al suelo.",
+      "pt": "Pwotege seu cwânio de impactos fowtes e deslizamentos de tewwa."
     },
     "definition": {
       "item": {
-        "level": 158,
-        "id": 26013,
+        "level": 142,
+        "id": 22745,
         "graphicParameters": {
-          "gfxId": 13812334,
-          "femaleGfxId": 13812334
+          "gfxId": 13417303,
+          "femaleGfxId": 13417303
         },
         "baseParameters": {
-          "itemTypeId": 138,
+          "itemTypeId": 134,
           "rarity": 1
         },
         "useParameters": {
@@ -3261,12 +2967,12 @@
         {
           "effect": {
             "definition": {
-              "id": 278884,
+              "id": 222731,
               "actionId": 20,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                259,
+                137,
                 0,
                 1,
                 0,
@@ -3279,12 +2985,12 @@
         {
           "effect": {
             "definition": {
-              "id": 278885,
-              "actionId": 175,
+              "id": 222730,
+              "actionId": 160,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                30,
+                1,
                 0
               ]
             }
@@ -3293,12 +2999,12 @@
         {
           "effect": {
             "definition": {
-              "id": 278886,
-              "actionId": 150,
+              "id": 222735,
+              "actionId": 1053,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                4,
+                15,
                 0
               ]
             }
@@ -3307,12 +3013,12 @@
         {
           "effect": {
             "definition": {
-              "id": 278887,
-              "actionId": 875,
+              "id": 222734,
+              "actionId": 26,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                3,
+                6,
                 0
               ]
             }
@@ -3321,12 +3027,84 @@
         {
           "effect": {
             "definition": {
-              "id": 278888,
-              "actionId": 149,
+              "id": 222733,
+              "actionId": 1068,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
                 26,
+                0,
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 222738,
+              "actionId": 84,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                33,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 222737,
+              "actionId": 83,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                33,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 222736,
+              "actionId": 82,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                33,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 361311,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                13,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 361312,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                13,
                 0
               ]
             }
@@ -3337,24 +3115,24 @@
   },
   {
     "title": {
-      "fr": "Anneau Riktus Elite",
-      "en": "Elite Riktus Ring",
-      "es": "Anillo Riktus de élite",
-      "pt": "Anel de Elite de Riktus"
+      "fr": "Ganwtelet",
+      "en": "Gauntlet",
+      "es": "Wante",
+      "pt": "Manopla"
     },
     "description": {
-      "fr": "Cet anneau est frappé de la marque des plus fourbes brigands du Monde des Douze !",
-      "en": "This ring is stricken with the trademark of the dirtiest bandits in the World of Twelve.",
-      "es": "¡Este anillo lleva la marca de los bandidos más taimados del Mundo de los Doce!",
-      "pt": "Este anel carrega a marca dos bandoleiros mais sujos no Mundo dos Doze."
+      "fr": "Ils pewmettent d'évitew de se saliw les doigts lows de la wécolte des Cawottes.",
+      "en": "It will let you avoid getting your hands dirty while harvesting Cawwots.",
+      "es": "Muy útil para no ensuciawte los dedos cuando wecolectes zanahowias.",
+      "pt": "Você não precisará sujar as mãos quando estiver colhendo Cenouwas."
     },
     "definition": {
       "item": {
-        "level": 157,
-        "id": 26017,
+        "level": 144,
+        "id": 22749,
         "graphicParameters": {
-          "gfxId": 10312337,
-          "femaleGfxId": 10312337
+          "gfxId": 10317311,
+          "femaleGfxId": 10317311
         },
         "baseParameters": {
           "itemTypeId": 103,
@@ -3377,12 +3155,12 @@
         {
           "effect": {
             "definition": {
-              "id": 278919,
+              "id": 222799,
               "actionId": 20,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                92,
+                74,
                 0,
                 1,
                 0,
@@ -3395,12 +3173,12 @@
         {
           "effect": {
             "definition": {
-              "id": 278920,
-              "actionId": 175,
+              "id": 222803,
+              "actionId": 71,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                19,
+                9,
                 0
               ]
             }
@@ -3409,22 +3187,8 @@
         {
           "effect": {
             "definition": {
-              "id": 278921,
-              "actionId": 149,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                12,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 278922,
-              "actionId": 80,
+              "id": 222801,
+              "actionId": 26,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
@@ -3433,236 +3197,16 @@
               ]
             }
           }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "fr": "Plastron Riktus Elite",
-      "en": "Elite Riktus Breastplate",
-      "es": "Coraza Riktus de élite",
-      "pt": "Peitoral dos Riktus de Elite"
-    },
-    "description": {
-      "fr": "Ce plastron paraît, à première vue, très léger, mais en réalité il est tellement lourd qu'il vous faut des muscles en béton pour le porter !",
-      "en": "At first glance, this breastplate seems as light as a feather. In reality it's as heavy as a sack of bricks. Make sure you buff up before attempting to put it on!",
-      "es": "Esta coraza parece, en principio, muy ligera, pero en realidad es tan pesada que necesitarás músculos de acero para poder equipártela.",
-      "pt": "À primeira vista, este peitoral parece leve como uma pena. Mas, na verdade, é pesado como um saco de tijolos. Proteja-se antes de colocá-lo!"
-    },
-    "definition": {
-      "item": {
-        "level": 158,
-        "id": 26024,
-        "graphicParameters": {
-          "gfxId": 13612335,
-          "femaleGfxId": 13612335
-        },
-        "baseParameters": {
-          "itemTypeId": 136,
-          "rarity": 1
-        },
-        "useParameters": {
-          "useCostAp": 0,
-          "useCostMp": 0,
-          "useCostWp": 0,
-          "useRangeMin": 0,
-          "useRangeMax": 0,
-          "useTestFreeCell": false,
-          "useTestLos": true,
-          "useTestOnlyLine": false,
-          "useTestNoBorderCell": true,
-          "useWorldTarget": 0
-        }
-      },
-      "equipEffects": [
-        {
-          "effect": {
-            "definition": {
-              "id": 278924,
-              "actionId": 20,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                199,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
         },
         {
           "effect": {
             "definition": {
-              "id": 278925,
-              "actionId": 1068,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                37,
-                0,
-                2,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 278926,
-              "actionId": 83,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                42,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 278923,
-              "actionId": 31,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                1,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 279492,
-              "actionId": 84,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                42,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 367023,
-              "actionId": 173,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                7,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 367024,
-              "actionId": 175,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                7,
-                0
-              ]
-            }
-          }
-        }
-      ]
-    }
-  },
-  {
-    "title": {
-      "fr": "Multimonk",
-      "en": "Multimonk",
-      "es": "Multimonk",
-      "pt": "Multimonk"
-    },
-    "description": {
-      "fr": "C'est une version un peu démodée du Solomonk, mais ça fera l'affaire pour les soirées déguisées.",
-      "en": "A slightly outdated version of the Solomonk, but it'll do for costume parties.",
-      "es": "Se trata de una versión pasada de moda del Solomonk, pero queda de perlas para una fiesta de disfraces.",
-      "pt": "Esta é uma versão meio fora de moda do Solomonk, perfeito para festas a fantasia."
-    },
-    "definition": {
-      "item": {
-        "level": 156,
-        "id": 26613,
-        "graphicParameters": {
-          "gfxId": 1349341,
-          "femaleGfxId": 1349341
-        },
-        "baseParameters": {
-          "itemTypeId": 134,
-          "rarity": 1
-        },
-        "useParameters": {
-          "useCostAp": 0,
-          "useCostMp": 0,
-          "useCostWp": 0,
-          "useRangeMin": 0,
-          "useRangeMax": 0,
-          "useTestFreeCell": false,
-          "useTestLos": true,
-          "useTestOnlyLine": false,
-          "useTestNoBorderCell": true,
-          "useWorldTarget": 0
-        }
-      },
-      "equipEffects": [
-        {
-          "effect": {
-            "definition": {
-              "id": 277572,
-              "actionId": 1053,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                30,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 277573,
-              "actionId": 83,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                33,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 277574,
+              "id": 222805,
               "actionId": 85,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                33,
+                21,
                 0
               ]
             }
@@ -3671,12 +3215,12 @@
         {
           "effect": {
             "definition": {
-              "id": 277575,
-              "actionId": 84,
+              "id": 222804,
+              "actionId": 83,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                33,
+                21,
                 0
               ]
             }
@@ -3685,12 +3229,12 @@
         {
           "effect": {
             "definition": {
-              "id": 277568,
-              "actionId": 160,
+              "id": 365431,
+              "actionId": 173,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                1,
+                8,
                 0
               ]
             }
@@ -3699,46 +3243,12 @@
         {
           "effect": {
             "definition": {
-              "id": 277569,
-              "actionId": 20,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                159,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 277570,
+              "id": 365432,
               "actionId": 175,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                20,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 277571,
-              "actionId": 1068,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                30,
-                0,
-                2,
+                8,
                 0
               ]
             }
@@ -3749,27 +3259,27 @@
   },
   {
     "title": {
-      "fr": "Plastron Flore",
-      "en": "Floral Breastplate",
-      "es": "Coraza flora",
-      "pt": "Peitoral Flora"
+      "fr": "Les Maracapes",
+      "en": "Marshcapes",
+      "es": "Maracapas",
+      "pt": "Maracapas"
     },
     "description": {
-      "fr": "Un plastron très fleuri qui égaiera toutes vos journées ! Attention à bien l'arroser tous les jours et à lui laisser beaucoup de soleil.",
-      "en": "A flowery breastplate to brighten up your days! Make sure you water it every day and give it plenty of sunlight.",
-      "es": "Una coraza muy florida para alegrarte el día a día. Asegúrate de regarla bien todos los días y de que le dé bastante el sol.",
-      "pt": "Um peitoral tão florido que vai alegrar seus dias! Não esqueça de regá-lo todos os dias e colocá-lo em um lugar ensolarado."
+      "fr": "Marquez le rythme !",
+      "en": "Mark the beat!",
+      "es": "¡Marca el ritmo!",
+      "pt": "Não perca o ritmo!"
     },
     "definition": {
       "item": {
-        "level": 158,
-        "id": 26617,
+        "level": 141,
+        "id": 25877,
         "graphicParameters": {
-          "gfxId": 13610061,
-          "femaleGfxId": 34710061
+          "gfxId": 13225877,
+          "femaleGfxId": 13225877
         },
         "baseParameters": {
-          "itemTypeId": 136,
+          "itemTypeId": 132,
           "rarity": 1
         },
         "useParameters": {
@@ -3789,35 +3299,7 @@
         {
           "effect": {
             "definition": {
-              "id": 277580,
-              "actionId": 1053,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                22,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 277581,
-              "actionId": 80,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                15,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 277576,
+              "id": 276614,
               "actionId": 31,
               "areaShape": 32767,
               "areaSize": [],
@@ -3835,12 +3317,12 @@
         {
           "effect": {
             "definition": {
-              "id": 277577,
+              "id": 276615,
               "actionId": 20,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                217,
+                115,
                 0,
                 1,
                 0,
@@ -3853,12 +3335,12 @@
         {
           "effect": {
             "definition": {
-              "id": 277578,
-              "actionId": 175,
+              "id": 276620,
+              "actionId": 84,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                10,
+                65,
                 0
               ]
             }
@@ -3867,7 +3349,21 @@
         {
           "effect": {
             "definition": {
-              "id": 277579,
+              "id": 276616,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 276617,
               "actionId": 1068,
               "areaShape": 32767,
               "areaSize": [],
@@ -3879,30 +3375,324 @@
               ]
             }
           }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 276618,
+              "actionId": 1052,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                20,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 276619,
+              "actionId": 83,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                65,
+                0
+              ]
+            }
+          }
         }
       ]
     }
   },
   {
     "title": {
-      "fr": "Bottes Antrin",
-      "en": "Lifen Sole Boots",
-      "es": "Botas altante",
-      "pt": "Botas de Solaviva"
+      "fr": "Coifflûte",
+      "en": "Flutegear",
+      "es": "Coflauta",
+      "pt": "Flautéu"
     },
     "description": {
-      "fr": "Avec les Bottes Antrin aux pieds, vous êtes sûrs de mettre l'ambiance dans le combat !",
-      "en": "With these Lifen Sole Boots on, you'll really know how to kick your opponent into shape!",
-      "es": "¡Con estas botas serás el alma del combate!",
-      "pt": "Calçando estas botas, você realmente colocará o oponente no lugar dele!"
+      "fr": "Flûte alors !",
+      "en": "If you've got it, flute it!",
+      "es": "¡Me cachis...!",
+      "pt": "Leva na flauta!"
     },
     "definition": {
       "item": {
-        "level": 157,
-        "id": 26621,
+        "level": 142,
+        "id": 25885,
         "graphicParameters": {
-          "gfxId": 11910046,
-          "femaleGfxId": 11910046
+          "gfxId": 13425885,
+          "femaleGfxId": 13425885
+        },
+        "baseParameters": {
+          "itemTypeId": 134,
+          "rarity": 1
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 276621,
+              "actionId": 160,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 276622,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                180,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 276623,
+              "actionId": 176,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                100,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 276624,
+              "actionId": 1053,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                86,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 276625,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                25,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Amulette Hamine",
+      "en": "Stamulet",
+      "es": "Amulestambre",
+      "pt": "Amuleto Stame"
+    },
+    "description": {
+      "fr": "Cette amulette, recouverte de fleurs encore vivantes, produit du pollen lorsque vous la caressez avec tendresse. Ce n'est pas sale, c'est la nature.",
+      "en": "This amulet covered in living flowers produces pollen when you caress it tenderly. It's not dirty. It's natural.",
+      "es": "Este amuleto, recubierto de flores aún vivas, produce polen cuando lo acaricias con dulzura. No es nada sucio, solo es la naturaleza.",
+      "pt": "Este amuleto, recoberto de flores ainda vivas, produz pólen quando você o acaricia com carinho. Não, não é feio, é a natureza!"
+    },
+    "definition": {
+      "item": {
+        "level": 141,
+        "id": 26757,
+        "graphicParameters": {
+          "gfxId": 12026757,
+          "femaleGfxId": 12026757
+        },
+        "baseParameters": {
+          "itemTypeId": 120,
+          "rarity": 1
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 289164,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 289165,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                49,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 289166,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                4,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 289167,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                24,
+                0,
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 289168,
+              "actionId": 1053,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                18,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 289169,
+              "actionId": 82,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                49,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 289170,
+              "actionId": 84,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                49,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Sandalgues",
+      "en": "Kelpadrilles",
+      "es": "Sandalgas",
+      "pt": "Sandalgas"
+    },
+    "description": {
+      "fr": "Ces sandales visqueuses sont recouvertes d'algues d'eau douce. Elles entameront leur lente et malodorante décomposition si vos pieds ne sont pas maintenus dans un endroit sombre et humide.",
+      "en": "This viscous sandals are covered with freshwater algae. They will start to decompose in slow and smelly fashion if you don't keep your feet in a dark, damp place.",
+      "es": "Estas sandalias viscosas están recubiertas de algas de agua dulce. Comenzarán su descomposición lenta y maloliente si tus pies no se mantienen en un lugar oscuro y húmedo.",
+      "pt": "Estas sandálias viscosas são cobertas de algas de água doce. Elas começarão a se decompor de forma lenta e fedida se você não mantiver seus pés em um local úmido ao abrigo do sol."
+    },
+    "definition": {
+      "item": {
+        "level": 143,
+        "id": 26761,
+        "graphicParameters": {
+          "gfxId": 11926761,
+          "femaleGfxId": 11926761
         },
         "baseParameters": {
           "itemTypeId": 119,
@@ -3925,7 +3715,129 @@
         {
           "effect": {
             "definition": {
-              "id": 277621,
+              "id": 289172,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                132,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 289173,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                20,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 289174,
+              "actionId": 1053,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                42,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 289175,
+              "actionId": 1069,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                28,
+                0,
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 289171,
+              "actionId": 41,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Plastronce",
+      "en": "Brambleplate",
+      "es": "Corazarza",
+      "pt": "Peitoral Finete"
+    },
+    "description": {
+      "fr": "Qui s'y frotte s'y pique.",
+      "en": "Every rose has its thorns. And this does too.",
+      "es": "Ojo, que pincha.",
+      "pt": "Cuidado com os espinhos."
+    },
+    "definition": {
+      "item": {
+        "level": 141,
+        "id": 26765,
+        "graphicParameters": {
+          "gfxId": 13626765,
+          "femaleGfxId": 34726765
+        },
+        "baseParameters": {
+          "itemTypeId": 136,
+          "rarity": 1
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 289212,
               "actionId": 41,
               "areaShape": 32767,
               "areaSize": [],
@@ -3943,12 +3855,12 @@
         {
           "effect": {
             "definition": {
-              "id": 277622,
+              "id": 289213,
               "actionId": 20,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                81,
+                143,
                 0,
                 1,
                 0,
@@ -3961,12 +3873,12 @@
         {
           "effect": {
             "definition": {
-              "id": 277623,
+              "id": 289214,
               "actionId": 175,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                30,
+                15,
                 0
               ]
             }
@@ -3975,12 +3887,26 @@
         {
           "effect": {
             "definition": {
-              "id": 277624,
+              "id": 289215,
+              "actionId": 875,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 289216,
               "actionId": 1068,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                24,
+                18,
                 0,
                 2,
                 0
@@ -3991,12 +3917,12 @@
         {
           "effect": {
             "definition": {
-              "id": 277625,
+              "id": 289217,
               "actionId": 1053,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                24,
+                18,
                 0
               ]
             }
@@ -4005,26 +3931,12 @@
         {
           "effect": {
             "definition": {
-              "id": 277626,
-              "actionId": 82,
+              "id": 289218,
+              "actionId": 80,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                69,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 277627,
-              "actionId": 84,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                69,
+                25,
                 0
               ]
             }
@@ -4035,24 +3947,24 @@
   },
   {
     "title": {
-      "fr": "Anneau Tonne",
-      "en": "Kikbox Ring",
-      "es": "Anillo radesor",
-      "pt": "Anel de Lutador"
+      "fr": "Anneau Mnivore",
+      "en": "Om Nivore Ring",
+      "es": "Anillo Mnívoro",
+      "pt": "Anel Nívoro"
     },
     "description": {
-      "fr": "La communication n'étant pas son fort, il fallut un automne entier pour faire comprendre à Jissé Vanda comment enfiler cet anneau. ",
-      "en": "Communication isn't exactly Jo-Chlo Vandam's forte. It took a whole fall for the Iopette to figure out how to put this ring on. ",
-      "es": "La comunicación no era su fuerte, se necesitó un otoño entero para que el yopuka Ian-Clon Van'Da aprendiera a ponerse este anillo. ",
-      "pt": "Comunicação não é exatamente o forte de Cho-clo Vandame. Levou um bom tempo para que o Iop entendesse como colocar esse anel. "
+      "fr": "Cet anneau n'est pas difficile, il acceptera de manger n'importe lequel de vos doigts, que vous soyez gaucher ou droitier. Il refuse étrangement de manger les doigts de pieds.",
+      "en": "This ring is not difficult. It'll happily eat any of your fingers, whether you're right-handed or left-handed. Oddly enough, it refuses to eat toes.",
+      "es": "Este anillo no es difícil, se comerá cualquiera de tus dedos, seas zurdo o diestro. Sin embargo, por extraño que parezca, se niega a comerse los dedos de los pies.",
+      "pt": "Este anel não é muito exigente: ele comerá sem frescura qualquer um dos seus dedos, seja você destro ou canhoto. O estranho é que ele se recusa a comer os dedos do pé."
     },
     "definition": {
       "item": {
-        "level": 156,
-        "id": 26628,
+        "level": 144,
+        "id": 26772,
         "graphicParameters": {
-          "gfxId": 10310160,
-          "femaleGfxId": 10310160
+          "gfxId": 10326772,
+          "femaleGfxId": 10326772
         },
         "baseParameters": {
           "itemTypeId": 103,
@@ -4075,25 +3987,7 @@
         {
           "effect": {
             "definition": {
-              "id": 277628,
-              "actionId": 20,
-              "areaShape": 32767,
-              "areaSize": [],
-              "params": [
-                110,
-                0,
-                1,
-                0,
-                0,
-                0
-              ]
-            }
-          }
-        },
-        {
-          "effect": {
-            "definition": {
-              "id": 277629,
+              "id": 289220,
               "actionId": 175,
               "areaShape": 32767,
               "areaSize": [],
@@ -4107,12 +4001,12 @@
         {
           "effect": {
             "definition": {
-              "id": 277631,
+              "id": 289222,
               "actionId": 1053,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
-                18,
+                14,
                 0
               ]
             }
@@ -4121,12 +4015,30 @@
         {
           "effect": {
             "definition": {
-              "id": 277632,
+              "id": 289223,
               "actionId": 80,
               "areaShape": 32767,
               "areaSize": [],
               "params": [
                 10,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 289219,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                88,
+                0,
+                1,
+                0,
+                0,
                 0
               ]
             }

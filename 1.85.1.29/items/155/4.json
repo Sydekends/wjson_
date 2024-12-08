@@ -315,6 +315,136 @@
   },
   {
     "title": {
+      "fr": "Emblème Shushu",
+      "en": "Shushu Emblem",
+      "es": "Emblema fab'huritu",
+      "pt": "Emblema Shushu"
+    },
+    "description": {
+      "fr": "Porté trop longtemps, ce petit objet cause des bouffées délirantes menant à la désintégration systématique de son porteur dans un nuage de Stasis.",
+      "en": "If worn for too long, this little item can cause funny little puffs that may eventually lead to the systematic disintegration of it wearer into a cloud of Stasis.",
+      "es": "Si llevas este pequeño objeto mucho tiempo, te causará arrebatos delirantes que te llevarán a la desintegración sistemática en una nube de Stasis.",
+      "pt": "Se usado por muito tempo, este pequeno item cria uma sensação engraçada  de calor que pode, eventualmente, levar à desintegração de seu portador em uma nuvem de Stasis."
+    },
+    "definition": {
+      "item": {
+        "level": 150,
+        "id": 18306,
+        "graphicParameters": {
+          "gfxId": 34714271,
+          "femaleGfxId": 34714271
+        },
+        "baseParameters": {
+          "itemTypeId": 646,
+          "rarity": 4
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 136634,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136635,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                29,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136632,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                160,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136636,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                15,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 362399,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 362400,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
       "fr": "Picus Shushu",
       "en": "Picus Shushu",
       "es": "Pinchus fab'huritus",
@@ -4275,6 +4405,1758 @@
               "areaSize": [],
               "params": [
                 69,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Emblème Shushu",
+      "en": "Shushu Emblem",
+      "es": "Emblema fab'huritu",
+      "pt": "Emblema Shushu"
+    },
+    "description": {
+      "fr": "Porté trop longtemps, ce petit objet cause des bouffées délirantes menant à la désintégration systématique de son porteur dans un nuage de Stasis.",
+      "en": "If worn for too long, this little item can cause funny little puffs that may eventually lead to the systematic disintegration of it wearer into a cloud of Stasis.",
+      "es": "Si llevas este pequeño objeto mucho tiempo, te causará arrebatos delirantes que te llevarán a la desintegración sistemática en una nube de Stasis.",
+      "pt": "Se usado por muito tempo, este pequeno item cria uma sensação engraçada  de calor que pode, eventualmente, levar à desintegração de seu portador em uma nuvem de Stasis."
+    },
+    "definition": {
+      "item": {
+        "level": 150,
+        "id": 18670,
+        "graphicParameters": {
+          "gfxId": 34714271,
+          "femaleGfxId": 34714271
+        },
+        "baseParameters": {
+          "itemTypeId": 646,
+          "rarity": 4
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 136522,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136523,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                29,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136520,
+              "actionId": 832,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                4,
+                0,
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136521,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                160,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136524,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                15,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 365999,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 366000,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Emblème Shushu",
+      "en": "Shushu Emblem",
+      "es": "Emblema fab'huritu",
+      "pt": "Emblema Shushu"
+    },
+    "description": {
+      "fr": "Porté trop longtemps, ce petit objet cause des bouffées délirantes menant à la désintégration systématique de son porteur dans un nuage de Stasis.",
+      "en": "If worn for too long, this little item can cause funny little puffs that may eventually lead to the systematic disintegration of it wearer into a cloud of Stasis.",
+      "es": "Si llevas este pequeño objeto mucho tiempo, te causará arrebatos delirantes que te llevarán a la desintegración sistemática en una nube de Stasis.",
+      "pt": "Se usado por muito tempo, este pequeno item cria uma sensação engraçada  de calor que pode, eventualmente, levar à desintegração de seu portador em uma nuvem de Stasis."
+    },
+    "definition": {
+      "item": {
+        "level": 150,
+        "id": 18671,
+        "graphicParameters": {
+          "gfxId": 34714271,
+          "femaleGfxId": 34714271
+        },
+        "baseParameters": {
+          "itemTypeId": 646,
+          "rarity": 4
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 136526,
+              "actionId": 832,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136527,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                160,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136530,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                15,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136528,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136529,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                29,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 365303,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 365304,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Emblème Shushu",
+      "en": "Shushu Emblem",
+      "es": "Emblema fab'huritu",
+      "pt": "Emblema Shushu"
+    },
+    "description": {
+      "fr": "Porté trop longtemps, ce petit objet cause des bouffées délirantes menant à la désintégration systématique de son porteur dans un nuage de Stasis.",
+      "en": "If worn for too long, this little item can cause funny little puffs that may eventually lead to the systematic disintegration of it wearer into a cloud of Stasis.",
+      "es": "Si llevas este pequeño objeto mucho tiempo, te causará arrebatos delirantes que te llevarán a la desintegración sistemática en una nube de Stasis.",
+      "pt": "Se usado por muito tempo, este pequeno item cria uma sensação engraçada  de calor que pode, eventualmente, levar à desintegração de seu portador em uma nuvem de Stasis."
+    },
+    "definition": {
+      "item": {
+        "level": 150,
+        "id": 18672,
+        "graphicParameters": {
+          "gfxId": 34714271,
+          "femaleGfxId": 34714271
+        },
+        "baseParameters": {
+          "itemTypeId": 646,
+          "rarity": 4
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 136534,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136535,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                29,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136532,
+              "actionId": 832,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136533,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                160,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136536,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                15,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 361943,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 361944,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Emblème Shushu",
+      "en": "Shushu Emblem",
+      "es": "Emblema fab'huritu",
+      "pt": "Emblema Shushu"
+    },
+    "description": {
+      "fr": "Porté trop longtemps, ce petit objet cause des bouffées délirantes menant à la désintégration systématique de son porteur dans un nuage de Stasis.",
+      "en": "If worn for too long, this little item can cause funny little puffs that may eventually lead to the systematic disintegration of it wearer into a cloud of Stasis.",
+      "es": "Si llevas este pequeño objeto mucho tiempo, te causará arrebatos delirantes que te llevarán a la desintegración sistemática en una nube de Stasis.",
+      "pt": "Se usado por muito tempo, este pequeno item cria uma sensação engraçada  de calor que pode, eventualmente, levar à desintegração de seu portador em uma nuvem de Stasis."
+    },
+    "definition": {
+      "item": {
+        "level": 150,
+        "id": 18673,
+        "graphicParameters": {
+          "gfxId": 34714271,
+          "femaleGfxId": 34714271
+        },
+        "baseParameters": {
+          "itemTypeId": 646,
+          "rarity": 4
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 136538,
+              "actionId": 832,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0,
+                1,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136539,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                160,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136542,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                15,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136540,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136541,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                29,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 365228,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 365227,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Emblème Shushu",
+      "en": "Shushu Emblem",
+      "es": "Emblema fab'huritu",
+      "pt": "Emblema Shushu"
+    },
+    "description": {
+      "fr": "Porté trop longtemps, ce petit objet cause des bouffées délirantes menant à la désintégration systématique de son porteur dans un nuage de Stasis.",
+      "en": "If worn for too long, this little item can cause funny little puffs that may eventually lead to the systematic disintegration of it wearer into a cloud of Stasis.",
+      "es": "Si llevas este pequeño objeto mucho tiempo, te causará arrebatos delirantes que te llevarán a la desintegración sistemática en una nube de Stasis.",
+      "pt": "Se usado por muito tempo, este pequeno item cria uma sensação engraçada  de calor que pode, eventualmente, levar à desintegração de seu portador em uma nuvem de Stasis."
+    },
+    "definition": {
+      "item": {
+        "level": 150,
+        "id": 18674,
+        "graphicParameters": {
+          "gfxId": 34714271,
+          "femaleGfxId": 34714271
+        },
+        "baseParameters": {
+          "itemTypeId": 646,
+          "rarity": 4
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 136546,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136547,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                29,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136544,
+              "actionId": 832,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0,
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136545,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                160,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136548,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                15,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 367039,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 367040,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Emblème Shushu",
+      "en": "Shushu Emblem",
+      "es": "Emblema fab'huritu",
+      "pt": "Emblema Shushu"
+    },
+    "description": {
+      "fr": "Porté trop longtemps, ce petit objet cause des bouffées délirantes menant à la désintégration systématique de son porteur dans un nuage de Stasis.",
+      "en": "If worn for too long, this little item can cause funny little puffs that may eventually lead to the systematic disintegration of it wearer into a cloud of Stasis.",
+      "es": "Si llevas este pequeño objeto mucho tiempo, te causará arrebatos delirantes que te llevarán a la desintegración sistemática en una nube de Stasis.",
+      "pt": "Se usado por muito tempo, este pequeno item cria uma sensação engraçada  de calor que pode, eventualmente, levar à desintegração de seu portador em uma nuvem de Stasis."
+    },
+    "definition": {
+      "item": {
+        "level": 150,
+        "id": 18675,
+        "graphicParameters": {
+          "gfxId": 34714271,
+          "femaleGfxId": 34714271
+        },
+        "baseParameters": {
+          "itemTypeId": 646,
+          "rarity": 4
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 136550,
+              "actionId": 832,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0,
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136551,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                160,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136554,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                15,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136552,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136553,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                29,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 363428,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 363427,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Emblème Shushu",
+      "en": "Shushu Emblem",
+      "es": "Emblema fab'huritu",
+      "pt": "Emblema Shushu"
+    },
+    "description": {
+      "fr": "Porté trop longtemps, ce petit objet cause des bouffées délirantes menant à la désintégration systématique de son porteur dans un nuage de Stasis.",
+      "en": "If worn for too long, this little item can cause funny little puffs that may eventually lead to the systematic disintegration of it wearer into a cloud of Stasis.",
+      "es": "Si llevas este pequeño objeto mucho tiempo, te causará arrebatos delirantes que te llevarán a la desintegración sistemática en una nube de Stasis.",
+      "pt": "Se usado por muito tempo, este pequeno item cria uma sensação engraçada  de calor que pode, eventualmente, levar à desintegração de seu portador em uma nuvem de Stasis."
+    },
+    "definition": {
+      "item": {
+        "level": 150,
+        "id": 18676,
+        "graphicParameters": {
+          "gfxId": 34714271,
+          "femaleGfxId": 34714271
+        },
+        "baseParameters": {
+          "itemTypeId": 646,
+          "rarity": 4
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 136558,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136559,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                29,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136556,
+              "actionId": 832,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                3,
+                0,
+                1,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136557,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                160,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136560,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                15,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 361991,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 361992,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Emblème Shushu",
+      "en": "Shushu Emblem",
+      "es": "Emblema fab'huritu",
+      "pt": "Emblema Shushu"
+    },
+    "description": {
+      "fr": "Porté trop longtemps, ce petit objet cause des bouffées délirantes menant à la désintégration systématique de son porteur dans un nuage de Stasis.",
+      "en": "If worn for too long, this little item can cause funny little puffs that may eventually lead to the systematic disintegration of it wearer into a cloud of Stasis.",
+      "es": "Si llevas este pequeño objeto mucho tiempo, te causará arrebatos delirantes que te llevarán a la desintegración sistemática en una nube de Stasis.",
+      "pt": "Se usado por muito tempo, este pequeno item cria uma sensação engraçada  de calor que pode, eventualmente, levar à desintegração de seu portador em uma nuvem de Stasis."
+    },
+    "definition": {
+      "item": {
+        "level": 150,
+        "id": 18677,
+        "graphicParameters": {
+          "gfxId": 34714271,
+          "femaleGfxId": 34714271
+        },
+        "baseParameters": {
+          "itemTypeId": 646,
+          "rarity": 4
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 136562,
+              "actionId": 832,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                3,
+                0,
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136563,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                160,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136566,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                15,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136564,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136565,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                29,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 363431,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 363432,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Emblème Shushu",
+      "en": "Shushu Emblem",
+      "es": "Emblema fab'huritu",
+      "pt": "Emblema Shushu"
+    },
+    "description": {
+      "fr": "Porté trop longtemps, ce petit objet cause des bouffées délirantes menant à la désintégration systématique de son porteur dans un nuage de Stasis.",
+      "en": "If worn for too long, this little item can cause funny little puffs that may eventually lead to the systematic disintegration of it wearer into a cloud of Stasis.",
+      "es": "Si llevas este pequeño objeto mucho tiempo, te causará arrebatos delirantes que te llevarán a la desintegración sistemática en una nube de Stasis.",
+      "pt": "Se usado por muito tempo, este pequeno item cria uma sensação engraçada  de calor que pode, eventualmente, levar à desintegração de seu portador em uma nuvem de Stasis."
+    },
+    "definition": {
+      "item": {
+        "level": 150,
+        "id": 18678,
+        "graphicParameters": {
+          "gfxId": 34714271,
+          "femaleGfxId": 34714271
+        },
+        "baseParameters": {
+          "itemTypeId": 646,
+          "rarity": 4
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 136570,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136571,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                29,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136568,
+              "actionId": 832,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                3,
+                0,
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136569,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                160,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136572,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                15,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 362679,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 362680,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Emblème Shushu",
+      "en": "Shushu Emblem",
+      "es": "Emblema fab'huritu",
+      "pt": "Emblema Shushu"
+    },
+    "description": {
+      "fr": "Porté trop longtemps, ce petit objet cause des bouffées délirantes menant à la désintégration systématique de son porteur dans un nuage de Stasis.",
+      "en": "If worn for too long, this little item can cause funny little puffs that may eventually lead to the systematic disintegration of it wearer into a cloud of Stasis.",
+      "es": "Si llevas este pequeño objeto mucho tiempo, te causará arrebatos delirantes que te llevarán a la desintegración sistemática en una nube de Stasis.",
+      "pt": "Se usado por muito tempo, este pequeno item cria uma sensação engraçada  de calor que pode, eventualmente, levar à desintegração de seu portador em uma nuvem de Stasis."
+    },
+    "definition": {
+      "item": {
+        "level": 150,
+        "id": 18679,
+        "graphicParameters": {
+          "gfxId": 34714271,
+          "femaleGfxId": 34714271
+        },
+        "baseParameters": {
+          "itemTypeId": 646,
+          "rarity": 4
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 136574,
+              "actionId": 832,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                4,
+                0,
+                1,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136575,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                160,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136578,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                15,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136576,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136577,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                29,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 367044,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 367043,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Emblème Shushu",
+      "en": "Shushu Emblem",
+      "es": "Emblema fab'huritu",
+      "pt": "Emblema Shushu"
+    },
+    "description": {
+      "fr": "Porté trop longtemps, ce petit objet cause des bouffées délirantes menant à la désintégration systématique de son porteur dans un nuage de Stasis.",
+      "en": "If worn for too long, this little item can cause funny little puffs that may eventually lead to the systematic disintegration of it wearer into a cloud of Stasis.",
+      "es": "Si llevas este pequeño objeto mucho tiempo, te causará arrebatos delirantes que te llevarán a la desintegración sistemática en una nube de Stasis.",
+      "pt": "Se usado por muito tempo, este pequeno item cria uma sensação engraçada  de calor que pode, eventualmente, levar à desintegração de seu portador em uma nuvem de Stasis."
+    },
+    "definition": {
+      "item": {
+        "level": 150,
+        "id": 18680,
+        "graphicParameters": {
+          "gfxId": 34714271,
+          "femaleGfxId": 34714271
+        },
+        "baseParameters": {
+          "itemTypeId": 646,
+          "rarity": 4
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 136582,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136583,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                29,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136580,
+              "actionId": 832,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                4,
+                0,
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136581,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                160,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136584,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                15,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 362343,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 362344,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Emblème Shushu",
+      "en": "Shushu Emblem",
+      "es": "Emblema fab'huritu",
+      "pt": "Emblema Shushu"
+    },
+    "description": {
+      "fr": "Porté trop longtemps, ce petit objet cause des bouffées délirantes menant à la désintégration systématique de son porteur dans un nuage de Stasis.",
+      "en": "If worn for too long, this little item can cause funny little puffs that may eventually lead to the systematic disintegration of it wearer into a cloud of Stasis.",
+      "es": "Si llevas este pequeño objeto mucho tiempo, te causará arrebatos delirantes que te llevarán a la desintegración sistemática en una nube de Stasis.",
+      "pt": "Se usado por muito tempo, este pequeno item cria uma sensação engraçada  de calor que pode, eventualmente, levar à desintegração de seu portador em uma nuvem de Stasis."
+    },
+    "definition": {
+      "item": {
+        "level": 150,
+        "id": 18681,
+        "graphicParameters": {
+          "gfxId": 34714271,
+          "femaleGfxId": 34714271
+        },
+        "baseParameters": {
+          "itemTypeId": 646,
+          "rarity": 4
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 136586,
+              "actionId": 832,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                4,
+                0,
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136587,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                160,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136590,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                15,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136588,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 136589,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                29,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 363788,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 363787,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
                 0
               ]
             }
