@@ -1,0 +1,962 @@
+[
+  {
+    "title": {
+      "fr": "Caphasard",
+      "en": "Lucloak",
+      "es": "Capazar",
+      "pt": "Capacaso"
+    },
+    "description": {
+      "fr": "Bien que cette cape soit la représentation matérielle du hasard, si vous portez cette cape, ce n'est pas un hasard.",
+      "en": "This cloak may be the physical manifestation of luck itself, but the fact that you're wearing it wasn't left to chance.",
+      "es": "A pesar de que esta capa sea la representación material del azar, si te la pones no es cosa de azar.",
+      "pt": "Esta capa é a representação material do acaso, mas o fato de você a estar usando agora não é obra do acaso."
+    },
+    "definition": {
+      "item": {
+        "level": 170,
+        "id": 19062,
+        "graphicParameters": {
+          "gfxId": 13219062,
+          "femaleGfxId": 13219062
+        },
+        "baseParameters": {
+          "itemTypeId": 132,
+          "rarity": 5
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 149354,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 149355,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                295,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 149358,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                109,
+                0,
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 149356,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                40,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 149357,
+              "actionId": 875,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                11,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 149360,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                50,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Aiguille d'Outre-Temps",
+      "en": "Bygone Hand",
+      "es": "Aguja de más allá de los tiempos",
+      "pt": "Ponteiro de outros tempos"
+    },
+    "description": {
+      "fr": "Cette aiguille est respectée à travers les âges. Certains sont devenus fous en tentant de l'obtenir.",
+      "en": "This hand is respected throughout the ages. Some have even gone mad in their quest to get their hands on it.",
+      "es": "Esta aguja se ha ganado el respeto a través de los tiempos. Muchos se volvieron locos al intentar conseguirla.",
+      "pt": "Este ponteiro é respeitado em todas as eras. Alguns enlouqueceram tentando obtê-lo."
+    },
+    "definition": {
+      "item": {
+        "level": 170,
+        "id": 19146,
+        "graphicParameters": {
+          "gfxId": 11519146,
+          "femaleGfxId": 11519146
+        },
+        "baseParameters": {
+          "itemTypeId": 115,
+          "rarity": 5
+        },
+        "useParameters": {
+          "useCostAp": 5,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 2,
+          "useRangeMax": 3,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": true,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 148450,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                50,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 148448,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 148449,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                178,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 148454,
+              "actionId": 1053,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                87,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 148455,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                20,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 148452,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                9,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 148453,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                213,
+                0,
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 149230,
+              "actionId": 149,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                60,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Dora N.I.O.",
+      "en": "Dora N.I.O.",
+      "es": "Dora N.I.O.",
+      "pt": "Dora N.I.O."
+    },
+    "description": {
+      "fr": "Le N.I.O. était un comité réuni tous les dimanche soir dans les profondeurs des égoûts d'Astrub. On ne sut jamais la signification de cet acronyme ridicule car les membres du comité, friands d'insectes, emportèrent le secret dans leur tombe en confondant leur gâterie favorite, le Phikse, avec le mortel Bhugue ! Au final, vous vous en moquez puisque cette Dora vous va très bien.",
+      "en": "The N.I.O. is a committee which meets every Sunday evening in the depths of the Astrub Sewers. No one knows what the acronym stands for, because the members of the committee, who were big insect lovers, took the secret to their graves after confusing their favorite treat, the Phix, with the fatal Bhug! It looks good on you though, and that's what matters.",
+      "es": "El N.I.O. era un comité que se reunía todos los domingos por la tarde en las profundidades de las alcantarillas de Astrub. Nunca se supo lo que estas siglas significaban, dado que los miembros del comité, que eran grandes zampones de bichos, se llevaron el secreto a la tumba: confundieron su bicho-merienda favorito, los phiskitos, con las letales Bugeo. Pero lo que realmente importa es lo bien que te queda este dora.",
+      "pt": "O N.I.O. era um comitê que se reunia todos os domingos à noite nas profundezas dos esgotos de Astrub. Ninguém nunca soube o significado deste acrônimo ridículo pois os membros do comitê, que adoravam comer insetos, levaram o segredo para a tumba após confundirem seu doce favorito, o Fiks, com o mortal Bugue! No fim das contas, você não liga, porque esta Dora fica muito bem em você."
+    },
+    "definition": {
+      "item": {
+        "level": 170,
+        "id": 19432,
+        "graphicParameters": {
+          "gfxId": 13419432,
+          "femaleGfxId": 13419432
+        },
+        "baseParameters": {
+          "itemTypeId": 134,
+          "rarity": 5
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 154926,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 154927,
+              "actionId": 160,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 154931,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 154928,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                191,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 154929,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                55,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 154934,
+              "actionId": 82,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                83,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 154935,
+              "actionId": 85,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                83,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 154932,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                147,
+                0,
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 154933,
+              "actionId": 149,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                34,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Sangles Sanglantes",
+      "en": "Wounded Straps",
+      "es": "Correas sangrientas",
+      "pt": "Correias Sangrentas"
+    },
+    "description": {
+      "fr": "Les sangles sanglantes qui arpentent mon corps,\r\nBlessent mes chairs, mes viscères, ET J'ADORE!\r\nTout ruisselant, exaltant quand sonne l'heure,\r\nJe me nourris de cette folie ET TU PLEURES !\r\nEt je m'en vais, le coeur léger, en despote,\r\nTon sang sur moi, et dans mes bras, TA PAIRE DE BOTTES !!!\r\n - Polver \"la Haine\", Sacrieur et barde à ses heures perdues.",
+      "en": "My body is covered in Wounded Straps,\nMy injuries, though, are safely wrapped,\nIn the wind they are freely flowing,\nI show my madness, and you'll be crying!\nAnd so I leave, like a horrid brute,\nOn my hands your blood, on my feet your boots!\n— Polver \"The Hate\", Sacrier and bard in his spare time.",
+      "es": "Las correas sangrientas que recorren mi cuerpo,\nhieren mi carme, mis vísceras, ¡Y ME ENCANTA!\nEmpapado y entusiasmado cuando llega la hora,\nMe alimento de esta locura, ¡Y TÚ LLORAS!\nMe voy, tranquilo, la ira ni se nota.\nCon tu sangre sobre mí, y en mis brazos, ¡TU PAR DE BOTAS!\n- Antodio Manchado, sacrógrito y trovador en sus horas muertas.",
+      "pt": "Minhas correias têm muito sangue,\nSangue que não para de pingar.\nO sangue que encharca minhas correias,\nÉ o mais vermelho que há.\nNinguém sabe de onde veio,\nMas não vai coagular.\n- Sangralves Pias, Sacrier e poeta nas horas vagas."
+    },
+    "definition": {
+      "item": {
+        "level": 170,
+        "id": 21207,
+        "graphicParameters": {
+          "gfxId": 13321207,
+          "femaleGfxId": 13321207
+        },
+        "baseParameters": {
+          "itemTypeId": 133,
+          "rarity": 5
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 189526,
+              "actionId": 41,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 189527,
+              "actionId": 191,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 189530,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                9,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 189531,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                147,
+                0,
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 189528,
+              "actionId": 184,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 189529,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                194,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 189534,
+              "actionId": 84,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                50,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 189532,
+              "actionId": 82,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                50,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 189533,
+              "actionId": 85,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                50,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Sceau Fulgurant",
+      "en": "Dazzling Signet",
+      "es": "Sello fulgurante",
+      "pt": "Sinete Deslumbrante"
+    },
+    "description": {
+      "fr": "Cet anneau magnifique provient tout droit d'une autre planète.",
+      "en": "This magnificent ring comes from another planet.",
+      "es": "Este magnífico anillo viene directamente de otro planeta.",
+      "pt": "Este magnífico anel vem de outro planeta."
+    },
+    "definition": {
+      "item": {
+        "level": 170,
+        "id": 26504,
+        "graphicParameters": {
+          "gfxId": 57417547,
+          "femaleGfxId": 57417547
+        },
+        "baseParameters": {
+          "itemTypeId": 103,
+          "rarity": 5
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 279356,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 279357,
+              "actionId": 57,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 279358,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                137,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 279359,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                6,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 279360,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                141,
+                0,
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 279361,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                20,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Amulette du Mak Assutra",
+      "en": "Mak Assutra Amulet",
+      "es": "Amuleto del Kam Asutra",
+      "pt": "Amuleto do Mak Assutra"
+    },
+    "description": {
+      "fr": "Cette amulette était portée par une légendaire Protectrice du Krosmoz, un hibou qui passait ses journées à voler au secours des âmes égarées. On sait, vous auriez bien aimé avoir un ticket avec.",
+      "en": "This amulet was worn by a legendary Protector of the Krosmoz, an owl who spent every day flying to the help of lost souls. We know, you'd have loved to give that owl a fly.",
+      "es": "Este amuleto lo llevaba una legendaria protectora del Krosmoz, un búho que pasaba el día volando para socorrer las almas extraviadas. Seguro que te habría gustado tenerlo en el bote.",
+      "pt": "Este amuleto pertencia a uma Protetora do Krosmoz lendária, uma coruja que vivia voando para ajudar as almas perdidas. A gente sabe que você precisa de suporte."
+    },
+    "definition": {
+      "item": {
+        "level": 170,
+        "id": 26506,
+        "graphicParameters": {
+          "gfxId": 12026506,
+          "femaleGfxId": 12026506
+        },
+        "baseParameters": {
+          "itemTypeId": 120,
+          "rarity": 5
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 279372,
+              "actionId": 149,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                59,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 279373,
+              "actionId": 82,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                33,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 279374,
+              "actionId": 83,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                33,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 279375,
+              "actionId": 85,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                33,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 279368,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 279369,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                251,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 279370,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                9,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 279371,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                128,
+                0,
+                1,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+]

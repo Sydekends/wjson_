@@ -1,0 +1,302 @@
+[
+  {
+    "title": {
+      "fr": "Ceinture Fulgurante",
+      "en": "Dazzling Belt",
+      "es": "Cinturón fulgurante",
+      "pt": "Cinto Deslumbrante"
+    },
+    "description": {
+      "fr": "Cette ceinture permet de lancer des sorts plus vite que son ombre, mais rend aussi plus fragile. Donc attention à ne pas vous faire tirer comme un Wapin...",
+      "en": "This belt lets you fire off spells incredibly fast, but it also makes you more fragile. So be careful not to get shot down like a Wodent…",
+      "es": "Este cinturón te permite lanzar los hechizos más rápido que su sombra, pero también te hace más frágil. Así que ojo con ser blanco fácil como un wonejo...",
+      "pt": "Este cinto permite lançar feitiços mais rápido do que a luz, mas também fragiliza quem o usa. Então, corra como um Lepowide para fugir dos golpes..."
+    },
+    "definition": {
+      "item": {
+        "level": 20,
+        "id": 10272,
+        "graphicParameters": {
+          "gfxId": 13310272,
+          "femaleGfxId": 13310272
+        },
+        "baseParameters": {
+          "itemTypeId": 133,
+          "rarity": 7
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 42313,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 42314,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                40,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 183231,
+              "actionId": 130,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                24,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 183232,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Anneau de Satisfaction",
+      "en": "Satisfaction Ring",
+      "es": "Anillo de satisfacción",
+      "pt": "Anel da Satisfação"
+    },
+    "description": {
+      "fr": "Avec cet anneau formidable, vous serez heureux d'être heureux ! Le bonheur ne tient pas à grand-chose !",
+      "en": "With this great ring, you'll be happy being happy! It's the little things that count.",
+      "es": "Con este anillo portentoso, ¡estarás feliz de ser feliz! ¡La felicidad no depende de muchas cosas!",
+      "pt": "Com este anel formidável, você ficará feliz por estar feliz! São as pequenas coisas que trazem alegria!"
+    },
+    "definition": {
+      "item": {
+        "level": 20,
+        "id": 20666,
+        "graphicParameters": {
+          "gfxId": 1039367,
+          "femaleGfxId": 1039367
+        },
+        "baseParameters": {
+          "itemTypeId": 103,
+          "rarity": 7
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 183230,
+              "actionId": 21,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                50,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 183229,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 183241,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                12,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Bottes de Satisfaction",
+      "en": "Satisfaction Boots",
+      "es": "Botas de Satisfacción",
+      "pt": "Botas da Satisfação"
+    },
+    "description": {
+      "fr": "Ces bottes sont si confortables que l'on ne peut qu'en être satisfait. Seul un adversaire pourrait ne pas être satisfait si vous lui faîtes voir vos semelles de trop près. Et encore...",
+      "en": "These shoes are so comfortable, you can't help but be satisfied with them. Your enemies might not be quite so content if you decide to give them the boot, though.",
+      "es": "Estas botas son comodísimas, estarás satisfecho. Solo un adversario podría no estar satisfecho si le enseñas las suelas muy de cerca. Y aún así...",
+      "pt": "Estas botas são tão confortáveis que quem as usa dá pulos de alegria. Só que os inimigos não ficam muito contentes quando levam um coice no traseiro. Digo, um chute bem dado..."
+    },
+    "definition": {
+      "item": {
+        "level": 20,
+        "id": 20667,
+        "graphicParameters": {
+          "gfxId": 11910247,
+          "femaleGfxId": 11910247
+        },
+        "baseParameters": {
+          "itemTypeId": 119,
+          "rarity": 7
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 183238,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                50,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 183239,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                24,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 183237,
+              "actionId": 41,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 183240,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+]

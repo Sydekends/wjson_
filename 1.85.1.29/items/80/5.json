@@ -1,0 +1,478 @@
+[
+  {
+    "title": {
+      "fr": "Bottes Anti-UC",
+      "en": "Anti-UH Boots",
+      "es": "Botas antirrayos malauva",
+      "pt": "Botas anti-UC"
+    },
+    "description": {
+      "fr": "Bottes qui luttent efficacement contre les chaleurs ultra fortes, mais renforcent l'odeur de pied.",
+      "en": "Boots that help protect from ultra strong heat, but also increase foot odor.",
+      "es": "Botas eficaces contra los fuertes calores, pero empeoran el olor de pies.",
+      "pt": "Botas que ajudam a proteger do calor extremo, mas também aumentam o chulé."
+    },
+    "definition": {
+      "item": {
+        "level": 80,
+        "id": 19451,
+        "graphicParameters": {
+          "gfxId": 11919451,
+          "femaleGfxId": 11919451
+        },
+        "baseParameters": {
+          "itemTypeId": 119,
+          "rarity": 5
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 180222,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 180223,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                156,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 180226,
+              "actionId": 875,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 180227,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                59,
+                0,
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 180225,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 180228,
+              "actionId": 149,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 180229,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                35,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 364951,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                20,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 364952,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                20,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Ceinture Rasboulaire du Rasboul",
+      "en": "Bherbal Bherb Belt",
+      "es": "Cinturón Rasgabolario del Rasgabola",
+      "pt": "Cinto Rasgabolar do Rasgabola"
+    },
+    "description": {
+      "fr": "Lorsque le Rasboul a les boules, il porte sa ceinture Rasboulaire pour envoyer bouler tous les casse-boules.",
+      "en": "When the Bherb has got butterflies, he wears his Bherbal belt and healthily eliminates them.",
+      "es": "Cuando al Rasgabola le tocan las bolas, se pone el Cinturón Rasgabolario para bolear a todos los boludos que se le acerquen.",
+      "pt": "Quando o Rasgabola pegava borboletas, ele colocava seu cinto Rasgabolar e as eliminava de forma saudável."
+    },
+    "definition": {
+      "item": {
+        "level": 80,
+        "id": 26508,
+        "graphicParameters": {
+          "gfxId": 13326508,
+          "femaleGfxId": 13326508
+        },
+        "baseParameters": {
+          "itemTypeId": 133,
+          "rarity": 5
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 279388,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                25,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 279390,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                73,
+                0,
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 279384,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 279385,
+              "actionId": 184,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 279386,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                127,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 279387,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                25,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Galons Fred",
+      "en": "Fredalon Stripes",
+      "es": "Galones Fred",
+      "pt": "Dragonfred"
+    },
+    "description": {
+      "fr": "Pour être capable de porter ces épaulettes, il faut avoir poussé énormément de fonte à la salle. Seuls les plus musclés connaitront alors le succès incontestable que Fred possédait...",
+      "en": "If you want to wear these epaulettes, you'll need to have pumped a whole lot of iron. Only the biggest and beefiest can compare to Fredalon's incomparable awesomeness...",
+      "es": "Para poder llevar estas hombreras, es necesario haber levantado muchas pesas en el gimnasio. Por ello, solo los más musculosos conocerán el éxito incontestable que tenía Fred...",
+      "pt": "É preciso passar horas na academia todos os dias para poder usar estas dragonas. Só os mais musculosos terão o mesmo sucesso incontestável que Fred..."
+    },
+    "definition": {
+      "item": {
+        "level": 80,
+        "id": 27354,
+        "graphicParameters": {
+          "gfxId": 13827354,
+          "femaleGfxId": 13827354
+        },
+        "baseParameters": {
+          "itemTypeId": 138,
+          "rarity": 5
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 291654,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 291655,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                118,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 291660,
+              "actionId": 1053,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                40,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 291662,
+              "actionId": 83,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                22,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 291656,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                20,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 291658,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                7,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 295319,
+              "actionId": 85,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                22,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 295320,
+              "actionId": 84,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                22,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+]

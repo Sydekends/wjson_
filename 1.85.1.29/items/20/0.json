@@ -1,0 +1,136 @@
+[
+  {
+    "title": {
+      "fr": "Amulette Cassini",
+      "en": "Cassini Amulet",
+      "es": "Amuleto Cassini",
+      "pt": "Amuleto Cassini"
+    },
+    "description": {
+      "fr": "Une amulette que l'on pourrait porter pratiquement tous les jours et à toutes les occasions.",
+      "en": "An amulet that goes with all your outfits...! There is a god!",
+      "es": "Un amuleto que se puede llevar prácticamente todos los días y en cualquier ocasión.",
+      "pt": "Um amuleto que vai bem com tudo! Deus existe!"
+    },
+    "definition": {
+      "item": {
+        "level": 30,
+        "id": 13446,
+        "graphicParameters": {
+          "gfxId": 1209358,
+          "femaleGfxId": 1209358
+        },
+        "baseParameters": {
+          "itemTypeId": 120,
+          "rarity": 0
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 135902,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                5,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 135903,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 135900,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                20,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 135901,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                5,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 135904,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                12,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 360549,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+]

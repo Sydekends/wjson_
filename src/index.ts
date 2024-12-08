@@ -1,22 +1,7 @@
 import axios from "axios";
 import fs from "fs/promises";
 import path from "path";
-
-interface Config {
-  version: string;
-}
-
-interface GameItem {
-  definition: {
-    item: {
-      id: number;
-      level: number;
-      // ... other properties
-    };
-  };
-  title: Record<string, string>;
-  description: Record<string, string>;
-}
+import { DataType, GameItem } from "./types";
 
 const TYPES = [
   "actions",
@@ -37,14 +22,12 @@ const TYPES = [
   "states",
 ] as const;
 
-type DataType = (typeof TYPES)[number];
-
 // Define level ranges with their starting values
 const LEVEL_RANGES = [
   6, 20, 35, 50, 65, 80, 95, 110, 125, 140, 155, 170, 185, 200, 215, 230,
 ];
-
-function getLevelRangeStart(level: number): number {
+const RARYTY_RANGE = [0, 1, 2, 3, 4, 5, 6, 7, 8];
+function getLevelRangeEnd(level: number): number {
   // Find the appropriate range start for the given level
   return LEVEL_RANGES.reduce((prev, curr) => (level >= curr ? curr : prev));
 }
@@ -70,22 +53,62 @@ async function fetchData(version: string, type: DataType): Promise<any> {
   return response.data;
 }
 
-function groupItemsByLevel(items: GameItem[]): Record<number, GameItem[]> {
-  const grouped: Record<number, GameItem[]> = {};
+function groupAndFilterItems(
+  itemsWithTrash: GameItem[]
+): Record<number, Record<number, GameItem[]>> {
+  const items = itemsWithTrash.map(
+    ({
+      title,
+      description,
+      definition: {
+        item: {
+          level,
+          id,
+          graphicParameters,
+          baseParameters: { itemTypeId, rarity },
+          useParameters,
+        },
+        equipEffects,
+      },
+    }) => ({
+      title,
+      description,
+      definition: {
+        item: {
+          level,
+          id,
+          graphicParameters,
+          baseParameters: { itemTypeId, rarity },
+          useParameters,
+        },
+        equipEffects,
+      },
+    })
+  );
+  const groupedItems: Record<number, Record<number, GameItem[]>> = {
+    110: {
+      4: [],
+    },
+  };
 
-  // Initialize empty arrays for all level ranges
-  LEVEL_RANGES.forEach((startLevel) => {
-    grouped[startLevel] = [];
+  // Initialize empty arrays
+  LEVEL_RANGES.forEach((levelRangeEnd) => {
+    // for all level ranges
+    groupedItems[levelRangeEnd] = [];
+    RARYTY_RANGE.forEach((rarity) => {
+      groupedItems[levelRangeEnd][rarity] = [];
+    });
   });
 
-  // Group items by their level range
   items.forEach((item) => {
+    // Group items by their level range
     const level = item.definition.item.level;
-    const rangeStart = getLevelRangeStart(level);
-    grouped[rangeStart].push(item);
+    const rangeEnd = getLevelRangeEnd(level);
+    const rarity = item.definition.item.baseParameters.rarity;
+    groupedItems[rangeEnd][rarity].push(item);
   });
 
-  return grouped;
+  return groupedItems;
 }
 
 async function processAndSaveData(version: string): Promise<void> {
@@ -97,7 +120,7 @@ async function processAndSaveData(version: string): Promise<void> {
 
   for (const type of TYPES) {
     console.log(`Processing ${type}...`);
-    const data = await fetchData(version, type);
+    const data = (await fetchData(version, type)) as GameItem[];
 
     // Save raw data
     await fs.writeFile(
@@ -107,18 +130,29 @@ async function processAndSaveData(version: string): Promise<void> {
 
     if (type === "items") {
       // Process items specially - group by level
-      const groupedItems = groupItemsByLevel(data);
+      const groupedItems = groupAndFilterItems(data);
 
       // Create items subdirectory
       const itemsDir = path.join(outputDirPath, "items");
       await ensureDirectoryExists(itemsDir);
 
       // Save each level range to a separate file
-      for (const [startLevel, items] of Object.entries(groupedItems)) {
-        await fs.writeFile(
-          path.join(itemsDir, `${startLevel}.json`),
-          JSON.stringify(items, null, 2)
-        );
+      for (const [startLevel, itemsByRarity] of Object.entries(groupedItems)) {
+        const itemsLvlDir = path.join(itemsDir, startLevel);
+        await ensureDirectoryExists(itemsLvlDir);
+        for (const [rarity, items] of Object.entries(itemsByRarity)) {
+          const itemsRarityDir = path.join(itemsLvlDir, rarity);
+          // await ensureDirectoryExists(itemsRarityDir);
+          console.log(itemsRarityDir);
+          await fs.writeFile(
+            path.join(itemsLvlDir, `${rarity}.json`),
+            JSON.stringify(items, null, 2)
+          );
+        }
+        // await fs.writeFile(
+        //   path.join(itemsLvlDir, `${startLevel}.json`),
+        //   JSON.stringify(itemsByRarity, null, 2)
+        // );
       }
     } else {
       // Save processed data (for now, same as raw data)

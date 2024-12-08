@@ -1,5 +1,6 @@
 # wjson\_
 
+> remote endpoint github : https://raw.githubusercontent.com/Sydekends/wjson_/refs/heads/main/{version}/items/110.json
 > Typescript
 > setup the dev environnement for testing (ts-node-dev)
 
@@ -31,7 +32,7 @@ for all the types :
 `states` > contains the translation of the states used by the equipment
 
 !! items.json is a very large file, i want items to be sliced by lvl in multiple files in the output.
-grouped 0>19 20>34 35>49 50>64 65>79 80>94 95>109 110>124 125>139 140>154 155>169 170>184 etc
+grouped 0>20 21>35 36>50 51>65 66>80 81>95 96>110 109>125 126>150 151>175 176>200 201>215 216>230 231>245
 
 4. Create a folder named : {version}
 5. Transform the data for better manipulation /WIP

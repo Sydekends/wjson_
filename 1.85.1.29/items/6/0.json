@@ -1,0 +1,1136 @@
+[
+  {
+    "title": {
+      "fr": "Bottes de l'Enflemar",
+      "en": "Blazy Boots",
+      "es": "Botas incendiarias",
+      "pt": "Botas Labareda"
+    },
+    "description": {
+      "fr": "Vous enflammerez le plancher sous vos pas.",
+      "en": "These white-hot boots will set your steps on fire.",
+      "es": "No te va a hacer gracia eso de quemar el parqué.",
+      "pt": "Estas botas brancas de calor deixarão você a jato! "
+    },
+    "definition": {
+      "item": {
+        "level": 1,
+        "id": 13970,
+        "graphicParameters": {
+          "gfxId": 11913970,
+          "femaleGfxId": 11913970
+        },
+        "baseParameters": {
+          "itemTypeId": 119,
+          "rarity": 0
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": []
+    }
+  },
+  {
+    "title": {
+      "fr": "Ceinture de Toshin",
+      "en": "Toshin Belt",
+      "es": "Cinturón de Toshin",
+      "pt": "Cinto de Toxin"
+    },
+    "description": {
+      "fr": "Il tiendra le tout bien en place.",
+      "en": "It holds everything in place.",
+      "es": "Lo mantendrá todo en su sitio.",
+      "pt": "Este cinto segura tudo, inclusive o tchan."
+    },
+    "definition": {
+      "item": {
+        "level": 1,
+        "id": 19237,
+        "graphicParameters": {
+          "gfxId": 13319237,
+          "femaleGfxId": 13319237
+        },
+        "baseParameters": {
+          "itemTypeId": 133,
+          "rarity": 0
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": []
+    }
+  },
+  {
+    "title": {
+      "fr": "Externabottes",
+      "en": "Externaboots",
+      "es": "Externabotas",
+      "pt": "Externabotas"
+    },
+    "description": {
+      "fr": "Ces bottes en Stasis ont été portées pendant très longtemps avant de vous appartenir...",
+      "en": "These boots made from Stasis have been worn for quite some time before making their way to you...",
+      "es": "Estas botas de Stasis han recorrido enormes distancias antes de que te hicieras con ellas.",
+      "pt": "Estas botas de Stasis foram usadas durante muito tempo antes de lhe pertencer..."
+    },
+    "definition": {
+      "item": {
+        "level": 4,
+        "id": 20376,
+        "graphicParameters": {
+          "gfxId": 11920376,
+          "femaleGfxId": 11920376
+        },
+        "baseParameters": {
+          "itemTypeId": 119,
+          "rarity": 0
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 180588,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                4,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 180589,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                6,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 366095,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 366096,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                3,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Incarnamulette",
+      "en": "Incarnamulet",
+      "es": "Incarnamuleto",
+      "pt": "Incarnamuleto"
+    },
+    "description": {
+      "fr": "Malgré la sensation de puissance que vous procure cette amulette, vous ressentez une irrésistible envie de vous poser et de ne plus bouger.",
+      "en": "Despite the feeling of power you get from wearing this amulet, you feel an irrepressible urge to sit down and never get up again.",
+      "es": "A pesar de la sensación de poder que te confiere este amuleto, sientes unas ganas irresistibles de sentarte y no moverte nunca más.",
+      "pt": "Apesar da sensação de poder que este amuleto lhe proporciona, você fica com uma irresistível vontade de se sentar e não se mexer mais."
+    },
+    "definition": {
+      "item": {
+        "level": 2,
+        "id": 20377,
+        "graphicParameters": {
+          "gfxId": 12020377,
+          "femaleGfxId": 12020377
+        },
+        "baseParameters": {
+          "itemTypeId": 120,
+          "rarity": 0
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 180591,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                3,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 180592,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                8,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Incarnabague",
+      "en": "Incarnaring",
+      "es": "Incarnalianza",
+      "pt": "Incarnajoia"
+    },
+    "description": {
+      "fr": "Plus vous portez cette bague, plus votre doigt semble engourdi...",
+      "en": "The longer you wear this ring, the number your finger will get...",
+      "es": "Cuanto más tiempo lleves esta alianza, más se te entumecerá el dedo...",
+      "pt": "Quanto mais você usar esta joia, mais ficará com o dedo dormente..."
+    },
+    "definition": {
+      "item": {
+        "level": 2,
+        "id": 20378,
+        "graphicParameters": {
+          "gfxId": 10320378,
+          "femaleGfxId": 10320378
+        },
+        "baseParameters": {
+          "itemTypeId": 103,
+          "rarity": 0
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 180594,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                4,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 361356,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 361355,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                3,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Incarnacape",
+      "en": "Incarnacloak",
+      "es": "Incarnacapa",
+      "pt": "Incarnacapa"
+    },
+    "description": {
+      "fr": "Cette cape semble s'alourdir de jour en jour.",
+      "en": "This cloak seems to get heavier every time you put it on.",
+      "es": "Esta capa parece volverse más pesada cada día que pasa.",
+      "pt": "Esta capa parece ficar cada vez mais pesada com o passar do tempo."
+    },
+    "definition": {
+      "item": {
+        "level": 3,
+        "id": 20379,
+        "graphicParameters": {
+          "gfxId": 13220379,
+          "femaleGfxId": 13220379
+        },
+        "baseParameters": {
+          "itemTypeId": 132,
+          "rarity": 0
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 180595,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                3,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 180596,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                9,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Incarnacoiffe",
+      "en": "Incarnahat",
+      "es": "Incarnapucha",
+      "pt": "Incarnapéu"
+    },
+    "description": {
+      "fr": "Ne portez pas trop longtemps cette coiffe stasifiée. Vous pourriez avoir de vilain maux de tête, ou une troisième oreille qui pousse...",
+      "en": "Don’t wear this Stasified hat for too long. It might give you a nasty headache, or you may grow a third ear...",
+      "es": "No lleves este tocado stasiado durante mucho tiempo. Podrías sufrir dolores de cabeza horrorosos, o quizás empiece a crecerte una oreja nueva...",
+      "pt": "Não use este chapéu estasificado por muito tempo. Você pode ficar com uma baita enxaqueca ou ver uma terceira orelha nascer na sua cabeça..."
+    },
+    "definition": {
+      "item": {
+        "level": 2,
+        "id": 20380,
+        "graphicParameters": {
+          "gfxId": 13420380,
+          "femaleGfxId": 13420380
+        },
+        "baseParameters": {
+          "itemTypeId": 134,
+          "rarity": 0
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 180597,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                9,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 366132,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 366131,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                3,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Incarnature",
+      "en": "Incarnabelt",
+      "es": "Incarnanturón",
+      "pt": "Incarnacinto"
+    },
+    "description": {
+      "fr": "Si vous portez cette ceinture trop longtemps, vous n'échapperez pas à la congestion intestinale.",
+      "en": "If you wear this belt for too long, you may find your digestive system gets a little... backed up.",
+      "es": "Si llevas este cinturón durante mucho tiempo, serás víctima de la obstrucción intestinal.",
+      "pt": "Se usar este cinto por muito tempo, você não escapará de uma prisão de ventre."
+    },
+    "definition": {
+      "item": {
+        "level": 3,
+        "id": 20381,
+        "graphicParameters": {
+          "gfxId": 13320381,
+          "femaleGfxId": 13320381
+        },
+        "baseParameters": {
+          "itemTypeId": 133,
+          "rarity": 0
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 180599,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                11,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 180601,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                4,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 363559,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                4,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 363560,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                4,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Externapaulettes",
+      "en": "Externashoulder Pads",
+      "es": "Externombreras",
+      "pt": "Externombreiras"
+    },
+    "description": {
+      "fr": "Ce qui semblerait être une simple épaulette de Iop est en fait un étrange mélange de Stasis et de chair.",
+      "en": "What at first glance looks to be a simple Iop shoulderpad is, in fact, a strange mix of Stasis and flesh.",
+      "es": "Lo que podría parecer una simple hombrera de yopuka se trata, en realidad, de una extraña combinación de Stasis y carne.",
+      "pt": "O que parece ser uma simples ombreira de Iop é na verdade uma estranha mistura de Stasis e carne."
+    },
+    "definition": {
+      "item": {
+        "level": 5,
+        "id": 20382,
+        "graphicParameters": {
+          "gfxId": 13820382,
+          "femaleGfxId": 13820382
+        },
+        "baseParameters": {
+          "itemTypeId": 138,
+          "rarity": 0
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 180603,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                5,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 180604,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                12,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 361359,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 361360,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                3,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Incarnastron",
+      "en": "Incarnastron",
+      "es": "Incarmadura",
+      "pt": "Incarneitoral"
+    },
+    "description": {
+      "fr": "Il est déconseillé de porter cet étau de cristal de Stasis trop longtemps, sous peine de ne plus pouvoir respirer.",
+      "en": "We don’t recommend you wear this Stasis Crystal vice for too long. Especially not if you like breathing.",
+      "es": "Te desaconsejamos que lleves este peto de cristal de Stasis durante mucho tiempo si quieres seguir respirando.",
+      "pt": "É desaconselhável usar esta couraça de cristal de Stasis durante muito tempo, pois você pode acabar não conseguindo mais respirar."
+    },
+    "definition": {
+      "item": {
+        "level": 3,
+        "id": 20383,
+        "graphicParameters": {
+          "gfxId": 13620383,
+          "femaleGfxId": 34720383
+        },
+        "baseParameters": {
+          "itemTypeId": 136,
+          "rarity": 0
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 180606,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                4,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 180605,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                7,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Externanneau",
+      "en": "Externaring",
+      "es": "Externanillo",
+      "pt": "Externanel"
+    },
+    "description": {
+      "fr": "certains pensent que cet anneau serait capable de porter le doigt qui le porte.",
+      "en": "Some people think this rings wears you, not the other way around.",
+      "es": "Algunos piensan que este anillo podría llevar el dedo que lo lleve.",
+      "pt": "Alguns pensam que este anel é capaz de levar o dedo que o leva."
+    },
+    "definition": {
+      "item": {
+        "level": 4,
+        "id": 20384,
+        "graphicParameters": {
+          "gfxId": 10320384,
+          "femaleGfxId": 10320384
+        },
+        "baseParameters": {
+          "itemTypeId": 103,
+          "rarity": 0
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 180607,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 180608,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                5,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Incarlame",
+      "en": "Incarknife",
+      "es": "Incarnavaja",
+      "pt": "Incarlâmina"
+    },
+    "description": {
+      "fr": "Un des rares objets d'Incarnam à ne pas avoir été contaminé par la Stasis.",
+      "en": "This is one of the few Incarnam items that has not been contaminated by Stasis.",
+      "es": "Uno de los escasos objetos de Incarnam que no han sido contaminados por la Stasis.",
+      "pt": "Um dos raros objetos de Incarnam que não foram contaminados pela Stasis."
+    },
+    "definition": {
+      "item": {
+        "level": 2,
+        "id": 20385,
+        "graphicParameters": {
+          "gfxId": 22320385,
+          "femaleGfxId": 22320385
+        },
+        "baseParameters": {
+          "itemTypeId": 223,
+          "rarity": 0
+        },
+        "useParameters": {
+          "useCostAp": 6,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 1,
+          "useRangeMax": 1,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 180610,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                4,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 180612,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                13,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 362068,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                4,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 362067,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                4,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Tolérance III",
+      "en": "Tolerance III",
+      "es": "Tolerancia III",
+      "pt": "Tolerância III"
+    },
+    "description": {
+      "fr": "Ce parchemin peut être appliqué à une combinaison de châsses spécifique pour ajouter un effet unique sur l'objet. Cet effet peut être cumulé jusqu'à un niveau de 2.",
+      "en": "This scroll can be applied to a specific combination of sockets to add a single effect to an item. This effect can stack up to level 2.",
+      "es": "Este pergamino puede aplicarse a una combinación específica de engarces para añadir un efecto único al objeto. Este efecto se puede acumular hasta un nivel de 2.",
+      "pt": "Este pergaminho pode ser aplicado a uma combinação específica de engastes para conferir um efeito único ao item. Este efeito pode ser acumulado até chegar ao nível 2."
+    },
+    "definition": {
+      "item": {
+        "level": 1,
+        "id": 28892,
+        "graphicParameters": {
+          "gfxId": 81227111,
+          "femaleGfxId": 81227111
+        },
+        "baseParameters": {
+          "itemTypeId": 812,
+          "rarity": 0
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 315678,
+              "actionId": 304,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                6331,
+                0,
+                3,
+                0,
+                -1,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Abandon I",
+      "en": "Abandon I",
+      "es": "Abandono I",
+      "pt": "Abandono I"
+    },
+    "description": {
+      "fr": "Ce parchemin peut être appliqué à une combinaison de châsses spécifique pour ajouter un effet unique sur l'objet. Cet effet peut être cumulé jusqu'à un niveau de 6.",
+      "en": "This scroll can be applied to a specific combination of sockets to add a single effect to an item. This effect can stack up to level 6.",
+      "es": "Este pergamino puede aplicarse a una combinación específica de engarces para añadir un efecto único al objeto. Este efecto se puede acumular hasta un nivel de 6.",
+      "pt": "Este pergaminho pode ser aplicado a uma combinação específica de engastes para conferir um efeito único ao item. Este efeito pode ser acumulado até chegar ao nível 6."
+    },
+    "definition": {
+      "item": {
+        "level": 1,
+        "id": 29004,
+        "graphicParameters": {
+          "gfxId": 81228822,
+          "femaleGfxId": 81228822
+        },
+        "baseParameters": {
+          "itemTypeId": 812,
+          "rarity": 0
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 317937,
+              "actionId": 304,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                6932,
+                0,
+                1,
+                0,
+                -1,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Abandon III",
+      "en": "Abandon III",
+      "es": "Abandono III",
+      "pt": "Abandono III"
+    },
+    "description": {
+      "fr": "Ce parchemin peut être appliqué à une combinaison de châsses spécifique pour ajouter un effet unique sur l'objet. Cet effet peut être cumulé jusqu'à un niveau de 6.",
+      "en": "This scroll can be applied to a specific combination of sockets to add a single effect to an item. This effect can stack up to level 6.",
+      "es": "Este pergamino puede aplicarse a una combinación específica de engarces para añadir un efecto único al objeto. Este efecto se puede acumular hasta un nivel de 6.",
+      "pt": "Este pergaminho pode ser aplicado a uma combinação específica de engastes para conferir um efeito único ao item. Este efeito pode ser acumulado até chegar ao nível 6."
+    },
+    "definition": {
+      "item": {
+        "level": 1,
+        "id": 29006,
+        "graphicParameters": {
+          "gfxId": 81227111,
+          "femaleGfxId": 81227111
+        },
+        "baseParameters": {
+          "itemTypeId": 812,
+          "rarity": 0
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 317939,
+              "actionId": 304,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                6932,
+                0,
+                2,
+                0,
+                -1,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+]

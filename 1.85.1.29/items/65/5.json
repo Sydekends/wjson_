@@ -1,0 +1,438 @@
+[
+  {
+    "title": {
+      "fr": "Gelano",
+      "en": "Gelano",
+      "es": "Gelanillo",
+      "pt": "Gelanel"
+    },
+    "description": {
+      "fr": "En enfilant cet anneau, vous serez fier de montrer les gens du doigt !",
+      "en": "Gettin' jiggly wit it!",
+      "es": "Un anillo único sin igual, su ritmo es letal, su sabor ancestral. Si te atreves a probar, nadie sabe donde puedas acabar.",
+      "pt": "Ao usar este anel, você vai ter orgulho de mostrar o dedo às pessoas."
+    },
+    "definition": {
+      "item": {
+        "level": 65,
+        "id": 9723,
+        "graphicParameters": {
+          "gfxId": 1039723,
+          "femaleGfxId": 1039723
+        },
+        "baseParameters": {
+          "itemTypeId": 103,
+          "rarity": 5
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 127209,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                63,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 127208,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 127211,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                35,
+                0,
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 127210,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                3,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Plastron de Sine",
+      "en": "Sine's Breastplate",
+      "es": "Coraza de Sine",
+      "pt": "Peitoral de Sine"
+    },
+    "description": {
+      "fr": "Ce plastron a été forgé dans le cadre du Nimbosium, un concours organisé tous les 777 ans en l'honneur du Forgeur, le premier des Nimbos. Ces créations font généralement partie des plus élaborées du Monde des Douzes.",
+      "en": "This breastplate was forged for the Smythposium, a contest held every 777 years in honor of the Great Smith, who was the first of the Stubbyobs. Creations from this event are generally among the most elaborate in the World of Twelve.",
+      "es": "Esta coraza fue forjada durante el Nanoimposio, un concurso organizado cada 777 años en honor al Forjador, el primero de los taponanos. Estas creaciones son, en general, de las más elaboradas del Mundo de los Doce.",
+      "pt": "Este peitoral foi forjado durante o Brutanosium, um concurso organizado a cada 777 anos em homenagem ao Ferreiro, o primeiro Brutanão. Essas criações costumam ser as mais elaboradas do Mundo dos Doze."
+    },
+    "definition": {
+      "item": {
+        "level": 65,
+        "id": 30393,
+        "graphicParameters": {
+          "gfxId": 13630393,
+          "femaleGfxId": 34730393
+        },
+        "baseParameters": {
+          "itemTypeId": 136,
+          "rarity": 5
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 337388,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                54,
+                0,
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 337391,
+              "actionId": 83,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                33,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 337390,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 337385,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                77,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 337384,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 337387,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                9,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 337386,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                9,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 337393,
+              "actionId": 84,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                33,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 337392,
+              "actionId": 85,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                33,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Drap Conique",
+      "en": "Draconicloak",
+      "es": "Sábana cónica",
+      "pt": "Capa Cônica"
+    },
+    "description": {
+      "fr": "Pas très pratique à enfiler, mais bougrement robuste !",
+      "en": "Fairly impractical to wear, but it's tough as heck!",
+      "es": "No muy práctica para vestir, ¡pero es muy robusta!",
+      "pt": "Ela não é muito prática de vestir, mas é extremamente robusta!"
+    },
+    "definition": {
+      "item": {
+        "level": 65,
+        "id": 30872,
+        "graphicParameters": {
+          "gfxId": 13230872,
+          "femaleGfxId": 13230872
+        },
+        "baseParameters": {
+          "itemTypeId": 132,
+          "rarity": 5
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 352421,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 352423,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                12,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 352422,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                72,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 352425,
+              "actionId": 180,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                11,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 352424,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                49,
+                0,
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 352427,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                20,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 352426,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+]

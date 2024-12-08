@@ -1,0 +1,1806 @@
+[
+  {
+    "title": {
+      "fr": "Cape Iraterie",
+      "en": "Shanty Cloak",
+      "es": "Capa iratería",
+      "pt": "Capirataria"
+    },
+    "description": {
+      "fr": "Cette cape a appartenu à un grand duc, qui a beaucoup apporté aux chants de piraterie Brâkmariens. Il fut ensuite battu à plate couture dans un combat octogonal face à son ennemi juré, Riskaa. Son fidèle Makabrano Zer ne l'a malheureusement pas sauvé...",
+      "en": "This cloak once belonged to a great duke who made important contributions to the Brakmarian sea shanty tradition. He later suffered a resounding loss in the octagonal ring against his sworn enemy, Riskaa. Unfortunately, his trusty Makabrakfire Ring couldn't save him...",
+      "es": "Esta capa perteneció a un gran duque que aportó mucho a las canciones de los piratas brakmarianos. Pero fue destrozado en un combate octogonal contra su archienemigo, Riskaa. Por desgracia, su fiel compañero Makabranillo Sado no lo salvó.",
+      "pt": "Esta capa pertenceu a um grande duque que contribuiu muito para o desenvolvimento dos cânticos piratas brakmarianos. Depois, ele perdeu um combate num octógono para seu inimigo jurado, Riskaa. Infelizmente, seu fiel Anel do Makabrofogo não o salvou..."
+    },
+    "definition": {
+      "item": {
+        "level": 230,
+        "id": 29057,
+        "graphicParameters": {
+          "gfxId": 13229057,
+          "femaleGfxId": 13229057
+        },
+        "baseParameters": {
+          "itemTypeId": 132,
+          "rarity": 7
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 319596,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                350,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319597,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                60,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319598,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                319,
+                0,
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319599,
+              "actionId": 149,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                226,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319595,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319600,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                7,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319601,
+              "actionId": 83,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                69,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319602,
+              "actionId": 85,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                69,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Bottiron",
+      "en": "Marvelous Iron Boots",
+      "es": "Boteroínas",
+      "pt": "Botiron"
+    },
+    "description": {
+      "fr": "La légende raconte que ces bottes appartenaient à un super Héros, un homme de fer volant, et attendent aujourd'hui son successeur. Cessez donc de les admirer et partez à sa recherche !",
+      "en": "Legend has it that these boots once belonged to an unstoppable superhero, a real ironman, and are now awaiting the arrival of his rightful heir. So quit staring at them and go find the heir, already!",
+      "es": "La leyenda cuenta que estas botas pertenecían a un superhéroe, un hombre de hierro volador, y hoy esperan a su sucesor. ¡Así que deja de observarlas y ve en su búsqueda!",
+      "pt": "Diz a lenda que estas botas pertenciam a um super-herói, um homem de ferro voador, e que elas estão esperando um sucessor. Então pare de admirá-las e vá encontrá-lo!"
+    },
+    "definition": {
+      "item": {
+        "level": 230,
+        "id": 29119,
+        "graphicParameters": {
+          "gfxId": 11929119,
+          "femaleGfxId": 11929119
+        },
+        "baseParameters": {
+          "itemTypeId": 119,
+          "rarity": 7
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 319604,
+              "actionId": 41,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319605,
+              "actionId": 191,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319606,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                450,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319607,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                80,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319603,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319608,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                80,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319609,
+              "actionId": 875,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319610,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                294,
+                0,
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319611,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                40,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Collier d'Ulysse\t",
+      "en": "Ulysses Necklace\t",
+      "es": "Collar de Ulyses\t",
+      "pt": "Colar de Ulisses\t"
+    },
+    "description": {
+      "fr": "Attention, ce collier pourrait vous apporter les foudres des Dieux : le porteur originel de ce collier est maudit par le roi des Dieux de l'Olympe et est condamné à errer dans le royaume des morts, loin de son vaisseau.",
+      "en": "Warning, this necklace may tend to attract bolts from the blue. Its original wearer was cursed by the king of the Olympic gods and is doomed to wander the kingdom of the dead, far from his beloved ship.",
+      "es": "Cuidado, este collar podría atraer la ira de los dioses: el rey de los dioses del Olimpo maldijo al portador original de este collar, el cual está condenado a errar por el reino de los muertos, lejos de su navío.",
+      "pt": "Atenção: este colar pode despertar a ira dos deuses. O primeiro portador deste colar foi amaldiçoado pelo rei dos deuses do Olimpo e condenado a vagar pelo reino dos mortos, longe de sua embarcação."
+    },
+    "definition": {
+      "item": {
+        "level": 230,
+        "id": 29181,
+        "graphicParameters": {
+          "gfxId": 12029181,
+          "femaleGfxId": 12029181
+        },
+        "baseParameters": {
+          "itemTypeId": 120,
+          "rarity": 7
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 368943,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368949,
+              "actionId": 82,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                63,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368948,
+              "actionId": 1053,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                220,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368950,
+              "actionId": 84,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                63,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368945,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                446,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368944,
+              "actionId": 41,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368947,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                430,
+                0,
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368946,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                120,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Sigma",
+      "en": "Sigma",
+      "es": "Sigma",
+      "pt": "Sigma"
+    },
+    "description": {
+      "fr": "Bien des Douziens ont occupé la position de chef de la guilde \"Praudus'heure\", et Sigma demeure à ce jour l'un des représentants les plus méritants et illustres. Il s'agissait d'un formidable meneur, mais il était parfois terrassé par des maladies énigmatiques, dont une incapacité à répondre à toute question concernant les Osamodas. Espérons que cet anneau lui fasse plaisir : il pourrait, pourquoi pas, donner une prime à l'artisan l'ayant fabriqué...",
+      "en": "Plenty of Twelvians have served as head of the Pro Doosers' guild, and Sigma still counts among the most illustrious and deserving of their number. He was an excellent leader who was occasionally crippled by enigmatic illnesses, like a strange inability to answer any question about Osamodas. Let's hope he enjoys this ring. Who knows, he might even give a nice fat bonus to the artisan who crafted it...",
+      "es": "Muchos doceros han ocupado la posición de jefe del gremio Produ'cer, y Sigma sigue siendo hoy día uno de los representantes más ilustres y merecidos. Era un gran jefe, aunque a veces sufría algunas enfermedades misteriosas, como la incapacidad para responder cualquier pregunta relativa a los osamodas. Esperamos que este anillo le guste: podría, por qué no, dar una prima al artesano que lo ha fabricado...",
+      "pt": "Muitos dozeanos foram chefes da guilda \"Praudus'hora\", e Sigma, ainda hoje, é um de seus representantes mais merecedores e ilustres. Ele era um líder formidável, mas, às vezes, era acometido por doenças misteriosas, que o impossibilitavam de responder aos problemas dos Osamodas. Esperamos que este anel seja do agrado dele: ele pode, quem sabe, oferecer uma recompensa ao artesão que o produziu..."
+    },
+    "definition": {
+      "item": {
+        "level": 230,
+        "id": 29243,
+        "graphicParameters": {
+          "gfxId": 10329243,
+          "femaleGfxId": 10329243
+        },
+        "baseParameters": {
+          "itemTypeId": 103,
+          "rarity": 7
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 327821,
+              "actionId": 168,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 327820,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                182,
+                0,
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 327822,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 327817,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 327819,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                207,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 327818,
+              "actionId": 160,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Plastron de la présidente",
+      "en": "President Breastplate",
+      "es": "Coraza de la presidenta",
+      "pt": "Peitoral da Presidente"
+    },
+    "description": {
+      "fr": "Ce plastron a, semble-t-il, appartenu à la présidente d'une école fascinée par la haute-couture.",
+      "en": "This breastplate seems to have belonged to a fashion-obsessed school president.",
+      "es": "Parece que esta coraza perteneció a la presidenta de una escuela fascinada por la alta costura.",
+      "pt": "Ao que parece, este peitoral era de uma presidente de escola fascinada pela alta-costura."
+    },
+    "definition": {
+      "item": {
+        "level": 230,
+        "id": 29305,
+        "graphicParameters": {
+          "gfxId": 13629305,
+          "femaleGfxId": 34729305
+        },
+        "baseParameters": {
+          "itemTypeId": 136,
+          "rarity": 7
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 319668,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                650,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319669,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                60,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319670,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                60,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319671,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                277,
+                0,
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319667,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319672,
+              "actionId": 39,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0,
+                0,
+                0,
+                120,
+                0
+              ]
+            },
+            "description": {
+              "fr": "[#1]% Armure donnée",
+              "en": "[#1]% Armor given",
+              "es": "[#1]% Armadura dada",
+              "pt": "[#1]% de Armadura concedida"
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319673,
+              "actionId": 82,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                39,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319674,
+              "actionId": 83,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                39,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319675,
+              "actionId": 85,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                39,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Casque de la Valkyr",
+      "en": "Valkyr Helmet",
+      "es": "Casco de valquíride",
+      "pt": "Capacete da Valkyr"
+    },
+    "description": {
+      "fr": "Les Valkyrs apparaissent après une bataille et guident les héros morts au combat vers l'arène des Valeureux où ils combattront pour l'éternité.",
+      "en": "Valkyrs appear after battles and guide the heroes who fell in battle to the Arena of the Valiant where they can fight for eternity.",
+      "es": "Las valquírides aparecen después de una batalla y guían a los héroes muertos en el combate hacia la arena de los Valerosos, donde combatirán durante toda la eternidad.",
+      "pt": "As Valkyrs aparecem após a batalha e guiam os heróis mortos em combate até a arena dos Bravos, onde eles lutarão por toda a eternidade."
+    },
+    "definition": {
+      "item": {
+        "level": 230,
+        "id": 29454,
+        "graphicParameters": {
+          "gfxId": 13429454,
+          "femaleGfxId": 13429454
+        },
+        "baseParameters": {
+          "itemTypeId": 134,
+          "rarity": 7
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 325012,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 325013,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                40,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 325008,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 325009,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                805,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 325010,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                200,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 325011,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                494,
+                0,
+                3,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Epaulettes de Munkeliar",
+      "en": "Munkeliar Epaulettes",
+      "es": "Hombreras de Munkeliar",
+      "pt": "Dragonas de Munkeliar"
+    },
+    "description": {
+      "fr": "L'inspiration peut être une idée, une influence, ou bien encore une illumination, qui pousse à la création. Tantôt soudaine, tantôt introuvable, elle vient parfois quand on ne l'attend pas, et peut se cacher là où on ne l'attend pas. D'aucuns ont leur muse, d'autres, plus pragmatiques et plus scolaires, s'en tiennent à leur méthode. Inévitablement influencée par notre expérience, la trouver dans un exercice à première vue simple mais que l'on n'a pas pour habitude de faire peut s'avérer ardu : de quoi se sentir bête devant la page (ou le dessin) blanche.\r\nTout ça pour dire que ce n'est pas si facile, de dessiner des cailloux.",
+      "en": "Inspiration can be an idea, an influence, or an illumination that leads to creation. Sometimes it's sudden, sometimes it's elusive, sometimes it appears when you're not expecting it, and it can hide where you would never have thought to find it. Some have their muses, while other more pragmatic and scholarly people stick to their own methods. It is inevitably influenced by your experience, so finding it in a seemingly simple task that you're not accustomed to doing can be difficult, enough so to make you feel quite stupid in front of a blank page (or drawing).\nAnyway, the point is that drawing rocks isn't so easy.",
+      "es": "La inspiración puede ser una idea, una influencia o, incluso, una iluminación que lleva a la creación. A veces repentina, a veces imposible de encontrar, otra veces llega cuando no se la espera, y puede esconderse donde nadie se lo espera. Algunos tienen su musa, otros, más pragmáticos y más académicos, se centran en su método. Inevitablemente influenciada por nuestra experiencia, encontrarla en un ejercicio, a primera vista simple, pero que si no se tiene costumbre de hacer puede resultar arduo: algo con lo que sentirse estúpido ante la página (o el dibujo) en blanco.\nTodo esto para decir que dibujar pedruscos no es tan fácil como parece.",
+      "pt": "A inspiração pode vir de uma ideia, influência ou até de uma epifania, que leva à criação. Ora repentina, ora tardia, muitas vezes, ela vem quando menos se espera, e pode vir dos lugares mais improváveis. Alguns tem uma musa, outros, mais pragmáticos e mais acadêmicos, preferem se ater a um método. Inevitavelmente influenciada pelas nossas experiências, encontrá-la é um exercício aparentemente simples, mas que pode ser bem complicado para quem não está acostumado: a famosa síndrome da folha em branco.\nTudo isso para dizer que não é tão simples assim desenhar umas pedrinhas."
+    },
+    "definition": {
+      "item": {
+        "level": 230,
+        "id": 29644,
+        "graphicParameters": {
+          "gfxId": 13829644,
+          "femaleGfxId": 13829644
+        },
+        "baseParameters": {
+          "itemTypeId": 138,
+          "rarity": 7
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 327831,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                450,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 327830,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 327837,
+              "actionId": 84,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                33,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 327836,
+              "actionId": 85,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                33,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 327833,
+              "actionId": 180,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                149,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 327832,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                488,
+                0,
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 327835,
+              "actionId": 82,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                33,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 327834,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                7,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Trident de Lava",
+      "en": "Lava's Trident",
+      "es": "Tridente de Lava",
+      "pt": "Tridente de Lava"
+    },
+    "description": {
+      "fr": "Une arme d’hast comme on en fait plus ! Il aurait appartenu à un roi qui ne rechignait pas à l’idée d’accumuler inutilement toutes ses richesses. On dit même que ce trident est le seul souvenir que le temps aura gardé de lui.",
+      "en": "They don't make polearms like these anymore! This one belonged to a king who didn't mind hoarding far more riches than he could possibly use. In the end, it seems that this trident is all that remains of his memory.",
+      "es": "¡Un arma de asta de las que ya no quedan! Al parecer, perteneció a un rey al que no le molestaba la idea de acumular inútilmente todas sus riquezas. Incluso se dice que este tridente es el único recuerdo que el tiempo ha dejado de él.",
+      "pt": "Uma arma de haste como não se faz mais hoje em dia! Ela teria pertencido a um rei que fazia questão de acumular inutilmente todas as suas riquezas. Dizem que este tridente seria a única lembrança que o tempo guardou dele."
+    },
+    "definition": {
+      "item": {
+        "level": 230,
+        "id": 30146,
+        "graphicParameters": {
+          "gfxId": 11330146,
+          "femaleGfxId": 11330146
+        },
+        "baseParameters": {
+          "itemTypeId": 113,
+          "rarity": 7
+        },
+        "useParameters": {
+          "useCostAp": 4,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 1,
+          "useRangeMax": 1,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 336239,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 336245,
+              "actionId": 84,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                11,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 336244,
+              "actionId": 85,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                11,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 336240,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                253,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 336243,
+              "actionId": 83,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                11,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 344171,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                472,
+                0,
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 344170,
+              "actionId": 160,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Bouclier du grand solide",
+      "en": "Iron Giant's Shield",
+      "es": "Escudo del gran sólido",
+      "pt": "Escudo do Gigante de Aço"
+    },
+    "description": {
+      "fr": "Un vulgaire bout de ferraille qui aurait échappé à un grand individu fait de métal alors qu'il était empêtré dans des fils électriques.",
+      "en": "A rough hunk of scrap metal that supposedly fell off of a large metal man when he was tangled up in electrical wires.",
+      "es": "Un vulgar trozo de chatarra que al parecer escapó de un gran individuo hecho de metal cuando estaba atrapado en unos cables eléctricos.",
+      "pt": "Um pedaço de ferragem que teria caído de um grande indivíduo feito de metal quando ele se emaranhou em fios elétricos."
+    },
+    "definition": {
+      "item": {
+        "level": 230,
+        "id": 30275,
+        "graphicParameters": {
+          "gfxId": 18930275,
+          "femaleGfxId": 18930275
+        },
+        "baseParameters": {
+          "itemTypeId": 189,
+          "rarity": 7
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 336677,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                85,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 336676,
+              "actionId": 39,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0,
+                0,
+                0,
+                120,
+                0
+              ]
+            },
+            "description": {
+              "fr": "[#1]% Armure donnée",
+              "en": "[#1]% Armor given",
+              "es": "[#1]% de armadura dada",
+              "pt": "[#1]% de Armadura concedida"
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 336679,
+              "actionId": 875,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                28,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 336678,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                85,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 336675,
+              "actionId": 41,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 336680,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                55,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Cercle de la mort",
+      "en": "Circle of Death",
+      "es": "Círculo de la muerte",
+      "pt": "Círculo da Morte"
+    },
+    "description": {
+      "fr": "En regardant à travers, vous pourrez voir les tréfonds de l'âme de Toross. Le mieux reste donc de le porter autour de votre taille.",
+      "en": "Looking through it, you can see into the depths of Toross's soul. Better to wear it around your waist, then.",
+      "es": "Si miras a través de él, podrás ver las profundidades del alma de Toross. Así que lo mejor es llevarlo alrededor de la cintura.",
+      "pt": "Olhando através dele você consegue ver as profundezas da alma de Toross. Sendo assim, é melhor usá-lo em volta da cintura mesmo."
+    },
+    "definition": {
+      "item": {
+        "level": 230,
+        "id": 31522,
+        "graphicParameters": {
+          "gfxId": 13331522,
+          "femaleGfxId": 13331522
+        },
+        "baseParameters": {
+          "itemTypeId": 133,
+          "rarity": 7
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 380669,
+              "actionId": 174,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                50,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 380668,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                522,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 380671,
+              "actionId": 149,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                300,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 380670,
+              "actionId": 176,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                50,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 380667,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 380676,
+              "actionId": 84,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                50,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 380673,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                7,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 380672,
+              "actionId": 1053,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                300,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 380675,
+              "actionId": 85,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                50,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 380674,
+              "actionId": 83,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                50,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Porte-bonheur sufokien",
+      "en": "Sufokian Lucky Charm",
+      "es": "Amuleto sufokeño",
+      "pt": "Amuleto da Sorte Sufokiano"
+    },
+    "description": {
+      "fr": "C'est un article typique des boutiques de souvenir de Sufokia. Il est constitué d'un coquillage trouvé sur une plage quelconque et d'une corde. On dirait que celui-ci a la particularité d'abriter une bille mortellement chargée en Stasis.",
+      "en": "The kind of thing you'd find in a Sufokia souvenir shop. It's made from a shell found on some beach and a piece of rope. This one appears to contain a marble packed with a lethal amount of Stasis.",
+      "es": "Un artículo típico de las tiendas de recuerdos de Sufokia. Está hecho con una valva encontrada en una playa cualquiera y una cuerda. Parece que este tiene la particularidad de albergar una pepita mortalmente cargada de stasis.",
+      "pt": "É um artigo comum nas lojas de souvenir de Sufokia. Ele é feito com uma concha encontrada em uma praia qualquer e uma corda. Mas este aqui, particularmente, contém uma bolinha mortalmente carregada com Stasis."
+    },
+    "definition": {
+      "item": {
+        "level": 230,
+        "id": 31755,
+        "graphicParameters": {
+          "gfxId": 12031755,
+          "femaleGfxId": 12031755
+        },
+        "baseParameters": {
+          "itemTypeId": 120,
+          "rarity": 7
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 383725,
+              "actionId": 1052,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                200,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 383724,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                200,
+                0,
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 383727,
+              "actionId": 82,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                20,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 383726,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                7,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 383721,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 383723,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                420,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 383722,
+              "actionId": 191,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 383729,
+              "actionId": 85,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                20,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 383728,
+              "actionId": 83,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                20,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+]

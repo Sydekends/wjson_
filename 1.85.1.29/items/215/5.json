@@ -1,0 +1,1646 @@
+[
+  {
+    "title": {
+      "fr": "Bouclier du Capitaine Amakna",
+      "en": "Captain Amakna Shield",
+      "es": "Escudo del capitán Amakna",
+      "pt": "Escudo do Capitão Amakna"
+    },
+    "description": {
+      "fr": "Si vous êtes assez petit, il sera assez grand pour vous protéger des coups d’œil.",
+      "en": "If you're small enough, it'll be big enough to keep you hidden from prying eyes.",
+      "es": "Si eres lo bastante pequeño, él será lo bastante grande como para protegerte de las miradas.",
+      "pt": "Se você for suficientemente pequeno, ele será suficientemente grande para protegê-lo dos olhares fulminantes."
+    },
+    "definition": {
+      "item": {
+        "level": 215,
+        "id": 27816,
+        "graphicParameters": {
+          "gfxId": 18927816,
+          "femaleGfxId": 18927816
+        },
+        "baseParameters": {
+          "itemTypeId": 189,
+          "rarity": 5
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 303847,
+              "actionId": 41,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 303848,
+              "actionId": 191,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 303849,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                574,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 303850,
+              "actionId": 875,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                20,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 303851,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                40,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Bottes de Kovak",
+      "en": "Kovak's Boots",
+      "es": "Botas de Kovak",
+      "pt": "Botas de Kovak"
+    },
+    "description": {
+      "fr": "Vouloir comprendre les histoires et les actions des personnes. Voilà le principal trait de caractère que possédait Kovak, un voyageur émérite qui portait inlassablement secours aux pauvres âmes qu'il croisait.\r\nSa force : il grandissait et apprenait à chaque nouvelle rencontre.\r\nSa faiblesse : les bières d'Amakna.",
+      "en": "Try to understand people's stories and actions. That command shaped Kovak's entire personality. He was a distinguished traveler who constantly tried to help the poor souls he encountered.\nHis strength: growing and learning with each new person he met.\nHis weakness: the beverages of Amakna.",
+      "es": "Querer comprender las historias y los actos de las personas. Ese era el principal rasgo del carácter de Kovak, un viajero emérito que socorría sin descanso a las pobres almas con las que se cruzaba.\nSu fuerza: crecía y aprendía con cada nuevo encuentro.\nSu debilidad: las cervezas de Amakna.",
+      "pt": "Tentar compreender as histórias e ações das pessoas. Esta era a principal qualidade de Kovak, um viajante emérito sempre disposto a socorrer as pobres almas que cruzavam seu caminho.\nSeu ponto forte: ele crescia e aprendia toda vez que conhecia alguém.\nSeu ponto fraco: as cervejas de Amakna."
+    },
+    "definition": {
+      "item": {
+        "level": 215,
+        "id": 27817,
+        "graphicParameters": {
+          "gfxId": 11927817,
+          "femaleGfxId": 11927817
+        },
+        "baseParameters": {
+          "itemTypeId": 119,
+          "rarity": 5
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 368727,
+              "actionId": 41,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368726,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368733,
+              "actionId": 988,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                15,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368732,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                30,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368729,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                40,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368728,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                467,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368731,
+              "actionId": 1053,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                145,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368730,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                250,
+                0,
+                3,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Epaulettes de lichen",
+      "en": "Lichen's Epaulettes",
+      "es": "Hombreras de liquen",
+      "pt": "Dragonas de Líquen"
+    },
+    "description": {
+      "fr": "Les années ont recouvert cette relique ultime de champignons, mais jamais son éclat n'a resplendi aussi fort.",
+      "en": "The years gone by have covered this ultimate relic in mushrooms, but still it never shined so brightly.",
+      "es": "Los años han recubierto de hongos esta reliquia suprema, pero su brillo nunca había sido tan intenso.",
+      "pt": "O passar dos anos recobriu de cogumelos esta relíquia suprema, mas o brilho dela está mais forte do que nunca."
+    },
+    "definition": {
+      "item": {
+        "level": 215,
+        "id": 27818,
+        "graphicParameters": {
+          "gfxId": 13827818,
+          "femaleGfxId": 13827818
+        },
+        "baseParameters": {
+          "itemTypeId": 138,
+          "rarity": 5
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 303860,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 303861,
+              "actionId": 184,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 303862,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                470,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 303863,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                100,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 303864,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                100,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 303866,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                400,
+                0,
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 303867,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                25,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 305096,
+              "actionId": 39,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0,
+                0,
+                0,
+                121,
+                0
+              ]
+            },
+            "description": {
+              "fr": "[#1]% Armure reçue",
+              "en": "[#1]% Armor received",
+              "es": "[#1]% Armadura recibida",
+              "pt": "[#1]% de Armadura recebida"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Casque du Guerrier Zoth",
+      "en": "Zoth Warrior Helmet",
+      "es": "Casco de guerrero zoth",
+      "pt": "Capacete do Guerreiro Zoth"
+    },
+    "description": {
+      "fr": "Ce casque a les mêmes avantages que les autres coiffes Zoth : il protège des coups de soleil même en plein cagnard, il amortit les coups portés à la tête, et il empêche de prendre conscience du danger en restreignant le champ de vision de celui qui le porte. Bref, ceci est le couvre-chef idéal du guerrier.",
+      "en": "This helmet has the same advantages as other Zoth headgear. It'll protect you from the sun no matter how hot it is and from blows to the head. It also prevents the wearer from being aware of danger by limiting what they can see. In short, this is the perfect warrior headgear.",
+      "es": "Este casco tiene las mismas ventajas que los otros sombreros zoth: protege de la insolación incluso en pleno verano, amortigua los golpes en la cabeza, e impide ser consciente del peligro que no se avecina de frente reduciendo el campo de visión a una estrecha franja frontal. Vamos, que es el casco ideal para los guerreros.",
+      "pt": "Este capacete tem as mesmas vantagens que os outros chapéus Zoth: ele protege do sol de rachar, amortece as pancadas na cabeça e restringe o campo de visão de seu proprietário para que ele não se dê conta do perigo. Ou seja, é o capacete ideal para guerreiros."
+    },
+    "definition": {
+      "item": {
+        "level": 215,
+        "id": 27819,
+        "graphicParameters": {
+          "gfxId": 13427819,
+          "femaleGfxId": 13427819
+        },
+        "baseParameters": {
+          "itemTypeId": 134,
+          "rarity": 5
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 303868,
+              "actionId": 41,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 303869,
+              "actionId": 160,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 303870,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                541,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 303871,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 303876,
+              "actionId": 84,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                44,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 303872,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                353,
+                0,
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 303873,
+              "actionId": 149,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                170,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 303874,
+              "actionId": 82,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                44,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 303875,
+              "actionId": 85,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                44,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Veston beau",
+      "en": "Rest Vest",
+      "es": "Chaqueta bonita",
+      "pt": "Jaqueta Sim"
+    },
+    "description": {
+      "fr": "\"Ce veston beau sera votre tombeau !\". Tels furent les derniers mots du tailleur à qui vous avez volé cette relique.",
+      "en": "\"Rest in peace with that vest!\" That's the last thing the tailor you stole this relic from said as you left with it. But was it a threat or a promise?",
+      "es": "\"¡Esta chaqueta te llevará a la tumba!\". Estas fueron las últimas palabras del sastre a quien le robaste esta reliquia.",
+      "pt": "Já que tá assim, veste esta jaqueta! Nada melhor para combinar com a sua sepultura."
+    },
+    "definition": {
+      "item": {
+        "level": 215,
+        "id": 28089,
+        "graphicParameters": {
+          "gfxId": 13628089,
+          "femaleGfxId": 34728089
+        },
+        "baseParameters": {
+          "itemTypeId": 136,
+          "rarity": 5
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 306727,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 306733,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 306734,
+              "actionId": 82,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                50,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 306735,
+              "actionId": 83,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                50,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 306728,
+              "actionId": 41,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 306729,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                564,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 306730,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                130,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 306731,
+              "actionId": 149,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                351,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 306736,
+              "actionId": 85,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                50,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Véritable Ceinture de Puissance",
+      "en": "True Power Belt",
+      "es": "Verdadero cinturón de potencia",
+      "pt": "Verdadeiro Cinto de Poder"
+    },
+    "description": {
+      "fr": "Elle retiendra vos braies comme aucune autre et vous protégera ainsi des fessées déculottées.\r\nProtection contre l'humiliation pour certains, obstacle au plaisir pour d'autres.",
+      "en": "It'll hold up your trousers better than anything else. No more bare-bottomed spankings for you.\nBut only you can say whether this spares you from humiliation or cramps your style.",
+      "es": "Te sujetará los braccae como ningún otro y te protegerá de azotes con las nalgas al aire.\nProtección contra la humillación para algunos, obstáculo para el placer para otros.",
+      "pt": "Ele vai segurar suas calças como nenhum outro cinto e assim protegerá você contra palmadas no seu traseiro nu.\nPara alguns, proteção contra humilhação. Para outros, obstáculo ao prazer."
+    },
+    "definition": {
+      "item": {
+        "level": 215,
+        "id": 28090,
+        "graphicParameters": {
+          "gfxId": 13328090,
+          "femaleGfxId": 13328090
+        },
+        "baseParameters": {
+          "itemTypeId": 133,
+          "rarity": 5
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 369637,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                40,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 369636,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                314,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 369639,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                100,
+                0,
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 369638,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                40,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 369635,
+              "actionId": 191,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 369634,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 369644,
+              "actionId": 84,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                33,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 369641,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                9,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 369640,
+              "actionId": 1052,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                300,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 369643,
+              "actionId": 85,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                33,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 369642,
+              "actionId": 83,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                33,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Coiffe du Koulosse",
+      "en": "Koolich Headgear",
+      "es": "Sombrero de Trankitronko",
+      "pt": "Chapéu do Tronkoso"
+    },
+    "description": {
+      "fr": "Cette coiffe a appartenu au célèbre Koulosse, réputé pour ses pieds d'argile et sa bonne humeur légendaire. Elle a ensuite été portée par Exi, un Iop d'une bonne humeur tout aussi remarquable, et dont les prouesses seraient bien trop longues à énumérer. On peut néanmoins vous dire que ce héros de l'ombre a énormément œuvré en secret pour le bien du Monde des Douze.",
+      "en": "This headgear once belonged to the famous Koolich, renowned for his clay feet and his legendary good mood. It was then worn by Exi, a good-humored Iop who was just as remarkable, and whose feats would take far too long to list here. Nevertheless, this hero of the shadows has done many a great deed in secret for the good of the World of Twelve.",
+      "es": "Este sombrero perteneció al famoso Trankitronko, conocido por la fragilidad de sus pies y por su legendario buen humor. Lugo se lo puso Exi, un yopuka con un humor igual de admirable, y cuyas proezas serían mucho más largas de enumerar. Sin embargo, se puede decir que este héroe en la sombra ha obrado en secreto para el bien del Mundo de los Doce.",
+      "pt": "Este chapéu pertenceu ao Tronkoso, famoso por seus pés de argila e lendário bom humor. Depois, ele foi usado por Exi, um Iop bem-humorado e também muito notável, cujas proezas são tantas que não dá nem para enumerar. Mas uma coisa podemos dizer: este herói oculto trabalhou muito, embora em segredo, pelo bem do Mundo dos Doze."
+    },
+    "definition": {
+      "item": {
+        "level": 215,
+        "id": 28323,
+        "graphicParameters": {
+          "gfxId": 13428323,
+          "femaleGfxId": 13428323
+        },
+        "baseParameters": {
+          "itemTypeId": 134,
+          "rarity": 5
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 368383,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368389,
+              "actionId": 82,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                56,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368388,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368391,
+              "actionId": 85,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                56,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368390,
+              "actionId": 83,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                56,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368385,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                170,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368384,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                590,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368387,
+              "actionId": 1053,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                390,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368386,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                118,
+                0,
+                3,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Cape Réciable",
+      "en": "Cherished Cloak",
+      "es": "Capa De Mirable",
+      "pt": "Manto Estimado"
+    },
+    "description": {
+      "fr": "Même en cherchant pendant toute une vie, il est impossible de lui trouver des défauts.\r\nDifficile d'en dire autant de votre entourage.\r\n",
+      "en": "Even if you searched all your life, you'd never find a single flaw in it.\nThe same can't be said about your friends, however.\n",
+      "es": "Incluso buscando durante toda una vida, es imposible encontrarle defectos.\nDifícil decir lo mismo de los que te rodean.\n",
+      "pt": "Você pode passar a vida inteira procurando, mas nunca encontrará um defeito neste manto.\nNão se pode dizer o mesmo dos seus amigos.\n"
+    },
+    "definition": {
+      "item": {
+        "level": 215,
+        "id": 28326,
+        "graphicParameters": {
+          "gfxId": 13228326,
+          "femaleGfxId": 13228326
+        },
+        "baseParameters": {
+          "itemTypeId": 132,
+          "rarity": 5
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 368477,
+              "actionId": 149,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                270,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368476,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                583,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368479,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                9,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368478,
+              "actionId": 1053,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                270,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368475,
+              "actionId": 41,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368474,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368481,
+              "actionId": 83,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                56,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368480,
+              "actionId": 82,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                56,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368482,
+              "actionId": 85,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                56,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Dernier anneau",
+      "en": "Last Ring",
+      "es": "Último anillo",
+      "pt": "Último Anel"
+    },
+    "description": {
+      "fr": "Tous ceux qui ont vu cet anneau ne l'ont jamais oublié. Et lui non plus n'a jamais oublié personne.",
+      "en": "No one who has seen this ring has ever forgotten it. It has never forgotten anyone either.",
+      "es": "Todos los que han visto este anillo no lo han olvidado nunca. Y él tampoco ha olvidado nunca a nadie.",
+      "pt": "Todas as pessoas que viram este anel nunca o esqueceram. Ele também nunca se esqueceu de ninguém."
+    },
+    "definition": {
+      "item": {
+        "level": 215,
+        "id": 28329,
+        "graphicParameters": {
+          "gfxId": 10328329,
+          "femaleGfxId": 10328329
+        },
+        "baseParameters": {
+          "itemTypeId": 103,
+          "rarity": 5
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 311404,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                20,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 311400,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 311401,
+              "actionId": 191,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 311402,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                250,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 311403,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                186,
+                0,
+                3,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Dofus Turquoise",
+      "en": "Turquoise Dofus",
+      "es": "Dofus Turquesa",
+      "pt": "Dofus Turquesa"
+    },
+    "description": {
+      "fr": "Un Dofus Turquoise donné par Aguabrial. Son éclosion pourrait-elle faire revenir une menace aussi terrible que Bolgrot sur le Monde des Douze ? Ou bien s'agit-il d'un symbole de la Résilience du monde ?",
+      "en": "A Turquoise Dofus given by Aguabrial. If it hatches, could it bring back a threat as terrible as Bolgrot to the World of Twelve? Or perhaps it's a symbol of the world's resilience?",
+      "es": "Un dofus Turquesa de parte de Aguabrial. ¿Podría su eclosión convertirse en una amenaza tan terrible como Bolgrot para el Mundo de los Doce? ¿O más bien se trata de un símbolo de la resiliencia del mundo?",
+      "pt": "Um Dofus Turquesa dado por Aguabrial. Se ele eclodisse, poderia trazer de volta ao Mundo dos Doze uma ameaça tão terrível quanto Bolgrot? Ou será que se trata de um símbolo da resiliência do mundo?"
+    },
+    "definition": {
+      "item": {
+        "level": 215,
+        "id": 28417,
+        "graphicParameters": {
+          "gfxId": 53128392,
+          "femaleGfxId": 53128392
+        },
+        "baseParameters": {
+          "itemTypeId": 646,
+          "rarity": 5
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 311742,
+              "actionId": 304,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                6731,
+                0,
+                1,
+                0,
+                -1,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 311743,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 311744,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                216,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 311745,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                200,
+                0,
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 311746,
+              "actionId": 83,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                108,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+]

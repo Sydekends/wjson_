@@ -1,0 +1,1074 @@
+[
+  {
+    "title": {
+      "fr": "Piquants du Guerrier Trool anciens",
+      "en": "Ancient Trool Warrior Spikes",
+      "es": "Pinchos del guerrero trool antiguos",
+      "pt": "Espetos do Guerreiro Trool Antigos"
+    },
+    "description": {
+      "fr": "Les Trools se donnent régulièrement des coups d'épaule pour s'entraîner. Ne tentez pas de reproduire cela avec ces épaulettes. En équipant ces Epaulettes, vous aurez maximum 11 PA.",
+      "en": "Trools regularly shoulder each other to train. I wouldn't try that with these epaulettes, though. When you equip these epaulettes, your maximum AP will be 11.",
+      "es": "Los trools suelen embestirse durante los entrenamientos. No intentes hacer lo mismo con estas hombreras puestas. Equipándote estas hombreras, tendrás como máximo 11 PA.",
+      "pt": "Os Trools frequentemente treinam juntos empurrando-se com os ombros. Não tente imitá-los com estas ombreiras. Ao se equipar com estas ombreiras, você terá no máximo 11 PA."
+    },
+    "definition": {
+      "item": {
+        "level": 80,
+        "id": 18691,
+        "graphicParameters": {
+          "gfxId": 1389997,
+          "femaleGfxId": 1389997
+        },
+        "baseParameters": {
+          "itemTypeId": 138,
+          "rarity": 7
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 180079,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 180082,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 180083,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                35,
+                0,
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 180080,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                75,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 180081,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                20,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 180084,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                15,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Protection du Divin Orrok",
+      "en": "Divine Orrok's Protection",
+      "es": "Protección del divino Orrok",
+      "pt": "Proteção do Divino Orrok"
+    },
+    "description": {
+      "fr": "Une des plus sacrées bénédictions que le peuple Kroapule peut accorder à ses jeunes recrues.",
+      "en": "One of the most sacred blessings that the Raskaw people can bestow on a young recruit.",
+      "es": "Una de las bendiciones más sagradas que los grápulas pueden conceder a sus nuevas generaciones.",
+      "pt": "Uma das bênçãos mais sagradas que o povo Krápula pode conferir aos seus jovens recrutas."
+    },
+    "definition": {
+      "item": {
+        "level": 80,
+        "id": 19346,
+        "graphicParameters": {
+          "gfxId": 13619346,
+          "femaleGfxId": 34719346
+        },
+        "baseParameters": {
+          "itemTypeId": 136,
+          "rarity": 7
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 153382,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 153383,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                167,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 153386,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                55,
+                0,
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 153387,
+              "actionId": 1052,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                23,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 153385,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 153388,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                30,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 362919,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                13,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 362920,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                13,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Cape en série limitée",
+      "en": "Limited Edition Cape",
+      "es": "Capa de edición limitada",
+      "pt": "Capa em série limitada"
+    },
+    "description": {
+      "fr": "Vendue autrefois dans les échoppes de Kelba, elle n'est disponible que Chez Kabrok et des collectionneurs disposent encore de quelques exemplaires.",
+      "en": "Once sold in the Kelba shops, it's now only available at Kabrok's and from the occasional collector.",
+      "es": "Antiguamente, se vendían en cualquier mercado de Kelba, ahora solo se pueden comprar en la tienda de Kabrok o quizás a algún coleccionista que disponga de algún ejemplar.",
+      "pt": "Antigamente, ela era vendida nas lojinhas de Kelba, mas agora só pode ser encontrada na Butique do Kabrok, e alguns colecionadores ainda têm alguns exemplares."
+    },
+    "definition": {
+      "item": {
+        "level": 80,
+        "id": 19366,
+        "graphicParameters": {
+          "gfxId": 13219366,
+          "femaleGfxId": 13219366
+        },
+        "baseParameters": {
+          "itemTypeId": 132,
+          "rarity": 7
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 180074,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                207,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 180075,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                30,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 180072,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 180073,
+              "actionId": 184,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 180078,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                42,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 180076,
+              "actionId": 875,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                6,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 180077,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                49,
+                0,
+                2,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Heaume de Soudeur",
+      "en": "Welder Mask",
+      "es": "Yelmo de soldador",
+      "pt": "Elmo de soldador"
+    },
+    "description": {
+      "fr": "Kabrok a utilisé ce Heaume pour réaliser diverses soudures sur le Korbot et éviter ainsi de brûler sa barbe.",
+      "en": "Kabrok used this to keep from burning his beard while performing various welds on the Korbot.",
+      "es": "Kabrok utilizó este yelmo para hacerle varias soldaduras al Corbot y así evitar quemarse la barba.",
+      "pt": "O Kabrok usa este elmo para não queimar a barba enquanto solda o Korbot."
+    },
+    "definition": {
+      "item": {
+        "level": 80,
+        "id": 19450,
+        "graphicParameters": {
+          "gfxId": 13419450,
+          "femaleGfxId": 13419450
+        },
+        "baseParameters": {
+          "itemTypeId": 134,
+          "rarity": 7
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 180066,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 180067,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                103,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 180071,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                22,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 180068,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                20,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 180069,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                75,
+                0,
+                3,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Rapière Viktorieuse",
+      "en": "Viktorious Rapier",
+      "es": "Ropera viktoriosa",
+      "pt": "Rapieira viktoriosa"
+    },
+    "description": {
+      "fr": "Transperce la chair putride comme du beurre, d'un coup vif !",
+      "en": "Pierce putrid flesh like butter, with one swift stroke!",
+      "es": "¡Atraviesa la carne putrefacta como si fuera mantequilla!",
+      "pt": "Atravessa a carne podre como se fosse manteiga, de uma vez só!"
+    },
+    "definition": {
+      "item": {
+        "level": 80,
+        "id": 19519,
+        "graphicParameters": {
+          "gfxId": 11019519,
+          "femaleGfxId": 11019519
+        },
+        "baseParameters": {
+          "itemTypeId": 110,
+          "rarity": 7
+        },
+        "useParameters": {
+          "useCostAp": 6,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 1,
+          "useRangeMax": 1,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 180086,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                55,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 180087,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                4,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 180085,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 180090,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 180088,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                88,
+                0,
+                2,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Casque de l'Ecaflip de Foudre",
+      "en": "Ecaflip Lightning Helmet",
+      "es": "Casco del zurcarák Rayo",
+      "pt": "Capacete do Ecaflip de Trovão"
+    },
+    "description": {
+      "fr": "Porter cette coiffe vous rendra plus proche du Lion que du Chacha.",
+      "en": "Wearing this helmet will make you more of a lion than a Bow Meow.",
+      "es": "Con este casco, estarás más cerca del león que del miaumiau.",
+      "pt": "Com este chapéu, você estará mais para um Leão do que para um Miaw."
+    },
+    "definition": {
+      "item": {
+        "level": 80,
+        "id": 26488,
+        "graphicParameters": {
+          "gfxId": 13426488,
+          "femaleGfxId": 13426488
+        },
+        "baseParameters": {
+          "itemTypeId": 134,
+          "rarity": 7
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 279284,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 279285,
+              "actionId": 160,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 279286,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                113,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 279287,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                20,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 279288,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                57,
+                0,
+                1,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 279289,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Anneau du Cheval percé",
+      "en": "Per-See-Us Horse Ring",
+      "es": "Anillo del caballo perseo",
+      "pt": "Anel do Pega Zu"
+    },
+    "description": {
+      "fr": "Pas de doute, cet anneau aura un franc succès auprès des plus vieux enfants d'entre vous.",
+      "en": "This ring is sure to be a hit with oldest of all you children out there.",
+      "es": "No hay duda, este anillo tendrá mucho éxito entre los niños de más edad.",
+      "pt": "Este anel certamente fará muito sucesso entre os jogadores mais velhos."
+    },
+    "definition": {
+      "item": {
+        "level": 80,
+        "id": 27353,
+        "graphicParameters": {
+          "gfxId": 10327353,
+          "femaleGfxId": 10327353
+        },
+        "baseParameters": {
+          "itemTypeId": 103,
+          "rarity": 7
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 291652,
+              "actionId": 1053,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                30,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 291653,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 291649,
+              "actionId": 41,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 291650,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                96,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Piquants du Guerrier Trool",
+      "en": "Trool Warrior Spikes",
+      "es": "Pinchos del guerrero trool",
+      "pt": "Espetos do Guerreiro Trool"
+    },
+    "description": {
+      "fr": "Les Trools se donnent régulièrement des coups d'épaule pour s'entraîner. Ne tentez pas de reproduire cela avec ces épaulettes. En équipant ces Epaulettes, vous aurez maximum 11 PA.",
+      "en": "Trools regularly shoulder each other to train. I wouldn't try that with these epaulettes, though. When you equip these epaulettes, your maximum AP will be 11.",
+      "es": "Los trools suelen embestirse durante los entrenamientos. No intentes hacer lo mismo con estas hombreras puestas. Equipándote estas hombreras, tendrás como máximo 11 PA.",
+      "pt": "Os Trools frequentemente treinam juntos empurrando-se com os ombros. Não tente imitá-los com estas ombreiras. Ao se equipar com estas ombreiras, você terá no máximo 11 PA."
+    },
+    "definition": {
+      "item": {
+        "level": 80,
+        "id": 30138,
+        "graphicParameters": {
+          "gfxId": 1389997,
+          "femaleGfxId": 1389997
+        },
+        "baseParameters": {
+          "itemTypeId": 138,
+          "rarity": 7
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 335813,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 335812,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                20,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 335815,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                15,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 335814,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                35,
+                0,
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 335811,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                75,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 335810,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+]

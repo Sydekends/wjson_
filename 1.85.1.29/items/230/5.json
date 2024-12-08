@@ -1,0 +1,1720 @@
+[
+  {
+    "title": {
+      "fr": "Dantgoule",
+      "en": "Eachure Hat",
+      "es": "Dantgul",
+      "pt": "Dantgul"
+    },
+    "description": {
+      "fr": "Ce chapeau rendait autrefois son porteur particulièrement irrésistible auprès des femelles Bworks mages, réputées pour leur féminité et leur grosse barbe rousse. Il n'est pas trop tard pour vous en débarrasser.",
+      "en": "Once upon a time, this headgear was said to make its wearer especially irresistible to female Bwork magi, known for their femininity and prodigious red beards. You know, it's still not too late to get rid of it.",
+      "es": "Antes, este sombrero volvía a su portador irresistible para las hembras bwork mago, famosas por su feminidad y su gran barba pelirroja. Aún tienes tiempo de deshacerte de él.",
+      "pt": "Este chapéu deixava seu portador especialmente irresistível para Bworkas Magas, famosas por sua feminilidade e por suas barbas ruivas. Ainda dá tempo de você jogá-lo fora."
+    },
+    "definition": {
+      "item": {
+        "level": 230,
+        "id": 29058,
+        "graphicParameters": {
+          "gfxId": 13429058,
+          "femaleGfxId": 13429058
+        },
+        "baseParameters": {
+          "itemTypeId": 134,
+          "rarity": 5
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 319620,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                700,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319621,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                260,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319622,
+              "actionId": 149,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                705,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319619,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319624,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319625,
+              "actionId": 82,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                56,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319626,
+              "actionId": 84,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                56,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Amulette du Mirage",
+      "en": "Mirage Amulet",
+      "es": "Amuleto del espejismo",
+      "pt": "Amuleto da Miragem"
+    },
+    "description": {
+      "fr": "Cette amulette est crainte des Shushus les plus puissants : elle serait habitée par une force antique capable d'anéantir n'importe quoi.",
+      "en": "Even the most powerful Shushus fear this amulet, which is said to be inhabited by an ancient force that can annihilate anyone and anything.",
+      "es": "Los fab'huritus más poderosos tienen miedo de este amuleto. Al parecer, está habitado por una fuerza antigua capaz de aniquilar cualquier cosa.",
+      "pt": "Este amuleto é temido até pelos Shushus mais poderosos: ele abrigaria uma força antiga capaz de aniquilar qualquer coisa."
+    },
+    "definition": {
+      "item": {
+        "level": 230,
+        "id": 29120,
+        "graphicParameters": {
+          "gfxId": 12029120,
+          "femaleGfxId": 12029120
+        },
+        "baseParameters": {
+          "itemTypeId": 120,
+          "rarity": 5
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 319628,
+              "actionId": 191,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319629,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                466,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319630,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                813,
+                0,
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319627,
+              "actionId": 160,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319632,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319633,
+              "actionId": 82,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                39,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319634,
+              "actionId": 83,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                39,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319635,
+              "actionId": 85,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                39,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Plastron de Béber",
+      "en": "Esta Breastplate",
+      "es": "Coraza de Béber",
+      "pt": "Peitoral de Beber"
+    },
+    "description": {
+      "fr": "Ce mystérieux plastron d'or vous rappelle de chercher votre chemin.",
+      "en": "This mysterious breastplate of gold reminds you to search for your way through adventures every day.",
+      "es": "Esta misteriosa coraza de oro te recuerda que busques tu camino.",
+      "pt": "Este misterioso peitoral dourado lembra você de que é preciso procurar o seu caminho."
+    },
+    "definition": {
+      "item": {
+        "level": 230,
+        "id": 29182,
+        "graphicParameters": {
+          "gfxId": 13629182,
+          "femaleGfxId": 34729182
+        },
+        "baseParameters": {
+          "itemTypeId": 136,
+          "rarity": 5
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 319636,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319637,
+              "actionId": 41,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319638,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                746,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319639,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                140,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319640,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                335,
+                0,
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319641,
+              "actionId": 83,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                72,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319642,
+              "actionId": 85,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                72,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319643,
+              "actionId": 84,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                72,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 323763,
+              "actionId": 39,
+              "areaShape": 1,
+              "areaSize": [],
+              "params": [
+                10,
+                0,
+                0,
+                0,
+                121,
+                0
+              ]
+            },
+            "description": {
+              "fr": "[#1]% Armure reçue",
+              "en": "[#1]% Armor received",
+              "es": "[#1]% armadura recibida",
+              "pt": "[#1]% de Armadura recebida"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Galons d'Orf \t",
+      "en": "Galon d'Orf Epaulettes \t",
+      "es": "Galones de Orf \t",
+      "pt": "Dragon'Orf \t"
+    },
+    "description": {
+      "fr": "Orf est la réincarnation de la haine de Démentia, qui maudit les aventuriers s'aventurant sur son territoire. Il a perdu ces galons lors d'un affrontement épique avec un jeune aventurier tout de vert vêtu possédant l'âme des Héros.",
+      "en": "Orf is the reincarnation of Dementya's hatred, who curses all adventurers who dare enter his territory. He lost these traditional \"galon\"-style epaulettes in an epic battle against a young adventurer clad all in green who bears the spirit of the hero.",
+      "es": "Orf es la rencarnación del odio de Dementia, que maldice a los aventureros que se adentran en su territorio. Perdió estos galones durante un enfrentamiento épico contra un joven aventurero vestido de verde que tenía el alma de los héroes.",
+      "pt": "Orf é a reencarnação do ódio de Demência, que amaldiçoa os aventureiros que passam por seu território. Ele perdeu estar dragonas durante um combate épico contra um jovem aventureiro vestido de verde e com alma de herói."
+    },
+    "definition": {
+      "item": {
+        "level": 230,
+        "id": 29244,
+        "graphicParameters": {
+          "gfxId": 13829244,
+          "femaleGfxId": 13829244
+        },
+        "baseParameters": {
+          "itemTypeId": 138,
+          "rarity": 5
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 319652,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                120,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319654,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                545,
+                0,
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319655,
+              "actionId": 82,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                61,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319650,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319651,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                611,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319656,
+              "actionId": 85,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                61,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319657,
+              "actionId": 84,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                61,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Cape Nō",
+      "en": "Noh Cape",
+      "es": "Capa nō",
+      "pt": "Capa Nô"
+    },
+    "description": {
+      "fr": "La cape Nō est une vieille relique liée à une terrible malédiction. Les aventuriers l'équipaient malgré tout pour son style certain. Ils sont fous ces douziens !",
+      "en": "The Noh Cape is an ancient relic linked to a terrible curse. But adventurers put it on anyway because of its distinctive style. Twelvians are crazy!",
+      "es": "La capa nō es una vieja reliquia relacionada con una terrible maldición. A pesar de todo, los aventureros la equipaban porque da cierto estilo. ¡Estos doceros están locos!",
+      "pt": "A Capa Nô é uma antiga relíquia que carrega uma terrível maldição. Apesar disso, os aventureiros gostam dela por ser bem estilosa. Como eles são malucos!"
+    },
+    "definition": {
+      "item": {
+        "level": 230,
+        "id": 29306,
+        "graphicParameters": {
+          "gfxId": 13229306,
+          "femaleGfxId": 13229306
+        },
+        "baseParameters": {
+          "itemTypeId": 132,
+          "rarity": 5
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 319660,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                90,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319661,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                90,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319662,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                244,
+                0,
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319663,
+              "actionId": 1052,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                350,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319658,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319659,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                539,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319664,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                9,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319665,
+              "actionId": 82,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                63,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 319666,
+              "actionId": 83,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                63,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Le Portail",
+      "en": "The Portal",
+      "es": "El portal",
+      "pt": "O Portal"
+    },
+    "description": {
+      "fr": "Vous ne savez pas où se retrouve le doigt qui traverse ce portail, mais l'endroit vous semble chaud et accueillant.",
+      "en": "You don't know where the finger that goes through this portal will end up, but it seems like a warm and inviting place.",
+      "es": "No sabes dónde se encuentra el dedo que atraviesa este portal, pero el lugar parece cálido y acogedor.",
+      "pt": "Você não sabe onde vai parar o dedo que atravessa este portal, mas o lugar parece quentinho e acolhedor."
+    },
+    "definition": {
+      "item": {
+        "level": 230,
+        "id": 29455,
+        "graphicParameters": {
+          "gfxId": 10329455,
+          "femaleGfxId": 10329455
+        },
+        "baseParameters": {
+          "itemTypeId": 103,
+          "rarity": 5
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 325014,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 325015,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                374,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 325016,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                335,
+                0,
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 325017,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 325018,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                25,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Dofushu",
+      "en": "Dofushu",
+      "es": "Dofub'huritu",
+      "pt": "Dofushu"
+    },
+    "description": {
+      "fr": "De par son aspect, et sa difformité, on réalise bien vite que ce faux Dofus provient très certainement d'un Shushu. Bien que l'on ignore de quelle manière, l'âme d'un de ces démons est enfermée à l'intérieur et ce dernier scrute intensément l'extérieur. Ses yeux, greffés aux parois de l’œuf, lui permettent de tout voir et de tout épier. Vous pouvez parfois entendre des chuchotements émaner du Shushu captif.",
+      "en": "Based on its appearance, and its deformity, you very quickly realize that this fake Dofus most certainly comes from a Shushu. Although it's not known how, one of these demons' souls is contained within it, and it closely scrutinizes the outside world. Its eyes, grafted to the walls of the egg, allow it to see and spy on everything. You can sometimes hear whispers coming from the captive Shushu.",
+      "es": "Por su aspecto y su deformidad, enseguida nos damos cuenta de que este dofus falso procede, muy seguramente, de un fab'huritu. Aunque ignoramos cómo, el alma de uno de esos demonios está encerrada en el interior, y este último escudriña sin parar el exterior. Sus ojos, injertados en las paredes del huevo, le permiten verlo y espiarlo todo. A veces, puedes oír los susurros procedentes del fab'huritu cautivo.",
+      "pt": "Pelo aspecto rústico e imperfeições, dá para ver que esse falso Dofus certamente veio de um Shushu. Embora não saibamos como isso aconteceu, a alma de um desses demônios está trancada dentro dele e escruta tudo o que está do lado de fora. Seus olhos, implantados na casca do ovo, permite tudo ver e espiar. Você pode até ouvir os sussurros que o Shushu preso emite."
+    },
+    "definition": {
+      "item": {
+        "level": 230,
+        "id": 29456,
+        "graphicParameters": {
+          "gfxId": 64629456,
+          "femaleGfxId": 64629456
+        },
+        "baseParameters": {
+          "itemTypeId": 646,
+          "rarity": 5
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 325484,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                444,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 325485,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                306,
+                0,
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 325486,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                6,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 325487,
+              "actionId": 304,
+              "areaShape": 1,
+              "areaSize": [],
+              "params": [
+                7106,
+                0,
+                1,
+                0,
+                -1,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 325483,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Bottes de Jr.",
+      "en": "Jr.'s Boots",
+      "es": "Botas de Jr.",
+      "pt": "Botas de Jr."
+    },
+    "description": {
+      "fr": "Bien que certains historiens associent Jr. à un disciple de Pandawa en raison de sa consommation surnaturelle de Lait de bambou, plusieurs écrits témoignent plutôt qu'il s'agissait d'un Sadida ne pouvant s'épanouir qu'à la lumière du soleil.\r\nCe fabuleux partenaire reste une énigme pour bien des chercheurs. On peut dire qu'ils n'ont pas le contexte.",
+      "en": "While some historians have argued that Jr. was a disciple of Pandawa based on his prodigious consumption of bamboo milk, a number of texts seem to indicate that he was actually a Sadida who could only truly flourish in the sunlight.\nThis legendary partner remains an enigma for many researchers. Maybe you just had to be there.",
+      "es": "Aunque algunos historiadores relacionen a Jr. con un discípulo pandawa debido a su consumo sobrenatural de leche de bambú, varios escritos afirman que se trataba de un sadida que solo podía sentirse pleno a la luz del sol.\nEste magnífico compañero sigue siendo un enigma para muchos investigadores. Podemos decir que les falta el contexto.",
+      "pt": "Embora alguns historiadores acreditem que Jr. era um discípulo de Pandawa devido ao seu consumo exagerado de Leite de Bambu, muitos escritos atestam que tratava-se de um Sadida que precisava da luz do sol para ser feliz.\nEste fabuloso personagem permanece um mistério para muitos pesquisadores. Pode-se dizer que eles não conhecem o contexto."
+    },
+    "definition": {
+      "item": {
+        "level": 230,
+        "id": 30147,
+        "graphicParameters": {
+          "gfxId": 11930147,
+          "femaleGfxId": 11930147
+        },
+        "baseParameters": {
+          "itemTypeId": 119,
+          "rarity": 5
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 368535,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368541,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                50,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368540,
+              "actionId": 1053,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                699,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368537,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                657,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368536,
+              "actionId": 41,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368539,
+              "actionId": 181,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                596,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368538,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                130,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Épée de Valdain",
+      "en": "Valdain's Sword",
+      "es": "Espada de Valdain",
+      "pt": "Espada de Valdain"
+    },
+    "description": {
+      "fr": "Cette épée a appartenu à un formidable prince ayant confronté Cire Momore par deux fois. On dit qu'il a réussi à gagner et, à ce jour, il serait le seul à avoir triomphé de cet implacable adversaire.",
+      "en": "This sword once belonged to a powerful prince who faced off against Cire Momore not once, but twice. According to legend, he managed to win, making him the only person to ever defeat this unrelenting opponent.",
+      "es": "Esta espada perteneció a un increíble príncipe que se enfrentó a Cire Momore dos veces. Dicen que logró vencer y, hasta la fecha, es el único que ha salido victorioso de un enfrentamiento contra este implacable rival.",
+      "pt": "Esta espada pertenceu a um admirável príncipe que enfrentou Cire Momore duas vezes. Dizem que ele conseguiu vencer e, até hoje, foi o único capaz de derrotar esse adversário implacável."
+    },
+    "definition": {
+      "item": {
+        "level": 230,
+        "id": 30703,
+        "graphicParameters": {
+          "gfxId": 11030703,
+          "femaleGfxId": 11030703
+        },
+        "baseParameters": {
+          "itemTypeId": 110,
+          "rarity": 5
+        },
+        "useParameters": {
+          "useCostAp": 6,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 1,
+          "useRangeMax": 1,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 368501,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                336,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368500,
+              "actionId": 191,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368503,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368502,
+              "actionId": 1053,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                610,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368499,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 368504,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Ceinture de Ghast",
+      "en": "Ghast's Belt",
+      "es": "Cinturón de Ghast",
+      "pt": "Cinto de Ghast"
+    },
+    "description": {
+      "fr": "Certains êtres ont la chance de s'étonner de tout. C'était le cas de Ghast, dont les réactions venant du cœur surprenaient parfois son entourage. Sa curiosité frisait la hantise, sa faim d'apprendre n'avait ni début ni fin. Il venait d'une terre ensoleillée et son esprit était lumineux, grâce à lui, le Monde des Douze est promis à un avenir radieux.",
+      "en": "Some people are lucky enough to be surprised by everything. This was the case with Ghast, whose heartfelt reactions sometimes took those around him by surprise. His curiosity verged on obsession; his hunger knew no bounds. He came from a sunny land, and his mind was bright, so thanks to him, the World of Twelve was promised a bright future.",
+      "es": "Algunos seres tienen la suerte de sorprenderse de todo. Tal era el caso de Ghast, cuyas reacciones que le nacían del corazón a veces sorprendían a su entorno. Su curiosidad daba miedo, su hambre por aprender no tenía ni principio ni fin. Venía de una tierra soleada y su espíritu era luminoso, gracias a él, el Mundo de los Doce está predestinado a tener un radiante futuro.",
+      "pt": "Alguns seres possuem a sorte de se surpreenderem com tudo. É o caso de Ghast, cujas reações que vêm direto do seu coração às vezes surpreendem até quem está por perto. Sua curiosidade beira o ridículo, sua sede por conhecimento não tem começo nem fim. Ele vem de uma terra ensolarada com seu espírito iluminado. Graças a ele, o futuro do Mundo dos Doze promete ser radiante."
+    },
+    "definition": {
+      "item": {
+        "level": 230,
+        "id": 30779,
+        "graphicParameters": {
+          "gfxId": 13330779,
+          "femaleGfxId": 13330779
+        },
+        "baseParameters": {
+          "itemTypeId": 133,
+          "rarity": 5
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 369959,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 369965,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                9,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 369964,
+              "actionId": 1052,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                550,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 369967,
+              "actionId": 85,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                69,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 369966,
+              "actionId": 82,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                69,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 369961,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                309,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 369960,
+              "actionId": 191,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 369963,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                50,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 369962,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                50,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Lame de Toross",
+      "en": "Toross's Blade",
+      "es": "Hoja de Toross",
+      "pt": "Lâmina de Toross"
+    },
+    "description": {
+      "fr": "Elle peut absolument tout réduire à néant, sauf peut-être la faim d'un Nécrome.",
+      "en": "It can eliminate anything, except perhaps a Necro's hunger.",
+      "es": "Puede reducirlo todo a la nada, excepto quizás el hambre de un nécromo.",
+      "pt": "Ela pode reduzir absolutamente qualquer coisa a nada, exceto talvez a fome de um Necromo."
+    },
+    "definition": {
+      "item": {
+        "level": 230,
+        "id": 31523,
+        "graphicParameters": {
+          "gfxId": 22331523,
+          "femaleGfxId": 22331523
+        },
+        "baseParameters": {
+          "itemTypeId": 223,
+          "rarity": 5
+        },
+        "useParameters": {
+          "useCostAp": 6,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 1,
+          "useRangeMax": 1,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 383653,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                800,
+                0,
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 383652,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                250,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 383655,
+              "actionId": 84,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                60,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 383654,
+              "actionId": 82,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                60,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 383649,
+              "actionId": 41,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 383648,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 383651,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                750,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 383650,
+              "actionId": 192,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                3,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+]

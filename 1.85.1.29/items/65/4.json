@@ -1,0 +1,862 @@
+[
+  {
+    "title": {
+      "fr": "Le Dora Bora",
+      "en": "Dora Bora",
+      "es": "Dora Bora",
+      "pt": "Dora Bora"
+    },
+    "description": {
+      "fr": "Une coiffe qui était très a la mode il y a fort longtemps, aujourd’hui vous passeriez juste pour un nostalgique en la portant.",
+      "en": "This headgear was very fashionable in days gone by, but these days you'll just look like a dinosaur wearing it.",
+      "es": "Este sombrero estaba muy de moda hace mucho tiempo. Hoy en día, si te lo pones, solo pasarás por un nostálgico.",
+      "pt": "Há muito tempo, esse chapéu estava na moda. Mas, hoje em dia, a pessoa que o usa parece um dinossauro."
+    },
+    "definition": {
+      "item": {
+        "level": 70,
+        "id": 9337,
+        "graphicParameters": {
+          "gfxId": 1349337,
+          "femaleGfxId": 1349337
+        },
+        "baseParameters": {
+          "itemTypeId": 134,
+          "rarity": 4
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 80514,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                109,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 80517,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 80516,
+              "actionId": 875,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 105557,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                24,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 105556,
+              "actionId": 160,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Marteau Xik",
+      "en": "Tauxik Hammer",
+      "es": "Martillo Xico",
+      "pt": "Martelo Tócsiko"
+    },
+    "description": {
+      "fr": "Lorsque ce marteau rentre en collision avec le sol, il s’en dégage une odeur tellement pestilentielle qu’il vaut mieux ne pas trop traîner autour de l’impact.",
+      "en": "When this hammer hits the ground, a nauseating stench fills the vicinity. It's in your best interest to learn how to fight from a distance, and fast!",
+      "es": "Cuando este martillo colisiona contra el suelo, desprende un olor tan pestilente que es altamente aconsejable no quedarse cerca del punto de impacto.",
+      "pt": "Quando este martelo acerta o chão, um fedor repugnante se espalha ao seu redor. É bom que você aprenda rápido como lutar à distância!"
+    },
+    "definition": {
+      "item": {
+        "level": 65,
+        "id": 15034,
+        "graphicParameters": {
+          "gfxId": 11415034,
+          "femaleGfxId": 11415034
+        },
+        "baseParameters": {
+          "itemTypeId": 114,
+          "rarity": 4
+        },
+        "useParameters": {
+          "useCostAp": 5,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 1,
+          "useRangeMax": 1,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 372501,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 372503,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                20,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 372502,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                120,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 372505,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                58,
+                0,
+                1,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 372504,
+              "actionId": 875,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 372507,
+              "actionId": 988,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 372506,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                25,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Korbotaulettes Prototype II",
+      "en": "Korbotaulettes Prototype I",
+      "es": "Corbotombreras prototipo I",
+      "pt": "Drakorvonas protótipo II"
+    },
+    "description": {
+      "fr": "Le premier prototype des Korbotaulettes fabriqué par Kabrok lui-même.",
+      "en": "The first prototype of the Korbotaulettes, made by Kabrok himself.",
+      "es": "El primer prototipo de corbotombreras fabricadas por el mismísimo Kabrok.",
+      "pt": "O primeiro protótipo das Drakorvonas fabricado pelo próprio Kabrok."
+    },
+    "definition": {
+      "item": {
+        "level": 78,
+        "id": 19442,
+        "graphicParameters": {
+          "gfxId": 13819442,
+          "femaleGfxId": 13819442
+        },
+        "baseParameters": {
+          "itemTypeId": 138,
+          "rarity": 4
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": true,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 155023,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                90,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 155026,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 155027,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                35,
+                0,
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 155024,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                15,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 155028,
+              "actionId": 149,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                8,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 155029,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Baguette poilue",
+      "en": "Fuzzy Wand",
+      "es": "Varita peluda",
+      "pt": "Varinha Felpuda"
+    },
+    "description": {
+      "fr": "Elle peut servir à titiller ce que vous voulez sans vous salir.",
+      "en": "Can be used to tickle anything without getting dirty.",
+      "es": "Puede usarse para hacer cosquillitas donde quieras sin ensuciarte.",
+      "pt": "Ela pode ser usada para cutucar o que você quiser sem se sujar."
+    },
+    "definition": {
+      "item": {
+        "level": 65,
+        "id": 30913,
+        "graphicParameters": {
+          "gfxId": 10830913,
+          "femaleGfxId": 10830913
+        },
+        "baseParameters": {
+          "itemTypeId": 108,
+          "rarity": 4
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 3,
+          "useRangeMax": 5,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 360861,
+              "actionId": 1053,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                36,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 360860,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                52,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 360859,
+              "actionId": 42,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 360858,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Poignard Ondi",
+      "en": "Curvedirk",
+      "es": "Puñal rededor",
+      "pt": "Punhal Redondado"
+    },
+    "description": {
+      "fr": "Un bon maniement de ce poignard demande une capacité de rotation du poignet exceptionnelle.",
+      "en": "To properly wield this dagger, you need excellent wrist rotation.",
+      "es": "Un buen manejo de este puñal requiere una capacidad excepcional de rotación de la muñeca.",
+      "pt": "Para manusear corretamente esta adaga, é preciso girar o punho em 360 graus."
+    },
+    "definition": {
+      "item": {
+        "level": 65,
+        "id": 30922,
+        "graphicParameters": {
+          "gfxId": 11230922,
+          "femaleGfxId": 11230922
+        },
+        "baseParameters": {
+          "itemTypeId": 112,
+          "rarity": 4
+        },
+        "useParameters": {
+          "useCostAp": 3,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 1,
+          "useRangeMax": 1,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 360829,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                39,
+                0,
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 360828,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                6,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 360830,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 360827,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                6,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 360826,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                28,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Pelta Rabiscotée",
+      "en": "Tortuous Escutcheon",
+      "es": "Pelta bigarrada",
+      "pt": "Pelta Embaraçada"
+    },
+    "description": {
+      "fr": "On dit souvent que les alliages les plus solides sont ceux que l'on forme avec un mélange de cheveux et de bandages de momie. Heureusement, personne n'aurait assez peu de goût pour essayer ce mélange pour de vrai...",
+      "en": "It's often said that the strongest alloys are formed with a blend of hair and mummy bandages. But no one would be tasteless enough to actually try that...",
+      "es": "A menudo se dice que las aleaciones más fuertes son las hechas con una mezcla de cabello y vendas de momia. Por suerte, nadie ha tenido el poco gusto de probar esa mezcla de verdad...",
+      "pt": "Dizem que as ligas mais fortes são aquelas formadas por uma mistura de cabelo e faixa de múmia. Ainda bem que ninguém tem tanto mau gosto a ponto de criar essa mistura para valer..."
+    },
+    "definition": {
+      "item": {
+        "level": 65,
+        "id": 30923,
+        "graphicParameters": {
+          "gfxId": 18930923,
+          "femaleGfxId": 18930923
+        },
+        "baseParameters": {
+          "itemTypeId": 189,
+          "rarity": 4
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 360823,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                50,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 360822,
+              "actionId": 191,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 360825,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                10,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 360824,
+              "actionId": 875,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                4,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Glaive Engeur",
+      "en": "Avenging Glaive",
+      "es": "Gladius engendrador",
+      "pt": "Gládio Vingativo"
+    },
+    "description": {
+      "fr": "Chacun de ses pics a été fermement aiguisé de manière à renforcer le charme de son porteur dans le but d'enfin réussir à dérober un baiser sincère à un preux chevalier.",
+      "en": "Each of its spikes has been sharpened so as to enhance the wielder's charm, the intent being to finally steal a sincere kiss from a valiant knight.",
+      "es": "Cada uno de sus pinchos está bien afilado para reforzar el carisma de su portador con el objetivo de, por fin, robarle un beso sincero a un valiente caballero.",
+      "pt": "Cada um dos espinhos foi devidamente afiado para aumentar o charme de quem utilizar este item, com o objetivo de finalmente conseguir roubar um beijo sincero de um valente cavaleiro."
+    },
+    "definition": {
+      "item": {
+        "level": 65,
+        "id": 30924,
+        "graphicParameters": {
+          "gfxId": 22330924,
+          "femaleGfxId": 22330924
+        },
+        "baseParameters": {
+          "itemTypeId": 223,
+          "rarity": 4
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 1,
+          "useRangeMax": 1,
+          "useTestFreeCell": false,
+          "useTestLos": true,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 360853,
+              "actionId": 173,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                20,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 360852,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                129,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 360855,
+              "actionId": 875,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                3,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 360854,
+              "actionId": 175,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                20,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 360857,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                40,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 360856,
+              "actionId": 1068,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                47,
+                0,
+                3,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+]

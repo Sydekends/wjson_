@@ -1,0 +1,428 @@
+[
+  {
+    "title": {
+      "fr": "Mulou Féroxe",
+      "en": "Feroxxors Boowolf",
+      "es": "Mediulubo feRLZ",
+      "pt": "Milobo FeroXP"
+    },
+    "description": {
+      "fr": "Seul un Elu des Mérydes peut prétendre chevaucher cette imposante monture de Destruction. Sa puissante musculature fait de lui une monture impressionnante.",
+      "en": "Only a Meridian Star can claim the right to ride this impressive Destruction mount. Its rippling muscles cut an imposing figure.",
+      "es": "Solo un elegido de los santos puede aspirar a utilizar esta imponente montura de destrucción. Su potencia muscular lo convierte en una montura impresionante.",
+      "pt": "Somente um Escolhido dos Meridas pode tentar cavalgar esta imponente montaria de Destruição. Sua musculatura faz com ela seja uma montaria impressionante."
+    },
+    "definition": {
+      "item": {
+        "level": 35,
+        "id": 14422,
+        "graphicParameters": {
+          "gfxId": 61119555,
+          "femaleGfxId": 61119555
+        },
+        "baseParameters": {
+          "itemTypeId": 611,
+          "rarity": 4
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 170642,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                0,
+                0.8
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 170643,
+              "actionId": 400,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": []
+            },
+            "description": {
+              "fr": "+50% de vitesse de déplacement",
+              "en": "+50% movement speed",
+              "es": "+50% de velocidad de desplazamiento",
+              "pt": "+50% de velocidade de movimento"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Mulou Féroxe",
+      "en": "Feroxxors Boowolf",
+      "es": "Mediulubo feRLZ",
+      "pt": "Milobo FeroXP"
+    },
+    "description": {
+      "fr": "Seul un Elu des Mérydes peut prétendre chevaucher cette imposante monture de Distance. Sa puissante musculature fait de lui une monture impressionnante.",
+      "en": "Only a Meridian Star can claim the right to ride this impressive Distance mount. Its rippling muscles cut an imposing figure.",
+      "es": "Solo un elegido de los santos puede aspirar a utilizar esta imponente montura de distancia. Su potencia muscular lo convierte en una montura impresionante.",
+      "pt": "Somente um Escolhido dos Meridas pode tentar cavalgar esta imponente montaria de Distância. Sua musculatura faz com ela seja uma montaria impressionante."
+    },
+    "definition": {
+      "item": {
+        "level": 35,
+        "id": 19724,
+        "graphicParameters": {
+          "gfxId": 61119556,
+          "femaleGfxId": 61119556
+        },
+        "baseParameters": {
+          "itemTypeId": 611,
+          "rarity": 4
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 170644,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                0,
+                0.8
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 170645,
+              "actionId": 400,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": []
+            },
+            "description": {
+              "fr": "+50% de vitesse de déplacement",
+              "en": "+50% movement speed",
+              "es": "+50% de velocidad de desplazamiento",
+              "pt": "+50% de velocidade de movimento"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Mulou Féroxe",
+      "en": "Feroxxors Boowolf",
+      "es": "Mediulubo feRLZ",
+      "pt": "Milobo FeroXP"
+    },
+    "description": {
+      "fr": "Seul un Elu des Mérydes peut prétendre chevaucher cette imposante monture de Mêlée. Sa puissante musculature fait de lui une monture impressionnante.",
+      "en": "Only a Meridian Star can claim the right to ride this impressive Melee mount. Its rippling muscles cut an imposing figure.",
+      "es": "Solo un elegido de los santos puede aspirar a utilizar esta imponente montura de melé. Su potencia muscular lo convierte en una montura impresionante.",
+      "pt": "Somente um Escolhido dos Meridas pode tentar cavalgar esta imponente montaria de Curta Distância. Sua musculatura faz com ela seja uma montaria impressionante."
+    },
+    "definition": {
+      "item": {
+        "level": 35,
+        "id": 19725,
+        "graphicParameters": {
+          "gfxId": 61119557,
+          "femaleGfxId": 61119557
+        },
+        "baseParameters": {
+          "itemTypeId": 611,
+          "rarity": 4
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 170646,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                0,
+                0.8
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 170647,
+              "actionId": 400,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": []
+            },
+            "description": {
+              "fr": "+50% de vitesse de déplacement",
+              "en": "+50% movement speed",
+              "es": "+50% de velocidad de desplazamiento",
+              "pt": "+50% de velocidade de movimento"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Mulou Féroxe",
+      "en": "Feroxxors Boowolf",
+      "es": "Mediulubo feRLZ",
+      "pt": "Milobo FeroXP"
+    },
+    "description": {
+      "fr": "Seul un Elu des Mérydes peut prétendre chevaucher cette imposante monture. Sa puissante musculature fait de lui une monture impressionnante.",
+      "en": "Only a Meridian Star can claim the right to ride this impressive mount. Its rippling muscles cut an imposing figure.",
+      "es": "Solo un elegido de los santos puede aspirar a utilizar esta imponente montura. Su potencia muscular lo convierte en una montura impresionante.",
+      "pt": "Somente um Escolhido dos Meridas pode tentar cavalgar esta imponente montaria. Sua musculatura faz com ela seja uma montaria impressionante."
+    },
+    "definition": {
+      "item": {
+        "level": 35,
+        "id": 19726,
+        "graphicParameters": {
+          "gfxId": 61119558,
+          "femaleGfxId": 61119558
+        },
+        "baseParameters": {
+          "itemTypeId": 611,
+          "rarity": 4
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 170648,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                0,
+                0.8
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 170649,
+              "actionId": 400,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": []
+            },
+            "description": {
+              "fr": "+50% de vitesse de déplacement",
+              "en": "+50% movement speed",
+              "es": "+50% de velocidad de desplazamiento",
+              "pt": "+50% de velocidade de movimento"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": {
+      "fr": "Cape des Eclaireurs d'Otomaï",
+      "en": "Otomai’s Scouts Cloak",
+      "es": "Capa de los exploradores de Otomai",
+      "pt": "Capa dos exploradores de Otomai"
+    },
+    "description": {
+      "fr": "Cette cape permet aux Eclaireurs d'Otomaï de se reconnaître entre eux lors des missions de reconnaissance.",
+      "en": "Otomai’s Scouts recognize one another by their cloaks when they’re out on reconnaissance missions.",
+      "es": "Esta capa permite a los exploradores de Otomai reconocerse entre ellos durante las misiones de reconocimiento.",
+      "pt": "Esta capa permite que os exploradores de Otomai se reconheçam durante as missões de reconhecimento."
+    },
+    "definition": {
+      "item": {
+        "level": 40,
+        "id": 20374,
+        "graphicParameters": {
+          "gfxId": 13220374,
+          "femaleGfxId": 13220374
+        },
+        "baseParameters": {
+          "itemTypeId": 132,
+          "rarity": 4
+        },
+        "useParameters": {
+          "useCostAp": 0,
+          "useCostMp": 0,
+          "useCostWp": 0,
+          "useRangeMin": 0,
+          "useRangeMax": 0,
+          "useTestFreeCell": false,
+          "useTestLos": false,
+          "useTestOnlyLine": false,
+          "useTestNoBorderCell": false,
+          "useWorldTarget": 0
+        }
+      },
+      "equipEffects": [
+        {
+          "effect": {
+            "definition": {
+              "id": 180410,
+              "actionId": 875,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 180411,
+              "actionId": 120,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                24,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 180408,
+              "actionId": 20,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                40,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 180409,
+              "actionId": 150,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                2,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 180412,
+              "actionId": 80,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                12,
+                0
+              ]
+            }
+          }
+        },
+        {
+          "effect": {
+            "definition": {
+              "id": 360590,
+              "actionId": 31,
+              "areaShape": 32767,
+              "areaSize": [],
+              "params": [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+]
