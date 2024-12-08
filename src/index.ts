@@ -23,13 +23,13 @@ const TYPES = [
 ] as const;
 
 // Define level ranges with their starting values
-const LEVEL_RANGES = [
+const LEVEL_RANGES_MAX = [
   6, 20, 35, 50, 65, 80, 95, 110, 125, 140, 155, 170, 185, 200, 215, 230,
 ];
 const RARYTY_RANGE = [0, 1, 2, 3, 4, 5, 6, 7, 8];
 function getLevelRangeEnd(level: number): number {
   // Find the appropriate range start for the given level
-  return LEVEL_RANGES.reduce((prev, curr) => (level >= curr ? curr : prev));
+  return LEVEL_RANGES_MAX.reduce((prev, curr) => (level >= curr ? curr : prev));
 }
 
 async function getVersion(): Promise<string> {
@@ -92,7 +92,7 @@ function groupAndFilterItems(
   };
 
   // Initialize empty arrays
-  LEVEL_RANGES.forEach((levelRangeEnd) => {
+  LEVEL_RANGES_MAX.forEach((levelRangeEnd) => {
     // for all level ranges
     groupedItems[levelRangeEnd] = [];
     RARYTY_RANGE.forEach((rarity) => {
@@ -105,6 +105,7 @@ function groupAndFilterItems(
     const level = item.definition.item.level;
     const rangeEnd = getLevelRangeEnd(level);
     const rarity = item.definition.item.baseParameters.rarity;
+    if (rarity > rangeEnd) console.error({ level, rangeEnd });
     groupedItems[rangeEnd][rarity].push(item);
   });
 
@@ -138,21 +139,20 @@ async function processAndSaveData(version: string): Promise<void> {
 
       // Save each level range to a separate file
       for (const [startLevel, itemsByRarity] of Object.entries(groupedItems)) {
-        const itemsLvlDir = path.join(itemsDir, startLevel);
-        await ensureDirectoryExists(itemsLvlDir);
+        const itemsLvlMaxDir = path.join(itemsDir, startLevel);
+        await ensureDirectoryExists(itemsLvlMaxDir);
+        await fs.writeFile(
+          path.join(itemsLvlMaxDir, `index.json`),
+          JSON.stringify(itemsByRarity, null, 2)
+        );
         for (const [rarity, items] of Object.entries(itemsByRarity)) {
-          const itemsRarityDir = path.join(itemsLvlDir, rarity);
+          const itemsRarityDir = path.join(itemsLvlMaxDir, rarity);
           // await ensureDirectoryExists(itemsRarityDir);
-          console.log(itemsRarityDir);
           await fs.writeFile(
-            path.join(itemsLvlDir, `${rarity}.json`),
+            path.join(itemsLvlMaxDir, `${rarity}.json`),
             JSON.stringify(items, null, 2)
           );
         }
-        // await fs.writeFile(
-        //   path.join(itemsLvlDir, `${startLevel}.json`),
-        //   JSON.stringify(itemsByRarity, null, 2)
-        // );
       }
     } else {
       // Save processed data (for now, same as raw data)
