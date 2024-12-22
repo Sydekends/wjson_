@@ -54,10 +54,9 @@ async function fetchData(version: string, type: DataType): Promise<any> {
   return response.data;
 }
 
-function groupAndFilterItems(
-  itemsWithTrash: GameItem[]
-): Record<number, Record<number, GameItem[]>> {
+function groupAndFilterItems(itemsWithTrash: GameItem[]): GameItem[] {
   const items = itemsWithTrash.map(
+    //take only usefull data
     ({
       title,
       description,
@@ -86,25 +85,8 @@ function groupAndFilterItems(
       },
     })
   );
-  const groupedItems: Record<number, Record<number, GameItem[]>> = {
-    110: {
-      4: [],
-    },
-  };
 
-  items.forEach((item) => {
-    // Group items by their level range
-    const level = item.definition.item.level;
-    const rangeEnd = getLevelRangeEnd(level);
-    const rarity = item.definition.item.baseParameters.rarity;
-    if (rarity > rangeEnd) console.error({ level, rangeEnd });
-    groupedItems[rangeEnd][rarity].push(item);
-    // groupedItems[rangeEnd][rarity].sort(
-    //   (a, b) => a.definition.item.level - b.definition.item.level
-    // );
-  });
-
-  return groupedItems;
+  return items;
 }
 
 async function processAndSaveData(version: string): Promise<void> {
@@ -113,29 +95,19 @@ async function processAndSaveData(version: string): Promise<void> {
 
   await ensureDirectoryExists(sourceDirPath);
   await ensureDirectoryExists(outputDirPath);
+  // Convert it all as csv
 
   for (const type of TYPES) {
     console.log(`Processing ${type}...`);
     const data = (await fetchData(version, type)) as GameItem[];
 
-    // Save raw data
-    await fs.writeFile(
-      path.join(sourceDirPath, `${type}.json`),
-      JSON.stringify(data, null, 2)
-    );
-
+    // Save raw data as CSV
     if (type === "items") {
     } else {
-      // Save processed data (for now, same as raw data)
-      await fs.writeFile(
-        path.join(outputDirPath, `${type}.json`),
-        JSON.stringify(data, null, 2)
-      );
     }
   }
 }
 
-// export type jsoned = { [key: string]: GameItem[] };
 async function main() {
   try {
     const version = await getVersion();
