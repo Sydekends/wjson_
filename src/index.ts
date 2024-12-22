@@ -92,15 +92,6 @@ function groupAndFilterItems(
     },
   };
 
-  // Initialize empty arrays
-  LEVEL_RANGES_MAX.forEach((levelRangeEnd) => {
-    // for all level ranges
-    groupedItems[levelRangeEnd] = [];
-    RARYTY_RANGE.forEach((rarity) => {
-      groupedItems[levelRangeEnd][rarity] = [];
-    });
-  });
-
   items.forEach((item) => {
     // Group items by their level range
     const level = item.definition.item.level;
@@ -134,44 +125,6 @@ async function processAndSaveData(version: string): Promise<void> {
     );
 
     if (type === "items") {
-      // Process items specially - group by level
-      const groupedItems = groupAndFilterItems(data);
-
-      // Create items subdirectory
-      const itemsDir = path.join(outputDirPath, "items");
-      await ensureDirectoryExists(itemsDir);
-
-      // Save each level range to a separate file
-      for (const [lvlrangeMax, itemsByRarity] of Object.entries(groupedItems)) {
-        const itemsLvlMaxDir = path.join(itemsDir, lvlrangeMax);
-        await ensureDirectoryExists(itemsLvlMaxDir);
-        const fusedItems = Object.entries(itemsByRarity).reduce(
-          (acc, [rarity, items]) =>
-            acc.concat(items).sort((a, b) => {
-              if (
-                a.definition.item.baseParameters.rarity !==
-                b.definition.item.baseParameters.rarity
-              ) {
-                return (
-                  b.definition.item.baseParameters.rarity -
-                  a.definition.item.baseParameters.rarity
-                );
-              }
-              return b.definition.item.level - a.definition.item.level;
-            }),
-          [] as GameItem[]
-        );
-        await fs.writeFile(
-          path.join(itemsLvlMaxDir, `index.json`),
-          JSON.stringify(fusedItems, null, 2)
-        );
-        for (const [rarity, items] of Object.entries(itemsByRarity)) {
-          await fs.writeFile(
-            path.join(itemsLvlMaxDir, `${rarity}.json`),
-            JSON.stringify(items, null, 2)
-          );
-        }
-      }
     } else {
       // Save processed data (for now, same as raw data)
       await fs.writeFile(
@@ -182,7 +135,7 @@ async function processAndSaveData(version: string): Promise<void> {
   }
 }
 
-export type jsoned = { [key: string]: GameItem[] };
+// export type jsoned = { [key: string]: GameItem[] };
 async function main() {
   try {
     const version = await getVersion();
