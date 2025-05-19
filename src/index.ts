@@ -1,7 +1,8 @@
 import axios from "axios";
 import fs from "fs/promises";
 import path from "path";
-import { DataType, GameItem } from "./types";
+import { Parser } from "json2csv";
+import { DataType, GameItem, ProcessedItem } from "./types";
 
 const TYPES = [
   "actions",
@@ -24,7 +25,7 @@ const TYPES = [
 
 // Define level ranges with their starting values
 const LEVEL_RANGES_MAX = [
-  6, 20, 35, 50, 65, 80, 95, 110, 125, 140, 155, 170, 185, 200, 215, 230,
+  5, 20, 35, 50, 65, 80, 95, 110, 125, 140, 155, 170, 185, 200, 215, 230, 245,
 ];
 const RARYTY_RANGE = [0, 1, 2, 3, 4, 5, 6, 7, 8];
 function getLevelRangeEnd(level: number): number {
@@ -34,6 +35,7 @@ function getLevelRangeEnd(level: number): number {
 }
 
 async function getVersion(): Promise<string> {
+  //1.87.2.36
   const response = await axios.get(
     "https://wakfu.cdn.ankama.com/gamedata/config.json"
   );
@@ -54,8 +56,8 @@ async function fetchData(version: string, type: DataType): Promise<any> {
   return response.data;
 }
 
-function groupAndFilterItems(itemsWithTrash: GameItem[]): GameItem[] {
-  const items = itemsWithTrash.map(
+function groupAndFilterItems(itemsWithTrash: GameItem[]): ProcessedItem[] {
+  const items: ProcessedItem[] = itemsWithTrash.map(
     //take only usefull data
     ({
       title,
@@ -64,25 +66,34 @@ function groupAndFilterItems(itemsWithTrash: GameItem[]): GameItem[] {
         item: {
           level,
           id,
-          graphicParameters,
+          graphicParameters: { gfxId },
           baseParameters: { itemTypeId, rarity },
-          useParameters,
+          // useParameters,
         },
         equipEffects,
       },
     }) => ({
+      id,
       title,
+      level,
+      item_type_id: itemTypeId,
+      rarity,
+      graphic_id: gfxId,
+      equip_effects: [
+        ...equipEffects?.map(
+          ({
+            effect: {
+              definition: { actionId, id, params },
+            },
+          }) => ({
+            id,
+            params,
+            action_id: actionId,
+          })
+        ),
+      ],
+      // use_parameters: useParameters,
       description,
-      definition: {
-        item: {
-          level,
-          id,
-          graphicParameters,
-          baseParameters: { itemTypeId, rarity },
-          useParameters,
-        },
-        equipEffects,
-      },
     })
   );
 
@@ -100,9 +111,13 @@ async function processAndSaveData(version: string): Promise<void> {
   for (const type of TYPES) {
     console.log(`Processing ${type}...`);
     const data = (await fetchData(version, type)) as GameItem[];
-
     // Save raw data as CSV
     if (type === "items") {
+      const processedData = groupAndFilterItems(data);
+      await fs.writeFile(
+        path.join(outputDirPath, `${type}.json`),
+        JSON.stringify(processedData, null, 2)
+      );
     } else {
     }
   }

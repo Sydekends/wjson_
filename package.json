@@ -13,12 +13,19 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@libsql/client": "^0.15.5",
     "@types/node": "^22.9.3",
     "axios": "^1.7.7",
+    "dotenv": "^16.5.0",
+    "drizzle-orm": "^0.43.1",
+    "json2csv": "6.0.0-alpha.2",
     "typescript": "^5.7.2"
   },
   "devDependencies": {
+    "@types/json2csv": "^5.0.7",
+    "drizzle-kit": "^0.31.1",
     "ts-node": "^10.9.2",
-    "ts-node-dev": "^2.0.0"
+    "ts-node-dev": "^2.0.0",
+    "tsx": "^4.19.4"
   }
 }

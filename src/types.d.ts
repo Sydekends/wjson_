@@ -44,9 +44,26 @@ type gameDataTypeItemEquipEffects = {
       id: number;
       actionId: number;
       areaShape: number;
-      areaSize: any[];
+      // areaSize: any[];
       params: number[];
     };
   };
 };
 export type DataType = (typeof TYPES)[number];
+
+export interface ProcessedItem {
+  id: number;
+  title: Record<WakfuLanguage, string>;
+  description?: Record<WakfuLanguage, string>;
+  level: number;
+  item_type_id: number;
+  rarity: number;
+  graphic_id: number;
+  equip_effects?: ProcessedItemEquipEffects[];
+}
+
+export type ProcessedItemEquipEffects = {
+  id: number;
+  action_id: number;
+  params: number[];
+};
